@@ -35,3 +35,17 @@ TÉCNICO EM INFORMÁTICA
         Lei 13.709/18 - Lei Geral de Proteção de Dados. 
         
     Ética profissional.
+
+EDITAL ORIGINAL:
+
+TÉCNICO EM INFORMÁTICA
+Fundamentos de Informática. Sistema de Informação. Sistemas Operacionais (WINDOWS e LINUX). Sistemas de
+arquivos. Dispositivos de armazenamento. Periféricos de computadores. Linguagem de Programação. Técnicas
+de Programação. Programação Orientada a Objeto. Análise de Sistemas. Fundamentos e implementação de
+Banco de Dados. Informática para a Internet. Linguagem de programação para WEB. Web design. Fundamentos
+e implementação de Rede de Computadores. Rede Estrutural Cabeada e Wireless. Teleprocessamento.
+Manutenção de Computadores. Manutenção de redes de computadores. Internet, intranet e Extranet. Técnicas e
+políticas de backups. Armazenamento de dados na nuvem (cloud storag). Segurança da informação. Combate a
+códigos maliciosos: vírus e outros malware. Criptografia. Análise/Avaliação e tratamento dos riscos, política de
+segurança da informação, gestão de ativos, segurança física e do ambiente, gerenciamento das operações e
+comunicações. Lei 13.709/18 - Lei Geral de Proteção de Dados. Ética profissional. 
