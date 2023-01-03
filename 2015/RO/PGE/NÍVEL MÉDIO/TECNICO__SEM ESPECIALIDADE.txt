@@ -1,0 +1,220 @@
+TÉCNICO SEM ESPECIALIDADE:
+Noções de Direito Administrativo:
+    Noções de organização administrativa.
+    Administração direta e indireta,
+    centralizada e descentralizada.
+
+    Ato administrativo:
+        conceito,
+        requisitos,
+        atributos,
+        classificação e espécies.
+
+    Agentes públicos:
+        espécies e classificação;
+        cargo, emprego e função públicos.
+
+    Poderes administrativos:
+        hierárquico,
+        disciplinar,
+        regulamentar e de polícia.
+        Uso e abuso do poder.
+
+    Licitação.
+        Princípios,
+        dispensa e
+        inexigibilidade.
+
+    Modalidades.
+        Controle e responsabilização da administração.
+        Controles administrativo, judicial e legislativo.
+        Responsabilidade civil do Estado.
+
+Noções de Direito Constitucional:
+    Direitos e garantias fundamentais:
+        direitos e deveres individuais e coletivos,
+        direitos sociais,
+        nacionalidade,
+        cidadania,
+        direitos
+        políticos.
+
+    Administração pública:
+        disposições gerais,
+        servidores públicos.
+
+    Poder Judiciário:
+        Disposições gerais.
+
+    Funções essenciais à Justiça:
+        defensoria pública.
+
+Noções de Direito Civil:
+    Lei de introdução às normas do Direito brasileiro:
+        vigência,
+        aplicação,
+        interpretação e integração das leis,
+        conflito das leis no tempo,
+        eficácia da lei no espaço.
+
+    Prescrição:
+        disposições gerais.
+        Decadência.
+
+Noções de Direito Processual Civil:
+    Partes e procuradores:
+        capacidade processual,
+        deveres das partes e dos seus procuradores,
+        procuradores.
+
+    Atos processuais.
+    Processo e procedimento:
+        disposições gerais.
+
+    Procedimento ordinário:
+        petição inicial,
+        resposta do réu,
+        revelia.
+        Juizados especiais cíveis e criminais.
+
+Noções de Direito Processual Penal:
+    Inquérito
+    policial.
+    Ação penal.
+    Juiz,
+    Ministério Público,
+    acusado e defensor.
+    Citações,
+    intimações e
+    notificações.
+
+MATEMÁTICA –
+
+Lógica:
+    proposições,
+    valor-verdade,
+    negação,
+    conjunção,
+    disjunção,
+    implicação,
+    equivalência,
+    proposições compostas. Equivalências lógicas.
+
+Problemas de raciocínio:
+    deduzir informações
+    de relações arbitrárias entre objetos,
+    lugares,
+    pessoas e/ou eventos fictícios dados. Conjuntos e suas
+    operações. Números naturais,
+    inteiros,
+    racionais,
+    reais e suas operações. Representação na reta.
+
+Unidades de medida:
+    distância,
+    área,
+    volume,
+    massa e tempo.
+
+Álgebra básica:
+    equações,
+    sistemas e problemas do
+    primeiro grau. Porcentagem,
+    proporcionalidade direta e inversa,
+    regras de três,
+    juros simples e compostos.
+    Sequências e reconhecimento de padrões. Princípios de contagem e noção de probabilidade.
+
+Tratamento da informação:
+
+    noções básicas de estatística,
+    tabelas e gráficos.
+
+NOÇÕES DE INFORMÁTICA –
+
+    Componentes de um computador:
+        processadores,
+        memória e
+        periféricos mais comuns;
+        dispositivos de armazenagem de dados;
+        propriedades e características.
+
+    Arquivos digitais:
+        documentos,
+        planilhas,
+        imagens,
+        sons,
+        vídeos;
+        principais padrões e características.
+        Arquivos PDF.
+
+    Sistema operacional Windows 7 e 8:
+        manipulação de janelas,
+        programas e arquivos;
+        principais utilitários;
+        telas de controle e menus típicos;
+        mecanismos de ajuda;
+        mecanismos de busca.
+
+    Processadores de texto:
+        formatação,
+        configuração de páginas,
+        impressão,
+        títulos,
+        fontes,
+        tabelas,
+        corretores ortográficos,
+        manipulação de figuras,
+        cabeçalhos,
+        rodapés,
+        anotações e
+        outras funcionalidades de formatação.
+        Manipulação de arquivos:
+            leitura e gravação;
+            uso de senhas para proteção.
+            Formatos para gravação.
+            Impressão.
+
+    Planilhas:
+        criação,
+        manipulação de dados,
+        fórmulas,
+        cópia e
+        recorte de dados,
+        formatação de dados e outras funcionalidades para operação.
+        Manipulação de arquivos:
+            leitura e gravação.
+            Recursos para impressão.
+
+    Pacote Suite LibreOffice 4.2 ou superior.
+    MS Word 2010 BR ou superior.
+    MS Excel 2010 BR ou superior.
+
+    Internet:
+        conceitos gerais e funcionamento.
+        Endereçamento de recursos.
+
+        Navegação segura:
+            cuidados no uso da Internet;
+            ameaças;
+            uso de senhas e criptografia;
+            senhas fracas e fortes.
+            Navegadores (browsers) e suas principais funções.
+            Sites e links;
+            buscas;
+            salvar páginas.
+
+        Email:
+            utilização,
+            caixas de entrada,
+            endereços,
+            cópias e outras funcionalidades.
+            Webmail.
+
+        Transferência de arquivos e dados:
+            upload,
+            download,
+            banda,
+            velocidades de transmissão.
+
+        Google Chrome.
