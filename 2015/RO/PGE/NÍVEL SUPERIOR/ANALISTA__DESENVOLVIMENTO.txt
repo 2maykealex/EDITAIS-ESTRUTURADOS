@@ -19,29 +19,32 @@ Conhecimentos de:
     XML e
     XML schema.
 
-Modelagem de dados, conceitual e semântica:
-    Modelo de entidades e relacionamentos.
-    Notação IDEF1X.
-Projeto de bancos de dados: teoria.
-Projetos lógico e físico.
-Dependências funcionais.
-normalização.
-Operações.
-Linguagem SQL.
-Consultas e subconsultas.
-Comandos de manipulação de dados.
-Outros comandos para manipulação (DML),
-controle (DCL) e
-descrição de dados (DDL).
+Banco de Dados:
+    Modelagem de dados, conceitual e semântica:
+        Modelo de entidades e relacionamentos.
+        Notação IDEF1X.
 
-Segurança em bancos de dados.
-Distribuição de dados e transações.
-Interfaces de utilização:
-    principais propriedades e
-    características das bibliotecas e
-    componentes mais difundidos.
+    Projeto de bancos de dados:
+        teoria.
+        Projetos lógico e físico.
+        Dependências funcionais.
+        normalização.
+        Operações.
+        Linguagem SQL.
+        Consultas e subconsultas.
+        Comandos de manipulação de dados.
+        Outros comandos para manipulação (DML),
+        controle (DCL) e
+        descrição de dados (DDL).
 
-Conhecimentos de Oracle 11g ou superior, MySQL 5.x.
+    Segurança em bancos de dados.
+    Distribuição de dados e transações.
+    Interfaces de utilização:
+        principais propriedades e
+        características das bibliotecas e
+        componentes mais difundidos.
+
+    Conhecimentos de Oracle 11g ou superior, MySQL 5.x.
 
 Sistemas operacionais:
     funções básicas;
