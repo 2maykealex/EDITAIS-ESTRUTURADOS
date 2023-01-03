@@ -1,0 +1,83 @@
+TÉCNICO EM TECNOLOGIA DA INFORMAÇÃO:
+Noções básicas de arquitetura de computadores:
+    barramento,
+    processador,
+    mem6ria,
+    E/S.
+
+Noções básicas de sistemas operacionais:
+    gerencia de memória,
+    sistema de E/S,
+    sistemas de arquivos.
+    Conceitos básicos sobre desenvolvimento e manutenção de sistemas e aplicações.
+
+Administração de sistemas Windows e Unix/Linux:
+    instalação de sistemas operacionais,
+    particionamento de disco,
+    dual boot,
+
+    Comandos básicos Windows e Unix/Linux
+    Gerenciamento de usuários,
+    contas e grupos de usuários,
+    instalação de software,
+    atualizações e manutenção do sistema,
+    configuração em rede,
+    ferramentas administrativas,
+    maquinas virtuais,
+    software livre,
+    código aberto.
+
+Ambiente Microsoft Office e LibreOffice
+    Edição de textos,
+    planilhas e
+    apresentações
+
+Noções de Virtualização de servidores;
+
+Redes de computadores:
+    acesso remoto,
+    topologia de redes,
+    equipamentos de interconexão (hubs,
+                                  switches,
+                                  roteadores,
+                                  pontos de acesso wireless),
+
+    cabeamento estruturado.
+    Protocolo NetBios,
+    protocolo TCP/IP,
+    configuração de redes IP,
+    princípios básicos de roteamento,
+    CIDR,
+    redes wireless 80211a1b/g/n,
+    NAT,
+    VLANs.
+
+Serviços para Internet e instalação nas plataformas Windows e Linux:
+
+Videoconferência,
+VoIP e
+demais serviços convergentes.
+
+Segurança de sistemas:
+    autenticação e autorização,
+    firewalls,
+    IPTables,
+    antivírus,
+    IDS,
+    malwares,
+    VPN,
+    certificados digitais,
+    chaves pública e privadas,
+    protocolos seguros.
+    Melhores práticas e
+    técnicas de segurança e
+    procedimentos de backup.
+
+Programação:
+    Lógica de programação.
+    Noções de linguagens de programação.
+    Conhecimentos de PHP e Python.
+
+Noções básicas de Banco de Dados MySQL 5.x e Oracle 11g ou superior:
+    administração,
+    SQL e manutenção.
