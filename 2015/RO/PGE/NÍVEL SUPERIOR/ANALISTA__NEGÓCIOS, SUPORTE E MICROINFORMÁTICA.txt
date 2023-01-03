@@ -1,0 +1,152 @@
+ANALISTA DE SISTEMAS (NEGÓCIOS, SUPORTE E MICROINFORMÁTICA)
+
+Computadores:
+    arquitetura de computadores;
+    componentes de um computador (hardware e software).
+    Linguagens de programação;
+    compiladores e interpretadores;
+    sistemas de numeração e
+    representação de dados numéricos, textuais e estruturados;
+    aritmética computacional.
+
+Sistemas operacionais:
+    funções básicas;
+    sistemas de arquivos e gerenciamento de memória.
+
+Orientação a objetos:
+    classes e objetos;
+    herança e polimorfismo;
+    encapsulamento.
+
+Conhecimentos de HTML, XML (e seus derivativos).
+
+Redes de computadores e sistemas distribuídos:
+    arquiteturas de rede;
+    topologias;
+    tecnologias de rede LAN, WAN e wireless;
+    equipamentos de conexão e transmissão;
+    QOS;
+    modelo OSI da ISO;
+    arquitetura e protocolos
+    TCP/IP:
+        nível de aplicação TCP/IP:
+            DNS, FTP, NFS, TELNET, SMTP, HTTP, LDAP, DHCP, IPSEC, SSH, SNMP e NAT;
+
+        noções básicas de IPv6;
+
+    conceitos de storage (NAS e SAN).
+
+Segurança em redes de computadores:
+    prevenção e tratamento de incidentes;
+    dispositivos de segurança:
+        firewalls, IDS, IPS, proxies, NAT e VPN;
+
+    tipos de ataques:
+        spoofing, flood, DoS, DDoS, phishing;
+
+    malwares:
+        vírus de computador, cavalo de Troia,
+
+    adware, spyware, backdoors, keylogger, worms.
+
+    Criptografia:
+        conceitos básicos e aplicações;
+        protocolos criptográficos;
+        criptografia simétrica e assimétrica;
+        principais algoritmos;
+        assinatura e certificação digital.
+
+Serviços de rede:
+    serviços de nomes (BIND e Windows DNS Server);
+    Serviços de diretório:
+    Active Directory e LDAP.
+
+Ambientes operacionais:
+    Microsoft Windows 2008, 2012, 8 e Linux.
+
+    Linguagens de controle:
+        Conceitos, estruturas, utilitários, comandos, configuração e implementação.
+        Administração e configuração de grupos, usuários, direitos de acesso, domínios, relações entre os componentes.
+
+    Sistemas de arquivos:
+        FAT e variações, NTFS. Permissões de acesso (ACL). Gerenciamento lógico de volumes (LVM). Conceitos,
+        estruturas, definição, alocação, organização de arquivos, proteção, tipos de registros, métodos de acesso. ;
+        interoperabilidade.
+
+    Virtualização:
+        Conceitos, técnicas e práticas.
+        VMware, Hyper-V.
+
+    Servidores de páginas (Apache e IIS).
+    Servidores de correio eletrônico.
+    Servidores de aplicação Java Platform, Enterprise Edition (JEE).
+    Servidores DHCP.
+
+    Tecnologias e arquitetura de Datacenter:
+        conceitos básicos;
+        serviços de armazenagem,
+        padrões de disco e de interfaces
+
+        RAID:
+            tecnologias de armazenagem DAS, NAS e SAN;
+            tecnologias de backup; deduplicação;
+
+        ILM Information Lifecycle Management.
+
+Boas práticas de TI:
+    fundamentos de ITIL v3.
+    Fundamentos de CobIT 4.1.
+
+Sistemas gerenciadores de bancos de dados:
+    Linguagem SQL.
+    Comandos para manipulação (DML),
+    controle (DCL) e
+    descrição de dados (DDL).
+
+Transações:
+    conceito, propriedades e implementação.
+    Processamento e otimização de consultas.
+    Recuperação e concorrência.
+    Segurança em bancos de dados.
+    Administração de bancos de dados.
+    Conhecimentos de Oracle 11g ou posterior, MySQL 5.x.
+
+Engenharia de software.
+    Ciclo de vida do software.
+    Metodologias de desenvolvimento de software.
+
+    Processo unificado:
+        disciplinas, fases, papéis e atividades.
+
+    Metodologias ágeis.
+    Métricas e estimativas de software.
+    Qualidade de software.
+
+    Engenharia de requisitos.
+        Conceitos básicos.
+        Técnicas de elicitação de requisitos.
+        Gerenciamento de requisitos.
+        Especificação de requisitos.
+        Técnicas de validação de requisitos.
+
+    Prototipação.
+    Engenharia de usabilidade.
+        Conceitos básicos e aplicações.
+        Critérios, recomendações e guias de estilo.
+        Análise de requisitos de usabilidade.
+        Métodos para avaliação de usabilidade.
+
+    Análise e projeto orientados a objetos.
+        UML:
+            visão geral, modelos e diagramas.
+
+        Interoperabilidade de sistemas:
+            SOA e Web Services;
+            padrões XML, XSLT, UDDI, WSDL e Soap.
+
+Noções de programação:
+    Python, PHP, Java Script. –
+
+
+
+
