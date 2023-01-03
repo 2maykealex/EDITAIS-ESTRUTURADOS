@@ -1,5 +1,4 @@
 ANALISTA DE SISTEMAS (NEGÓCIOS, SUPORTE E MICROINFORMÁTICA)
-
 Computadores:
     arquitetura de computadores;
     componentes de um computador (hardware e software).
