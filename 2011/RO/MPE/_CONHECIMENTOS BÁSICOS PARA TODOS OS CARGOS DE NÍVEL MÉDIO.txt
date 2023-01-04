@@ -1,0 +1,135 @@
+CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS DE NÍVEL MÉDIO E SUPERIOR
+
+NOÇÕES DE INFORMÁTICA (EXCETO PARA TÉCNICO EM INFORMÁTICA)
+
+    Ambiente operacional Windows (95/98/ME/2000/XP).
+        Fundamentos do Windows,
+        operações com janelas,
+        menus,
+        barra de tarefas,
+        área de trabalho,
+        trabalho com pastas e arquivos,
+        localização de arquivos e pastas,
+        movimentação e cópia de arquivos,
+        pastas,
+        criação e exclusão de arquivos e pastas,
+        compartilhamentos e áreas de transferência;
+
+        Configurações básicas do Windows:
+            resolução da tela,
+            cores,
+            fontes,
+            impressoras,
+            aparência,
+            segundo plano e protetor de tela;
+            Windows Explorer.
+
+    Ambiente Intranet e Internet.
+        Conceito básico de Internet e Intranet e utilização de tecnologias,
+        ferramentas e aplicativos associados à Internet.
+        Principais navegadores.
+        Ferramentas de busca e pesquisa.
+
+    Processador de textos. MS Office 2003/2007/XP - Word/BR-Office-Writer:
+        Conceitos básicos.
+        Criação de documentos.
+        Abrir e salvar documentos.
+        Digitação.
+        Edição de textos.
+        Estilos.
+        Formatação.
+        Tabelas e tabulações.
+        Cabeçalho e rodapé.
+        Configuração de página.
+        Corretor ortográfico.
+        Impressão.
+        Ícones.
+        Atalhos de teclado.
+        Uso dos recursos.
+
+    Planilha Eletrônica. MS Office 2003/2007/XP - Excel/ BR-Office­Calc.:
+        Conceitos básicos.
+        Criação de documentos.
+        Abrir e Salvar documentos.
+        Estilos.
+        Formatação.
+        Fórmulas e funções.
+        Gráficos.
+        Corretor ortográfico.
+        Impressão.
+        Ícones.
+        Atalhos de teclado.
+        Uso dos recursos.
+        Correio eletrônico.
+        Conceitos básicos.
+        Formatos de mensagens.
+        Transmissão e recepção de mensagens.
+        Catálogo de endereços.
+        Arquivos anexados.
+        Uso dos recursos.
+        Ícones.
+        Atalhos de teclado.
+
+    Segurança da Informação.
+    Cuidados relativos à segurança e sistemas antivírus.
+
+GEOGRAFIA E HISTÓRIA DE RONDÔNIA:
+    A formação do estado de Rondônia.
+    Povoamento da Bacia Amazônica:
+        período colonial.
+
+    Capitania de Mato Grosso.
+    Principais ciclos econômicos.
+    Projetos de colonização.
+    Tratados e limites.
+    Antecedentes da criação do estado.
+    Primeiros núcleos urbanos.
+    Criação dos municípios.
+    Evolução político administrativa.
+    Desenvolvimento econômico.
+    Transportes rodoviário, ferroviário, marítimo e aéreo.
+    População.
+    Movimentos migratórios.
+    Processo de urbanização.
+    Questão indígena.
+    Desenvolvimento sustentável.
+    Relevo.
+    Vegetação.
+    Desmatamento.
+    Hidrografia.
+    Aspectos econômicos.Meso e micro regiões.
+    Problemas ecológicos.
+
+NOÇÕES DE ADMINISTRAÇÃO PÚBLICA:
+
+    Constituição Federal de 1988,
+        Títulos I e II,
+        artigos 12 ao 16,
+
+        Capítulo VII:
+            artigo n.º 37 a 41.
+
+    Constituição do Estado de Rondônia:
+        Título I - capítulo III - seção III:
+            dos servidores públicos civis;
+
+        Título VI - capítulo II:
+            da ordem social.
+
+    Lei Complementar Estadual n2 68/92 - Estatuto dos Servidores Públicos do Estado de Rondônia (Títulos I e II);
+
+    Lei Complementar n2 304/2004:
+        Dispõe sobre a modificação e a reorganização do Quadro Administrativo do Ministério Público do Estado de Rondônia e dá outras providências (
+            Título I e II,
+            capítulos I, II e III).
+
+    Lei Complementar n2 93, de 03 de novembro de 1993:
+        Dispõe sobre a Lei Orgânica do Ministério Público do Estado de Rondônia
+            (Título I, II e III).
+
+    Excelência nos serviços públicos.
+    Gestão de resultados na produção de serviços públicos.
+    O paradigma do cliente na gestão pública.
+    As trajetórias de conceitos e práticas relativas ao servidor público.
+    Ética, organização e cidadania.
+    Comunicação na gestão pública.

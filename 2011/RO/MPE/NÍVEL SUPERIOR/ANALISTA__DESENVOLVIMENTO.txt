@@ -1,0 +1,190 @@
+ANALISTA DE SISTEMAS (DESENVOLVIMENTO):
+Organização básica de computadores:
+    Componentes de um computador (hardware e software).
+    Linguagens de programação,
+    compiladores e
+    interpretadores;
+    sistemas de numeração e
+    representação de dados numéricos, textuais e estruturados;
+    aritmética computacional.
+
+Noções de:
+    C,
+    Java,
+    PHP,
+    Python
+
+Conhecimentos de:
+    HTML,
+    XML e
+    XML schema.
+
+Banco de Dados:
+    Modelagem de dados, conceitual e semântica:
+        Modelo de entidades e relacionamentos.
+        Notação IDEF1X.
+
+    Projeto de bancos de dados:
+        teoria.
+        Projetos lógico e físico.
+        Dependências funcionais.
+        normalização.
+        Operações.
+        Linguagem SQL.
+        Consultas e subconsultas.
+        Comandos de manipulação de dados.
+        Outros comandos para manipulação (DML),
+        controle (DCL) e
+        descrição de dados (DDL).
+
+    Segurança em bancos de dados.
+    Distribuição de dados e transações.
+    Interfaces de utilização:
+        principais propriedades e
+        características das bibliotecas e
+        componentes mais difundidos.
+
+    Conhecimentos de Oracle 11g ou superior, MySQL 5.x.
+
+Sistemas operacionais:
+    funções básicas;
+    sistemas de arquivos e
+    gerenciamento de memória.
+    Windows e Linux: Comandos e funcionamento.
+
+Servidores Web.
+Redes de computadores:
+    fundamentos de comunicação de dados;
+    meios físicos;
+    serviços de comunicação;
+    redes locais e
+    redes geograficamente distribuídas;
+    TCP/IP;
+    protocolos e serviços.
+    Segurança em redes de
+    computadores:
+        prevenção e tratamento de incidentes;
+        dispositivos de segurança:
+        firewalls,
+        IDS, IPS,
+        proxies, NAT e
+        VPN;
+    Ataques:
+        tipos de ataque e prevenção.
+
+Criptografia:
+    Conceitos básicos e
+    aplicações.
+
+Análise e projeto orientados a objetos.
+    UML:
+        visão geral,
+        modelos e
+        diagramas.
+
+Padrões de projeto.
+
+Engenharia de software.
+    Ciclo de vida do software.
+    Metodologias de desenvolvimento de software.
+    Processo unificado:
+        disciplinas, fases, papeis e atividades.
+    Metodologias ágeis.
+    Métricas e estimativas de software.
+    Engenharia de requisitos.
+    Conceitos básicos.
+    Técnicas de elicitação de requisitos.
+    Gerenciamento de requisitos.
+    Especificação de requisitos.
+    Técnicas de validação de requisitos.
+
+PMBOK 5ª edição:
+    conceitos básicos, estrutura e objetivos;
+    projetos e a organização,
+    ciclo de vida de projeto e de produto, processos,
+    grupos de processo e áreas de conhecimento.
+
+Gestão de Segurança da Informação – Norma ISO 27001.
+    Prototipação.
+    Arquitetura Orientada a Serviços (SOA - Service Oriented Architecture)
+
+LEGISLAÇÃO INSTITUCIONAL
+    Lei Complementar nº 620, de 20 de junho de 2011, e suas alterações.
+
+LÍNGUA PORTUGUESA:
+    Elementos de construção do texto e seu sentido:
+        gênero do texto (literário e
+                         não literário,
+                         narrativo,
+                         descritivo e
+                         argumentativo);
+        interpretação e
+        organização interna.
+
+    Semântica:
+        sentido e emprego dos vocábulos;
+        campos semânticos;
+        emprego de tempos e modos dos verbos em português.
+
+    Morfologia:
+        reconhecimento, emprego e sentido das classes gramaticais;
+        processos de formação de palavras;
+        mecanismos de flexão dos nomes e verbos.
+
+    Sintaxe:
+        frase, oração e período;
+        termos da oração;
+        processos de coordenação e subordinação;
+        concordância nominal e verbal;
+        transitividade e regência de nomes e verbos;
+
+    padrões gerais de colocação pronominal no português;
+    mecanismos de coesão textual.
+
+    Ortografia:
+        Acentuação gráfica.
+        Emprego do sinal indicativo de crase.
+        Pontuação.
+
+    Estilística:
+        figuras de linguagem.
+
+    Reescrita de frases:
+        substituição, deslocamento, paralelismo;
+
+    variação linguística:
+        norma culta.
+
+    Observação:
+        os itens deste programa serão considerados sob o ponto de vista textual, ou seja, deverão ser
+    estudados sob o ponto de vista de sua participação na estruturação significativa dos textos.
+
+GEOGRAFIA E HISTÓRIA DE RONDÔNIA
+
+    Geografia do Estado de Rondônia:
+        Aspectos gerais;
+        Limites;
+        Evolução político‐administrativa e econômica;
+        A bacia hidrográfica do rio Amazonas, suas características e potencialidades;
+        O domínio geomorfológico, o ecossistema e as questões ambientais na Amazônia brasileira;
+        Geodiversidade do Estado de Rondônia;
+        A formação do espaço e a dinâmica econômica e socioespacial no urbano e no rural;
+        As políticas territoriais nacionais e os programas de desenvolvimento regional;
+        Zoneamento socioeconômico e ecológico;
+        A geopolítica amazônica e a integração do estado a nível nacional e internacional;
+        Atributos socioculturais e a identidade amazônica.
+
+    História do Estado de Rondônia:
+        Exploração e conquista do Vale do Amazonas no século XVII;
+        Jesuítas e Bandeirantes na Amazônia;
+        Ocupação e mercantilismo nos Vales do Madeira e do Guaporé;
+        Submissão do indígena e resistência escrava;
+        Navegação no Rio Madeira;
+        Abertura do Rio Amazonas à navegação internacional;
+        Exploração e colonização do oeste da Amazônia;
+        Os ciclos da borracha;
+        Mão de obra para os seringais do Alto Madeira;
+        A questão acreana;
+        A construção da estrada de ferro Madeira‐Mamoré;
+        Do território federal do Guaporé à criação do Estado de Rondônia;
+        As políticas federais para o estado ao longo do século XX.

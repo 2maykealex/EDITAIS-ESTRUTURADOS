@@ -1,0 +1,147 @@
+TÉCNICO EM INFORMÁTICA
+
+    Memória do computador:
+        utilização;
+        bit,
+        bytes e palavras;
+        tamanho e posições da memória;
+        memórias internas e auxiliares;
+        programas em memória ROM;
+        memória virtual;
+        cache de memória e tempo de acesso e ciclo de memória.
+
+    Unidade Central de Processamento:
+        execução das instruções;
+        velocidade de processamento;
+        registradores;
+        clock;
+        barramentos;
+        microcomputadores;
+        sistemas operacionais em microcomputadores;
+        instalação de microcomputadores. Unidades de entrada/saída e periféricos:
+        introdução,
+        tipos de dispositivos de entrada,
+        tipos de dispositivo de saída e dispositivos de entrada/saída.
+
+    Sistemas operacionais e linguagens de programação:
+        apresentação e conceitos fundamentais;
+        a evolução dos computadores;
+        o software;
+        as linguagens de programação;
+        linguagens da WEB;
+        programas compilados e programas interpretados;
+        ferramentas do escritório moderno;
+        linguagens orientadas a objeto.
+
+    Organização da Informação:
+        arquivos e registros;
+        organização dos arquivos;
+        procedimentos nos diversos arquivos;
+        bancos de dados e bancos de dados orientados a objetos.
+
+    Funcionamento do Computador:
+        o suporte do processamento;
+        a carga do sistema;
+        os programas;
+        instruções;
+        multiprogramação e multiprocessamento;
+        conceitos básicos em relação à configuração de setup e montagem do microcomputador.
+
+    Introdução à Lógica de Programação:
+        algoritmos,
+        tipos de lógica,
+        instrumentos da lógica de programação,
+        fluxogramas,
+        lógica estruturada,
+        árvores e tabelas de decisão.
+
+    Concepção e programação:
+        conceitos,
+        construção de algoritmos,
+        procedimentos,
+        funções,
+        bibliotecas e estruturas de dados.
+        Programação orientada a objetos.
+
+        Linguagens de programação (Delphi, Visual Basic, Java, C++, ASP, PHP, AJAX, HTML, XML):
+            conceitos.
+
+    Manutenção preventiva e corretiva em terminais de computadores.
+
+    Redes locais e teleprocessamento:
+        redes de comunicação de dados,
+        meios de comunicação,
+
+        Internet (
+            definição,
+            funcionamento,
+            serviços e
+            protocolos);
+
+        elementos de uma rede;
+        conectividade;
+        utilização de microcomputador em rede;
+        estruturas de rede (topologia);
+        padrões e interfaces;
+        conceituação de redes locais;
+        arquiteturas e topologias de redes.
+        Modelo físico;
+        sistemas operacionais de rede,
+        protocolos e
+        segurança nas redes.
+
+        Principais componentes:
+            hubs,
+            "switches",
+            pontes,
+            amplificadores,
+            repetidores e gateways.
+
+        Meios físicos de transmissão:
+            par trançado,
+            cabo coaxial,
+            fibra ótica,
+            wireless,
+            outros meios de transmissão,
+            ligação ao meio,
+            ligações ponto a ponto,
+            ligações multiponto,
+            ligações em rede de fibra ótica.
+
+    Sistemas operacionais de rede:
+        servidores de aplicações,
+        servidores de arquivos e sistemas de arquivos,
+        discos e partições.
+        Sistemas operacionais Windows NT/2000.
+        Utilitários Microsoft em português.
+
+    MS Access 2000:
+        implementação de banco de dados,
+        criação e manutenção de tabelas,
+        conceitos da linguagem SQL,
+        uso da barra de ferramentas,
+        atalhos e menus;
+
+    MS Word 2000;
+    MS Excel 2000;
+    MS Power Point 2000;
+    BR-Office-Writer;
+    BR-Office­Calc;
+
+    BR-Office-impress -
+        Conceitos básicos.
+        Uso de ambiente gráfico;
+        execução de programas,
+        aplicativos e acessórios;
+        conceitos de pastas,
+        diretórios,
+        arquivos e atalhos;
+        uso dos recursos de rede;
+        área de trabalho;
+        configuração do ambiente gráfico;
+        área de transferência;
+        manipulação de arquivos e pastas;
+        uso dos menus;
+        interação com o conjunto de aplicativos MS Off ice;
+
+    instalação e desinstalação de aplicativos e periféricos.
