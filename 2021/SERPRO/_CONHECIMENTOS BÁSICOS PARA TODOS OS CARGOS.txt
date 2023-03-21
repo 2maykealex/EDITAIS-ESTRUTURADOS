@@ -1,0 +1,45 @@
+LÍNGUA INGLESA:
+    1 Compreensão de texto em língua inglesa.
+    2 Itens gramaticais relevantes para
+compreensão de conteúdos semânticos.
+RACIOCÍNIO LÓGICO:
+    1 Estruturas lógicas.
+    2 Lógica de argumentação:
+        analogias,
+        inferências,
+        deduções e
+        conclusões.
+    3 Lógica sentencial (ou proposicional).
+    3.1 Proposições simples e compostas.
+    3.2 Tabelasverdade.
+    3.3 Equivalências.
+    3.4 Leis De Morgan.
+    3.5 Diagramas lógicos.
+    4 Lógica de primeira ordem.
+    5 Princípios de contagem e probabilidade.
+    6 Operações com conjuntos.
+    7 Raciocínio lógico envolvendo problemas:
+        aritméticos,
+        geométricos e
+        matriciais.
+
+ESTATUTO SOCIAL DO SERPRO:
+    Estatuto Social do Serviço Federal de Processamento de Dados,
+    disponível no endereço eletrônico <https://www.transparencia.serpro.gov.br/acesso-a-informacao/institucional/basejuridica/estatuto-do-serpro>.
+
+LEGISLAÇÃO ACERCA DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS:
+    Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD):
+        Capítulos I, II, III, IV, VII, VIII e IX.
+    Lei nº 12.527/2011 (Lei de Acesso à Informação):
+        Capítulos I, II, III, IV e V.
+    Lei nº 12.965/2014 (Marco Civil da Internet):
+        Capítulos II e III,
+        Seções I e II.
+    Decreto nº 9.637/2018 (Política Nacional de Segurança da Informação):
+        Capítulo II.
+    Lei nº 12.737/2012 (Lei de Delitos Informáticos):
+        art. 2º.
+    Lei nº 8.078/1990:
+        Capítulo V,
+        Seção VI, e
+        arts. 71 e 72.
