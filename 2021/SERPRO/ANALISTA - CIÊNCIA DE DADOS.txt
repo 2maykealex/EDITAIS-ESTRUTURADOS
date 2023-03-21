@@ -1,0 +1,356 @@
+ANALISTA – ESPECIALIZAÇÃO: CIÊNCIA DE DADOS
+
+APRENDIZADO DE MÁQUINA:
+1 Técnicas de classificação.
+    1.1 Naive Bayes.
+    1.2 Regressão logística.
+    1.3 Redes neurais artificiais.
+    1.3.1 Funções de ativação:
+        limiar,
+        linear,
+        ReLU,
+        logística,
+        softmax,
+        maxout e
+        gaussiana.
+    1.3.2 Redes Perceptron de única e múltiplas camadas.
+    1.4 Árvores de decisão (algoritmos ID3 e C4.5) e florestas aleatórias (random forest).
+    1.5 Máquinas de vetores de suporte (SVM – support vector machines).
+    1.6 K vizinhos mais próximos (KNN – K-nearest neighbors).
+    1.7 Comitês de classificadores.
+    1.8 Avaliação de modelos de classificação:
+        treinamento/teste/validação;
+        validação cruzada;
+        métricas de avaliação (matriz de confusão,
+        acurácia,
+        precisão,
+        revocação,
+F1-score e curva ROC).
+    2 Técnicas de regressão.
+    2.1 Regressão linear.
+    2.2 Séries
+temporais (tendências,
+suavização exponencial e modelos ARIMA).
+    2.3 Redes neurais para regressão.
+    2.4
+Árvores de decisão para regressão.
+    2.5 Máquinas de vetores de suporte para regressão.
+    2.6 Intervalos de
+confiança em regressão.
+    2.7 Avaliação de modelos de regressão:
+mean absolute error (MAE),
+mean square
+error (MSE),
+root mean square error (RMSE) e coeficiente de determinação (R
+2
+).
+    3 Técnicas de agrupamento.
+3.1 Agrupamento por partição.
+    3.2 Agrupamento por densidade.
+    3.3 Agrupamento hierárquico.
+    4 Técnicas de
+redução de dimensionalidade.
+    4.1 Seleção de características (feature selection).
+    4.2 Análise de componentes
+principais (PCA – principal component analysis).
+    5 Técnicas de associação.
+    5.1 Descoberta de conjuntos
+frequentes.
+    5.2 Descoberta de regras de associação.
+    6 Sistemas de recomendação.
+    7 Processamento de
+linguagem natural (PLN).
+    7.1 Normalização textual (stop words,
+    estemização,
+    lematização e análise de
+frequência de termos).
+    7.2 Rotulação de partes do discurso (POS-tagging – part-of-speech tagging).
+    7.3
+Reconhecimento de entidades (NER – named entity recognition) e rotulação IOB.
+    7.4 Modelos de
+representação de texto:
+N-gramas,
+modelos vetoriais de palavras (CBOW,
+Skip-Gram e GloVe),
+modelos
+vetoriais de documentos (booleano,
+TF e TF-IDF,
+média de vetores de palavras e Paragraph Vector).
+    7.5
+Métricas de similaridade textual (similaridade do cosseno,
+distância euclidiana,
+similaridade de Jaccard,
+distância de Manhattan e coeficiente de Dice).
+    7.6 Aplicações de PLN:
+sumarização automática de texto
+(abordagens extrativa e abstrativa),
+modelagem de tópicos em texto (algoritmos LSI,
+LDA e NMF),
+classificação de texto,
+agrupamento de texto,
+tradução automática de texto,
+análise de sentimentos e
+emoções em texto,
+reconhecimento de voz (STT – speech to text).
+    8 Visão computacional.
+    8.1
+Reconhecimento facial.
+    8.2 Classificação de imagens.
+    8.3 Detecção de objetos.
+    8.4 Deep learning para visão
+computacional.
+    9 Aprendizado profundo.
+    9.1 Redes neurais convolucionais.
+    9.2 Redes neurais recorrentes.
+9.2.1 Redes de Hopfield.
+    9.2.2 Long short-term memory (LSTM).
+    9.2.3 Redes perceptron multicamadas
+recorrentes.
+    9.2.4 Máquinas de Boltzmann.
+    9.2.5 Deep belief networks.
+TRATAMENTO DE DADOS:
+1 Normalização numérica.
+    2 Discretização.
+    3 Tratamento de dados ausentes.
+    4
+Tratamento de outliers e agregações.
+MÉTODOS DE OTIMIZAÇÃO MATEMÁTICA:
+1 Gradiente descendente.
+    2 Gradiente descendente em lote.
+    3
+Gradiente descendente estocástico.
+    4 Simulated annealing.
+    5 Programação linear (método Simplex).
+    6
+Pesquisa operacional.
+    7 Grid search e randomized search.
+
+LINGUAGENS DE PROGRAMAÇÃO E FRAMEWORKS:
+1 Python.
+    2 Linguagem de programação R.
+    3 Scala.
+    4
+Java.
+    5 Spark (PySpark,
+    Scala e Java).
+    6 Pandas.
+    7 Scikit-learn.
+    8 TensorFlow.
+    9 PyTorch.
+    10 Keras.
+    11 NLTK.
+FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA:
+1 Probabilidade e probabilidade condicional.
+    2
+Independência de eventos,
+regra de Bayes e teorema da probabilidade total.
+    3 Variáveis aleatórias e funções
+de probabilidade.
+    4 Principais distribuições de probabilidade discretas e contínuas:
+distribuição uniforme,
+distribuição de Bernoulli,
+distribuição binomial,
+distribuição multinomial e distribuição normal.
+    5 Medidas de
+tendência central:
+média (aritmética,
+ponderada,
+geométrica e harmônica),
+mediana e moda.
+    6 Medidas de
+28
+dispersão:
+amplitude,
+variância,
+desvio padrão e coeficiente de variação.
+    7 Coeficiente de correlação de
+Pearson.
+    8 Teorema central do limite.
+    9 Regra empírica (regra de três sigma) da distribuição normal.
+    10
+Modelos probabilísticos gráficos:
+modelos de Markov,
+filtros de Kalman e redes bayesianas.
+    11 Testes de
+hipóteses:
+teste-z,
+teste-t,
+valor-p,
+testes para uma amostra,
+testes de comparação de duas amostras,
+ANOVA,
+teste de normalidade (chi square) e intervalos de confiança.
+    12 Histogramas e curvas de frequência.
+Diagrama boxplot.
+    Avaliação de outliers.
+GESTÃO DE PROJETOS EM CIÊNCIA DE DADOS:
+1 Processo CRISP-DM.
+    2 Gerenciamento de projetos
+tradicionais.
+    3 Gerenciamento de projeto ágeis.
+BIG DATA:
+1 Fundamentos.
+    2 Tipos de dados:
+estruturados,
+semiestruturados e não estruturados.
+    3 Conceitos
+dos três Vs.
+    4 Fluxo de big data:
+ingestão,
+processamento e disponibilização.
+    5 Armazenamento de big data.
+6 Pipeline de dados.
+    7 Processamento distribuído.
+    8 Conceitos de data lake.
+    9 ETL X ELT.
+    10 Soluções de big
+data.
+    10.1 Arquitetura do ecossistema Apache Hadoop.
+    10.2 Componentes Hadoop:
+HBase,
+Kudu,
+Sqoop,
+Nifi,
+Hive,
+Impala,
+Spark,
+Spark Streaming,
+SOLR,
+Oozie,
+Yarn,
+Kafka,
+Flink e AirFlow.
+    11 Arquiteturas de big
+data.
+    11.1 Arquitetura Lambda.
+    11.2 Arquitetura Kappa.
+    11.3 Arquitetura de IoT.
+    11.4 Arquitetura de cloud
+computing para dados (AWS,
+Azure).
+ARMAZENAMENTO DE DADOS:
+1 Sistemas de arquivos distribuídos:
+HDFS.
+    2 Armazenamento orientado a
+objeto (object store):
+S3,
+CEPH.
+    3 Banco de dados NoSQL orientado a colunas:
+HBase.
+    4 Banco de dados NoSQL
+orientado a grafos:
+Neo4J.
+    5 Banco de dados NoSQL orientado a documentos:
+MongoDB.
+    6 Sistemas de
+indexação:
+ElasticSearch.
+INGESTÃO DE DADOS:
+1 Conceito de ingestão de dados.
+    2 Ingestão de dados estruturados,
+    semiestruturados
+e não estruturados.
+    3 Ingestão de dados em lote (batch).
+    4 Ingestão de dados em streaming.
+    5 Ingestão de
+dados full × incremental.
+    6 Ingestão de dados CDC (change data capture).
+PROCESSAMENTO DE DADOS:
+1 Conceitos de processamento massivo e paralelo.
+    2 Processamento em lote
+(batch).
+    3 Processamento em tempo real (real time).
+    4 Processamento MapReduce.
+BUSINESS INTELLIGENCE E ANALYTICS:
+1 Ecossistema de Big Data Apache Hadoop.
+    2 Arquitetura e análise de
+requisitos para sistemas analíticos.
+    3 Ferramentas ETL e OLAP.
+    4 Álgebra relacional e SQL (padrão ANSI).
+    5
+Banco de dados relacional em plataforma baixa (Oracle,
+SQL Server,
+Postgree,
+MySQL) e XML.
+    6 Banco de
+dados NoSQL.
+    7 Visualização e análise exploratória de dados.
+    7.1 Ferramentas de criação de dashboards(Qlik,
+MicroStrategy Dossiê,
+Tableau e Pentaho).
+    7.2 Storytelling.
+    7.3 Elaboração de painéis e dashboard.
+    7.4
+Elaboração de relatórios analíticos.
+QUALIDADE DE DADOS:
+1 Conceitos e definições sobre qualidade de dados.
+    2 Dimensões da qualidade de
+dados (visão DMBOK).
+    3 Principais técnicas em qualidade de dados.
+    3.1 Profiling.
+    3.2 Matching.
+    3.3
+Deduplicação.
+    3.4 Data cleansing.
+    3.5 Enriquecimento.
+    4 Boas Práticas para adoção da qualidade de dados.
+    5
+Processos de qualidade para modelos de dados.
+    6 Noções básicas de visualização de dados.
+MODELAGEM DE DADOS:
+1 Modelo entidade-relacionamento.
+    2 Linguagem de implementação banco de
+dados:
+banco físico,
+lógico e conceitual.
+    3 Modelagem conceitual de dados.
+    3.1 Entidades.
+    3.2 Atributos.
+    3.3
+Relacionamentos.
+    3.3.1 Grau dos relacionamentos.
+    3.3.2 Cardinalidade.
+    3.3.3 Tipos de relacionamentos.
+    3.4
+Mecanismos avançados de abstração em um modelo conceitual de dados.
+    3.4.1 Repetição.
+    3.4.2
+Autorrelacionamento.
+    3.4.3 Generalização e especialização.
+    3.4.4 Agregação.
+    4 Modelagem lógica de dados.
+4.1 Conceitos em modelagem lógica de dados.
+    4.2 Normalização.
+    5 Data warehouse.
+    5.1 Modelagem
+dimensional.
+    5.2 Criação,
+    implantação e manutenção de rotinas de ETL (Pentaho e Power Center).
+    5.3
+Conceito e aplicações.
+    5.4 Fatos e dimensões.
+    5.5 Operações OLAP.
+    5.6 Conceitos de data warehouse.
+    5.7
+Técnica de modelagem dimensional e otimização de bases de dados para BI.
+29
+MDM (MASTER DATE MANEGEMENT):
+1 Conceitos básicos.
+    1.1 Golden record.
+    1.2 Modelos de
+implementação de data hub.
+    2 Qualidade dos dados mestres.
+    3 Algoritmos fuzzy matching e stemming.
+    4
+Arquitetura de dados MDM.
+    5 Privacidade dos dados mestres.
+GOVERNANÇA DE DADOS:
+1 Princípios e conceitos da governança de dados.
+    2 Componentes da governança
+de dados.
+    3 Visão geral do guia DAMA-DMBOK.
+    3.1 Áreas de conhecimento.
+    3.2 Elementos ambientais.
+    3.3
+Principais atividades da gestão de dados.
+    4 Documentos da governança de dados.
