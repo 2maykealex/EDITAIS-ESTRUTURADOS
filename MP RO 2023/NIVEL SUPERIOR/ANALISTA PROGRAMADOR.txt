@@ -1,0 +1,157 @@
+ANALISTA PROGRAMADOR:
+    ENGENHARIA E ARQUITETURA DE SOFTWARE:
+        Ciclo de vida do software.
+        Metodologias de desenvolvimento de software.
+        Metodologias ágeis.
+        Qualidade de software.
+        Gestão de Configuração:
+            Controle de versão,
+            controle de mudança e
+            integração contínua.
+        Teste de software.
+        Técnicas de testes de software.
+        Controles e testes de segurança para aplicações web;
+        controles e testes de segurança para Web Services.
+        Processo unificado:
+            disciplinas,
+            fases,
+            papéis e atividades.
+        Engenharia de requisitos.
+        Técnicas de licitação de requisitos.
+        Gerenciamento de requisitos.
+        Especificação de requisitos.
+        Técnicas de validação de requisitos.
+        Prototipação.
+        Engenharia de usabilidade.
+        Análise de requisitos de usabilidade.
+        Métodos para avaliação de usabilidade.
+        Orientação a objetos:
+            classes e objetos;
+            relacionamentos;
+            herança e polimorfismo;
+            encapsulamento.
+        SOLID.
+        35 GRASP.
+        TDD.
+        BDD.
+        Padrões de projeto.
+        Análise e projeto orientados a objetos.
+        UML:
+        visão geral, modelos e diagramas.
+        Interoperabilidade de sistemas:
+            SOAP e Web Services;
+            padrões XML,
+            JSON,
+            WSDL,
+            SOAP e REST.
+
+    AMBIENTES DE DESENVOLVIMENTO E LINGUAGENS DE PROGRAMAÇÃO:
+        Programação para WEB.
+        Conhecimentos de:
+            Python,
+            JavaScript,
+            PHP.
+            Tecnologias e práticas web:
+            HTML,
+            CSS,
+            UX,
+            Ajax.
+            Padrões de frontend:
+                SPA e PWA.
+
+    ORQUESTRAÇÃO DE CONTAINER:
+        Conhecimento em Docker e Docker Swarm.
+        VIRTUALIZAÇÃO.
+            Conceito de virtualização.
+
+    SERVIDORES:
+        Noções de Servidores de páginas em HTML:
+            Nginx e Apache.
+            Conceito de servidores de armazenamento orientado a objetos (object store): S3.
+
+    BANCOS DE DADOS:
+        Integração com bancos de dados.
+            Modelagem de dados,
+            conceitual e semântica.
+            Modelo de entidades e relacionamentos.
+            Noções de Big Data.
+        Sistema relacional:
+            teoria,
+            estrutura,
+            linguagens,
+            operações,
+            normalização,
+            integridade.
+        Projeto de bancos de dados:
+            teoria,
+            dependências funcionais,
+            normalização.
+            Linguagem SQL para controle,
+            manipulação e descrição de dados.
+            Conceitos de banco de dados NoSQL (
+                orientado a documento,
+                chave-valor,
+                grafo,
+                colunar e
+                time series
+            )
+            Transações:
+                conceitos e propriedades.
+                Processamento e otimização de consultas.
+                Recuperação e concorrência.
+                JDBC.
+                Conhecimentos Postgresql 12 ou superior e MongoDB 4.4 ou superior.
+                Conceitos de Data Mining,
+                OLAP,
+                Data Warehouse e ETL.
+
+    ESTRUTURA DE DADOS:
+        Linguagens de programação.
+        Noções de linguagens procedurais:
+            tipos de dados elementares e estruturados,
+            funções e procedimentos.
+            Representação de dados numéricos, textuais e estruturados; aritmética computacional.
+        Estruturas de dados e algoritmos:
+            listas,
+            filas,
+            pilhas,
+            tabelas hash e árvores;
+            métodos de acesso,
+            busca,
+            inserção e ordenação em estruturas de dados;
+            complexidade de algoritmos.
+        Algoritmos para exploração de dados e machine learning.
+
+    SEGURANÇA DA INFORMAÇÃO:
+        Lei Geral de Proteção de Dados Pessoais:
+        conceitos básicos,
+        segurança e boas práticas.
+        Gerência de Riscos.
+        Classificação e controle dos ativos de informação.
+        Controles de acesso físico e lógico.
+        Gestão de incidentes de segurança da informação.
+        Plano de Continuidade de Negócio (
+            plano de contingência,
+            plano de recuperação de desastres
+        ).
+        Criptografia simétrica e assimétrica.
+        Assinatura e certificação digital.
+        Arquiteturas e dispositivos de segurança:
+            firewalls,
+            VPN e outros.
+        Monitoramento e Auditoria de tráfego de Informação.
+        Tipos de ataques e proteções relativos a:
+            hardware,
+            software,
+            sistemas operacionais,
+            aplicações,
+            bancos de dados,
+            redes,
+            pessoas e ambiente físico.
+        Política de trabalho remoto.
+        Autenticação de dois fatores (MFA).
+        OAuth 2,
+        JWT.
+
+    LÍNGUA INGLESA:
+        1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos
