@@ -1,0 +1,218 @@
+ANALISTA DE SUPORTE COMPUTACIONAL:
+    HARDWARE:
+        1 Computadores.
+        1.1 Organização e arquitetura.
+        1.2 Componentes.
+        1.2.1 Hardware e software.
+        1.3 Sistemas de numeração e representação de dados.
+        1.4 Aritmética computacional.
+        2 Sistemas operacionais.
+            2.1 Conceitos de sistemas operacionais: gerência de processador, gerência de memória, gerência de entrada e saída, dispositivos e impressoras e sistemas de arquivos.
+            2.2 Funções básicas e componentes.
+            2.3 Sistemas operacionais da família Microsoft Windows (Windows 10 em suas diferentes versões de comercialização).
+        3 Ambientes Linux e Windows.
+        4 Conceitos de sistemas operacionais de rede:
+            configuração,
+            serviços,
+            infraestrutura.
+        5 Noções de operação e administração do serviço de diretório Microsoft Active Directory e LDAP.
+        6 Arquitetura cliente- servidor.
+        7 Conceitos de Internet e Intranet.
+        8 Ferramentas e aplicações da informática.
+        9 Conceitos e noções de instalação e configuração de dispositivos móveis nas plataformas iOS e Android.
+        10 Noções de instalação e configuração de drivers de dispositivos em sistemas operacionais de servidores Windows Server (2012 e 2016) e GNU/Linux.
+        11 Manutenção de equipamentos de informática.
+            11.1 Computadores.
+            11.2 Monitores.
+            11.3 Impressoras.
+
+    REDES DE COMPUTADORES:
+        1 Conceitos de redes de computadores:
+            meios de transmissão,
+            classificação,
+            topologia de redes,
+            redes de longa distância,
+            redes locais e redes sem fio.
+        2 Elementos de interconexão de redes de computadores (hubs repetidores, switches, roteadores).
+            VLANs.
+            Cabeamento estruturado.
+        3 Noções dos modelos de referência OSI (Open System Interconnection Reference Model).
+        4 Noções dos padrões:
+            IEEE 802.1,
+            IEEE 802.3,
+            IEEE 802.11 a/b/g/n/ac.
+        5 Arquitetura e pilhas de protocolos TCP/IP:
+            camada de rede (IPv4, IPv6 e IPsec),
+            conceitos básicos de endereçamento e roteamento;
+            camada de transporte (TCP e UDP);
+            camada de aplicação (
+                FTP,
+                SSH,
+                DNS,
+                SMTP,
+                POP,
+                IMAP,
+                HTTP,
+                HTTPS,
+                SSL,
+                DNS,
+                RDP,
+                DHCP
+            ).
+            Sistemas de nomes.
+        6 Noções de gerência de redes:
+            conceitos dos protocolos SNMP e RMON.
+        7 Noções de telefonia digital,
+            VoIP (Voice over Internet Protocol),
+            Telefonia IP e
+            Comunicações unificadas.
+        8 Noções de vídeo conferência.
+            Protocolos SIP (Session Initiation Protocol),
+            H323 e Qualidade de serviços (QoS – Quality of Service).
+
+    ADMINISTRAÇÃO DE REDES:
+        1 Processos de definição, implantação e gestão de políticas de segurança da informação e auditoria.
+        2 Criptografia,
+            protocolos e algoritmos criptográficos,
+            sistemas de criptografia,
+            criptografia simétrica e assimétrica,
+            função hash,
+            estrutura de certificação e assinatura digital:
+                infraestrutura de chaves públicas e
+                ICPBrasil (Infraestrutura de Chaves Públicas Brasileira).
+        3 Configuração,
+            administração e gerenciamento de servidores de:
+                DNS,
+                DHCP,
+                WINS,
+                FTP,
+                NNTP,
+                VPN,
+                autenticação,
+                arquivos,
+                web,
+                HTTP/HTTPS,
+                proxy,
+                firewall,
+                correio eletrônico bem como IMAP e POP.
+        4 Conhecimentos de HTML,
+            XML e banco de dados Microsoft
+            SQL Server e PostgreSQL Server.
+        5 Balanceamento de carga e alta disponibilidade entre servidores.
+        6 Redes geograficamente distribuídas.
+        7 Rede de computadores:
+            topologias em estrela,
+            anel e barra;
+            arquiteturas de rede;
+            tecnologias de rede:
+                LAN,
+                WAN e
+                wireless;
+                arquitetura e protocolos TCP/IP;
+                nível de aplicação TCP/IP:
+                    NFS,
+                    TELNET,
+                    SMTP,
+                    HTTP,
+                    LDAP,
+                    IPSEC,
+                    SSL,
+                    SSH,
+                    SNMP e
+                    NAT;
+                    noções básicas de IPv6;
+                    conceitos de storage (NAS e SAN);
+                    equipamentos de conexão e transmissão;
+                    QOS;
+                    Modelo OSI da ISO.
+
+        8 Sistemas operacionais:
+            funções básicas;
+            sistemas de arquivos e
+            gerenciamento de memória.
+        9 Cabeamento estruturado:
+            normas e padrões,
+            técnicas, gerenciamento de cabeamento instalado.
+        10 Orquestração de containers:
+            Docker e Docker Swarm.
+        11 Virtualização:
+            conceito de virtualização.
+        12 Servidores.
+            12.1 Noções de Servidores de páginas em HTML:
+                Nginx e Apache.
+            12.2 Conceito de servidores de armazenamento orientado a objetos (object store): S3.
+
+    BANCOS DE DADOS:
+        1 Banco de dados.
+        1.1 Conceitos básicos.
+        1.2 Arquitetura.
+        1.3 Estrutura de dados.
+        1.4 Modelagem e normalização
+        de dados.
+        1.5 Noções de administração de dados e de banco de dados.
+        1.6 SQL (ANSI).
+        1.7 Oracle 21C,
+            MySql,
+            ADABAS e
+            MSSQLSERVER 2019.
+        1.8 Arquitetura e políticas de armazenamento de dados.
+            Engenharia de dados – ingestão e armazenamento de grande quantidade de dados (Big Data).
+
+    SEGURANÇA DA INFORMAÇÃO:
+        1 Políticas de segurança da informação.
+        2 Procedimentos de segurança, conceitos gerais de gerenciamento.
+        3 Normas ABNT NBR ISO/IEC 27001:2013 e
+          ABNT NBR ISO/IEC 27002:2013.
+        4 Segurança de redes de computadores, inclusive redes sem fio.
+        5 Vulnerabilidades e ataques a sistemas computacionais.
+        6 Prevenção e tratamento de incidentes.
+        7 Ataques e proteções relativos a:
+            hardware,
+            software,
+            sistemas operacionais,
+            aplicações,
+            bancos de dados,
+            redes,
+            inclusive firewalls,
+            proxies,
+            virtual private networks (IPSEC VPN e SSL VPN)
+            e computação em nuvem.
+        8 Segurança física e lógica dos ativos de TI.
+        9 Criptografia.
+        10 Proteção contra softwares maliciosos.
+        11 Sistemas de detecção de intrusão.
+        12 Segurança de servidores e sistemas operacionais.
+        13 Certificação digital.
+        14 Gestão de riscos.
+            14.1 ABNT NBR ISO/IEC 27002:2013,
+                ABNT NBR ISO/IEC 27005:2019.
+            14.2 Planejamento, identificação e análise de riscos.
+        15 Plano de continuidade de negócio.
+        16. Lei nº 13.709/2018 e suas alterações (Lei Geral de Proteção de Dados Pessoais – LGPD).
+        17. Conceitos:
+            17.1 IDS (Intrusion Detection System).
+            17.2 IPS (Intrusion Prevention System),
+            17.3 SIEM (Security Information and Event Management)
+        18. NIST Cybersecurity Framework version 1.1.
+
+    GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
+        1 Gerenciamento de projetos – PMBOK 7ª edição.
+            1.1 Projetos e a organização.
+            1.2 Escritório de projetos.
+            1.2.1 Modelos e características.
+        2 Processos, grupos de processos e área de conhecimento.
+        3 Gestão de riscos.
+        4 Gerenciamento de serviços (ITIL v4).
+            4.1 Conceitos básicos,
+                disciplinas,
+                estrutura e objetivos.
+        5 Governança de TI (COBIT 2019).
+            5.1 Conceitos básicos,
+                estrutura e objetivos.
+        6 Conceitos de gestão de processos e modelagem de processos de negócio usando BPMN.
+
+    LÍNGUA INGLESA:
+        1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
+
+
+
