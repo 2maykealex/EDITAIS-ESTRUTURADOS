@@ -1,0 +1,281 @@
+ANALISTA DE SISTEMAS:
+    ANÁLISE DE SISTEMAS:
+        1 Conceitos de engenharia de software.
+        2 Processos de desenvolvimento de software.
+            2.1 CMMI-DEV v2.0,
+            MPS.BR,
+            RUP,
+            Scrum 2020 e
+            Programação Ágil.
+        3 Orientação a objetos.
+            3.1 Conceitos fundamentais,
+            análise,
+            modelagem e
+            padrões de projeto (Designer Patterns).
+        4 Padrões de arquitetura MVC (Model View Controller).
+        5 Arquitetura de software.
+        5.1 Cliente/servidor, Internet e dispositivos móveis.
+        6 Engenharia de requisitos.
+        7 Análise de negócios.
+        8 Conceitos de Linguagens de programação:
+            Java (versão 6 ou superior),
+            PHP (versão 7.0 ou superior),
+            Python (versão 3.10.0 5 ou superior),
+            C# (versão 8 ou superior),
+            NodeJS (versão 16 ou superior).
+        9 Mensuração de sistemas em Pontos de Função segundo o Manual de Práticas de Contagem (CPM versão 4.3 do IFPUG ou superior).
+        10 Conceitos de gestão da configuração de software.
+        11 Conceitos e conhecimentos em arquiteturas de container (Docker) e orquestradores (Kubernetes, Docker Compose).
+        12 Engenharia de software.
+        12.1 Levantamento de requisitos funcionais e não funcionais.
+        12.2 Análise de sistemas.
+        12.3 Qualidade de software.
+        12.4 Unified Modeling Language (UML 2 ou superior).
+        12.5 Metodologias ágeis para o desenvolvimento de software:
+            Scrum 2020,
+            XP,
+            Lean.
+        13 Conceitos básicos sobre técnicas e ferramentas de codeless e nocode.
+        14 Conceitos e implementações de arquiteturas baseadas em:
+            SOA (service oriented architecture),
+            API (Application Programming Interface),
+            Webservices,
+            Microserviços,
+            Cliente-Servidor e Mobile.
+        15 Conceitos básicos de alta disponibilidade de sistemas.
+        16 Qualidade de software.
+            16.1 Conceitos básicos e objetivos.
+        17 Gestão ágil de projetos com:
+            Scrum,
+            XP e
+            Lean.
+        18 Conceitos básicos de User eXperience (UX)
+            Sistemas de gestão de conteúdo.
+                18.1 Conceitos básicos e aplicações.
+                18.2 Arquitetura de informação.
+                18.3 Portais corporativos.
+                    18.3.1 Conceitos básicos e aplicações.
+                    18.4 Workflow.
+                    18.5 Conceitos de acessibilidade e usabilidade.
+                    18.6
+                Recomendações W3C para desenvolvimento web (web standards).
+                    18.7 Desenho e planejamento de interação em aplicações web.
+        19 Arquiteturas, práticas e serviços.
+            19.1 Conceitos básicos e aplicações.
+            19.1.2 DesignOps.
+        20 Metodologias ágeis e experiência do usuário (User eXperience — UX).
+            20.1 Conceitos básicos e aplicações.
+            20.1.1 Storytelling.
+            20.1.2 Lean,
+            XP e Scrum 2020.
+            20.2 Design thinking.
+            20.3 UX Research,
+            user interface.
+            20.4 Agile UX.
+            20.5 Lean UX.
+            20.5.1 Lean Startup,
+            Lean UX Canvas,
+            minimum viable product (MVP),
+            get out of the building (GOOB in Lean UX) e Feedback Lean UX.
+            20.6 Prototipação.
+        21 Web writing ou UX writing:
+            conceitos básicos e aplicações.
+
+DESENVOLVIMENTO DE SISTEMAS:
+    1 Desenvolvimento de sistemas.
+        1.1 Desenvolvimento em Linguagens de programação:
+            Java (versão 6 ou superior),
+            PHP (versão 7.0 ou superior),
+            Python (versão 3.10.0 5 ou superior),
+            C# (versão XX ou superior),
+            NodeJS(versão XX ou superior)
+        1.2 Desenvolvimento web.
+            1.2.1 JavaScript,
+            HTML5,
+            CSS3,
+            WebSocket,
+            Single Page Application (SPA).
+        1.3 Framework JavaScript:
+            AngularJS,
+            DHTML,
+            AJAX,
+            Vue JS.
+        1.4 Framework PHP – CAKE xxx.
+        1.5 Noções e conceitos de desenvolvimento para dispositivos móveis.
+        1.6 Framework Apache CXF.
+        1.7 Usabilidade e acessibilidade na Internet, padrões W3C.
+    2 Análise estática de código-fonte (clean code e ferramenta SonarQube).
+    3 Arquitetura de software.
+        3.1 Interoperabilidade de sistemas.
+        3.2 Arquitetura e linguagem orientada a serviços.
+            3.2.1 Web services.
+            3.2.2 API,
+        3.3 Arquitetura e linguagem orientada a objetos.
+        3.4 Arquitetura de aplicações para ambiente web.
+        3.5 Servidor de aplicações.
+        3.6 Servidor web.
+    4 Ambientes Internet, extranet, intranet e portal:
+        finalidades,
+        características físicas e lógicas,
+        aplicações e serviços.
+    5 Padrões:
+        XML,
+        XSLT,
+        UDDI,
+        WSDL,
+        SOAP,
+        REST e
+        JSON.
+    6 Conhecimento intermediário em DevOps.
+    7 Ferramenta de Gestão da configuração GIT. TESTES:
+        7.1 conceitos básicos de:
+            testes de aplicações;
+            testes ágeis;
+            teste de usabilidade de software;
+            testes automatizados;
+            tipos de testes;
+            test-driven development (TDD);
+            gestão do ciclo de vida de testes.
+        7.2 Conceitos básicos.
+        7.3 RPA (robotic process automation).
+
+BANCOS DE DADOS:
+    1 Banco de dados.
+        1.1 Conceitos básicos.
+        1.2 Arquitetura.
+        1.3 Estrutura de dados.
+        1.4 Modelagem e normalização de dados.
+        1.5 Noções de administração de dados e de banco de dados.
+        1.6 SQL (ANSI).
+        1.7 Oracle 21C,
+            MySql,
+            ADABAS e
+            MSSQLSERVER 2019.
+        1.8 Arquitetura e políticas de armazenamento de dados.
+            Engenharia de dados – ingestão e armazenamento de grande quantidade de dados (Big Data).
+
+INTELIGÊNCIA DE NEGÓCIOS (BUSINESS INTELLIGENCE):
+    1 Conceitos, fundamentos, características, técnicas e métodos de business intelligence (BI).
+    2 Sistemas de suporte a decisão e gestão de conteúdo.
+    3 Arquitetura e aplicações de data warehouse com ETL e OLAP.
+    4 Definições e conceitos de data warehouse e data mining.
+    5 Visualização de dados:
+        BD individuais e
+        cubos.
+    6 Mapeamento das fontes de dados:
+        técnicas para coleta de dados.
+    7 Arquitetura de business intelligence.
+
+SEGURANÇA DA INFORMAÇÃO:
+    1 Políticas de segurança da informação.
+    2 Procedimentos de segurança,
+        conceitos gerais de gerenciamento.
+    3 Normas:
+        ABNT NBR ISO/IEC 27001:2013 e
+        ABNT NBR ISO/IEC 27002:2013.
+    4 Segurança de redes de computadores, inclusive redes sem fio.
+    5 Vulnerabilidades e ataques a sistemas computacionais.
+    6 Prevenção e tratamento de incidentes.
+    7 Ataques e proteções relativos:
+        a hardware,
+        software,
+        sistemas operacionais,
+        aplicações,
+        bancos de dados,
+        redes,
+        inclusive firewalls,
+        proxies,
+        virtual private networks (IPSEC VPN e SSL VPN) e
+        computação em nuvem.
+    8 Segurança física e lógica dos ativos de TI.
+    9 Criptografia.
+    10 Proteção contra softwares maliciosos.
+    11 Sistemas de detecção de intrusão.
+    12 Segurança de servidores e sistemas operacionais.
+    13 Certificação digital.
+    14 Gestão de riscos.
+    14.1 ABNT NBR ISO/IEC 27002:2013,
+         ABNT NBR ISO/IEC 27005:2019.
+    14.2 Planejamento, identificação e análise de riscos.
+    15 Plano de continuidade de negócio.
+    16 Lei nº 13.709/2018 e suas alterações (Lei Geral de Proteção de Dados Pessoais – LGPD).
+    17. Conceitos:
+        17.1 IDS (Intrusion Detection System).
+        17.2 IPS (Intrusion Prevention System),
+        17.3 SIEM (Security Information and Event Management)
+    18. NIST Cybersecurity Framework version 1.1.
+
+SUPORTE E INFRAESTRUTURA:
+    1 Arquitetura de Rede TCP/IP,
+    2 Arquitetura hardware de servidores.
+    3 Armazenamento de dados.
+        3.1 Rede SAN (storage area network).
+        3.2 Conceitos de armazenamento de discos e conceito de replicação de dados.
+        3.3 Formatação de dados.
+    4 Tópicos avançados.
+        4.1 Virtualização (VMWare e HyperV).
+        4.2 Consolidação de servidores.
+        4.3 Cluster (alta disponibilidade e performance).
+        4.4 Conceitos de mensageria.
+        4.5 Computação em grid e em nuvem.
+        4.6 Nuvem pública e nuvem privada,
+            4.6.1 Conceitos de ambiente bare meta.
+    5 Servidores de aplicação (IIS e APACHE).
+
+ADMINISTRAÇÃO DE REDES:
+    1 Configuração, administração e gerenciamento de servidores de:
+        DNS,
+        DHCP,
+        WINS,
+        FTP/SFTP,
+        NTP,
+        VPN,
+        autenticação LDAP, Active Directory (Microsoft Windows),
+        arquivos,
+        HTTP/HTTPS,
+        proxy,
+        firewall,
+        correio eletrônico,
+        SNMP.
+    2 Teoria e políticas de backup e recuperação de dados.
+    3 Noções de Configuração, administração e gerenciamento de equipamentos de rede (Switch e roteador).
+    4 Administração de sistemas operacionais:
+        4.1 Linux e MS Windows (desktop e server).
+        4.2 Linguagens de script.
+        4.3 Compartilhamento, segurança e integridade.
+        4.4 Interoperação entre sistemas operacionais.
+
+GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
+    1 Gerenciamento de projetos – PMBOK 7ª edição.
+        1.1 Projetos e a organização.
+        1.2 Escritório de projetos.
+        1.2.1 Modelos e características.
+    2 Processos, grupos de processos e área de conhecimento.
+    3 Gestão de riscos.
+    4 Gerenciamento de serviços (ITIL v4).
+        4.1 Conceitos básicos,
+            disciplinas,
+            estrutura e
+            objetivos.
+    5 Governança de TI (COBIT 2019).
+        5.1 Conceitos básicos,
+            estrutura e
+            objetivos.
+    6 Conceitos de gestão de processos e modelagem de processos de negócio usando BPMN
+
+FISCALIZAÇÃO DE CONTRATOS DE TECNOLOGIA DA INFORMAÇÃO:
+    1 Gestão de contratação de soluções de TI.
+    2 Legislação aplicável à contratação de bens e serviços de TI e suas alterações.
+        2.1 Lei nº 13.303/2016
+        2.2 Lei nº 10.520/2002 e suas alterações.
+        2.3 Instrução Normativa nº 1/2019 do Ministério 31 da Economia
+        2.4 Elaboração e fiscalização de contratos.
+            2.4.1 Critérios de remuneração por esforço versus produto.
+            2.4.2 Cláusulas e indicadores de nível de serviço.
+            2.4.3 Papel do fiscalizador do contrato.
+            2.4.4 Papel do preposto da contratada.
+            2.4.5 Acompanhamento da execução contratual.
+            2.4.6 Registro.
+
+LÍNGUA INGLESA:
+    1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
