@@ -1,0 +1,97 @@
+CONHECIMENTOS GERAIS PARA TODOS OS CARGOS DE NÍVEL SUPERIOR
+
+LÍNGUA PORTUGUESA:
+    1 Compreensão e interpretação de textos de gêneros variados.
+    2 Reconhecimento de tipos e gêneros textuais.
+    3 Domínio da ortografia oficial.
+    4 Domínio dos mecanismos de coesão textual.
+        4.1 Emprego de elementos de:
+            referenciação,
+            substituição e
+            repetição,
+            de conectores e
+            de outros elementos de sequenciação textual.
+        4.2 Emprego de tempos e modos verbais.
+    5 Domínio da estrutura morfossintática do período.
+        5.1 Emprego das classes de palavras.
+        5.2 Relações de coordenação entre orações e entre termos da oração.
+        5.3 Relações de subordinação entre orações e entre termos da oração.
+        5.4 Emprego dos sinais de pontuação.
+        5.5 Concordância verbal e nominal.
+        5.6 Regência verbal e nominal.
+        5.7 Emprego do sinal indicativo de crase.
+        5.8 Colocação dos pronomes átonos.
+    6 Reescrita de frases e parágrafos do texto.
+        6.1 Significação das palavras.
+        6.2 Substituição de palavras ou de trechos de texto.
+        6.3 Reorganização da estrutura de orações e de períodos do texto.
+        6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+    7 Correspondência oficial.
+        7.1 Aspectos gerais da redação oficial.
+        7.2 Finalidade dos expedientes oficiais.
+        7.3 Adequação da linguagem ao tipo de documento.
+        7.4 Adequação do formato do texto ao gênero
+
+RACIOCÍNIO LÓGICO:
+    1 Estruturas lógicas.
+    2 Lógica de argumentação:
+        analogias,
+        inferências,
+        deduções e
+        conclusões.
+    3 Lógica sentencial (ou proposicional).
+        3.1 Proposições simples e compostas.
+        3.2 Tabelas-verdade.
+        3.3 Equivalências.
+        3.4 Leis de Morgan.
+        3.5 Diagramas lógicos.
+    4 Lógica de primeira ordem.
+    5 Princípios de contagem e probabilidade.
+    6 Operações com conjuntos.
+    7 Raciocínio lógico envolvendo problemas:
+        aritméticos,
+        geométricos e
+        matriciais.
+
+LEGISLAÇÃO ESTADUAL:
+    1 Lei Complementar nº 68/1992 (Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia).
+    2 Lei Complementar nº 304/2004 (Dispõe sobre a modificação e a reorganização do Quadro Administrativo do Ministério Público do Estado de Rondônia e dá outras providências).
+    3 Lei Complementar nº 93/1993 (Dispõe sobre a Lei Orgânica do Ministério Público do Estado de Rondônia (Títulos I, II, III e IV).
+
+HISTÓRIA E GEOGRAFIA DE RONDÔNIA:
+    1 Aspectos gerais;
+    limites;
+    evolução político-administrativa e econômica;
+    setores produtivos da agropecuária;
+    hidrografia;
+    área e população;
+    zoneamento socioeconômico e ecológico;
+    Mudanças Climáticas, antropoceno e Amazônia;
+    Expansão do neopentecostalismo na Amazônia;
+    Exploração, conquista, ocupação e colonização da Amazônia;
+    ciclos da borracha;
+    mercantilismo e políticas de colonização dos vales do Madeira e Guaporé;
+    submissão e resistência dos povos indígenas, escravizados, quilombolas e populações tradicionais;
+    navegação no rio Madeira;
+    abertura do rio Amazonas à navegação internacional;
+    exploração e colonização do oeste da Amazônia;
+    processo de ocupação e expropriação indígena na área do Beni;
+    mão de obra para os seringais do Alto Madeira;
+    Tratado de Petrópolis e a questão acreana;
+    Construção da estrada de ferro Madeira-Mamoré;
+    território federal do Guaporé e criação do Estado de Rondônia;
+    construção das Usinas do Baixo Madeira;
+    Rondonização da Amazônia.
+
+ÉTICA NO SERVIÇO PÚBLICO:
+    1 Ética e moral.
+    2 Ética, princípios e valores.
+    3 Ética e democracia:
+        exercício da cidadania.
+    4 Ética e função pública.
+    5 Ética no setor público.
+    6 Lei nº 8.429/1992 e suas alterações.
+    6.1 Disposições gerais.
+    6.2 Atos de improbidade administrativa.
+    6.3 Lei n° 14.230/2021.
+    7 Lei nº 12.846/2013 e suas alterações.
