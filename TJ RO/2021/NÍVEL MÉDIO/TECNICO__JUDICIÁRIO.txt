@@ -1,0 +1,283 @@
+TÉCNICO JUDICIÁRIO
+NOÇÕES DE DIREITO ADMINISTRATIVO
+    Noções de organização administrativa.
+
+    Administração:
+        direta e indireta,
+        centralizada e descentralizada.
+        Desconcentração.
+
+    Princípios expressos e implícitos da administração pública.
+    Órgãos públicos.
+    Agentes públicos.
+    Processo Administrativo.
+    Poderes administrativos.
+    Ato administrativo.
+
+    Controle e responsabilização da administração:
+        controle administrativo;
+        controle judicial;
+        controle legislativo.
+
+    Improbidade Administrativa.
+    Responsabilidade civil do Estado.
+    Licitação e Contratos.
+
+    Leis nºs:
+        8.666/1993,
+        10.520/2002 e
+        14.133/2021.
+
+NOÇÕES DE DIREITO CONSTITUCIONAL
+    Constituição:
+        conceito,
+        classificações,
+        princípios fundamentais.
+
+    Direitos e garantias fundamentais:
+        direitos e deveres individuais e coletivos,
+        direitos sociais,
+        nacionalidade,
+        cidadania,
+        direitos políticos e partidos políticos.
+
+    Organização político-administrativa:
+        União,
+        Estados,
+        Distrito Federal,
+        Municípios e
+        Territórios.
+
+    Administração pública:
+        disposições gerais,
+        servidores públicos.
+
+    Poder Judiciário:
+        Disposições gerais.
+
+    Órgãos do Poder Judiciário:
+        competências.
+
+    Conselho Nacional de Justiça (CNJ):
+        composição e competência.
+
+    Funções essenciais à Justiça:
+        Ministério Público,
+        advocacia e
+        defensoria públicas.
+
+NOÇÕES DE DIREITO CIVIL
+    Lei de introdução às normas do Direito brasileiro.
+        Vigência,
+        aplicação,
+        interpretação e integração das leis.
+        Conflito das leis no tempo.
+        Eficácia da lei no espaço.
+
+    Pessoas naturais.
+        Personalidade.
+        Capacidade.
+        Nome.
+        Estado.
+        Domicílio.
+        Direitos da personalidade.
+
+    Pessoas jurídicas.
+        Disposições gerais.
+        Domicílio.
+        Associações e fundações.
+        Bens.
+        Fatos jurídicos.
+        Negócio jurídico.
+        Atos jurídicos lícitos.
+        Atos ilícitos.
+
+    Prescrição:
+        disposições gerais.
+
+    Decadência.
+
+NOÇÕES DE DIREITO PROCESSUAL CIVIL
+    Das Normas Fundamentais e da Aplicação das Normas Processuais.
+    Jurisdição e ação;
+    Princípios constitucionais e infraconstitucionais do processo;
+    Partes e procuradores.
+    Capacidade processual.
+    Deveres das partes e dos seus procuradores.
+    Procuradores.
+    Ministério Público;
+    Advocacia Pública e
+    Defensoria Pública.
+    Órgãos judiciários;
+    Do juiz e auxiliares da Justiça.
+    Dos sujeitos do processo;
+    Atos processuais.
+
+    Processo e procedimento:
+        disposições gerais.
+
+    Procedimento comum.
+    Cumprimento de sentença.
+    Processo de execução.
+    Juizados especiais cíveis e criminais.
+
+NOÇÕES DE DIREITO PENAL
+    Aplicação da lei penal – Princípios da legalidade e da anterioridade.
+    A lei penal no tempo e no espaço.
+    Tempo e lugar do crime.
+    Lei penal excepcional, especial e temporária.
+    Territorialidade e extraterritorialidade da lei penal.
+    Pena cumprida no estrangeiro.
+    Eficácia da sentença estrangeira.
+    Contagem de prazo.
+    Frações não computáveis da pena.
+    Interpretação da lei penal.
+    Analogia.
+    Irretroatividade da lei penal.
+    Conflito aparente de normas penais.
+    Crimes contra a pessoa.
+    Crimes contra o patrimônio.
+    Crimes contra a administração pública.
+    Disposições constitucionais aplicáveis ao direito penal.
+    Crimes hediondos.
+    Abuso de autoridade.
+    Estatuto da Criança e do Adolescente.
+
+NOÇÕES DE DIREITO PROCESSUAL PENAL
+    Inquérito policial.
+    Ação penal.
+    Juiz,
+    Ministério Público,
+    acusado e defensor,
+    assistentes e auxiliares da Justiça.
+    Competência penal do STF,
+    do STJ,
+    dos tribunais estaduais e dos juízes estaduais.
+
+    Atos processuais:
+        forma,
+        tempo e
+        lugar.
+
+    Citações, intimações e notificações.
+
+    Atos jurisdicionais:
+        despachos,
+        decisões interlocutórias e
+        sentença (
+            conceito,
+            publicação,
+            efeitos).
+
+    Juizados especiais cíveis e criminais.
+
+NOÇÕES DE ADMINISTRAÇÃO DE RECURSOS HUMANOS E GESTÃO PÚBLICA
+    Modelos de gestão de pessoas – evolução dos modelos de gestão de pessoas.
+    Gestão estratégica de pessoas.
+    Gestão por competências.
+
+    Gestão de processos de mudança organizacional:
+        conceito de mudança.
+
+    Mudança e inovação organizacional.
+    Análise dos ambientes interno e externo;
+    estratégias para obter sustentação ao
+    processo de mudança.
+    Missão,
+    visão de futuro,
+    valores.
+    Indicadores de desempenho.
+
+    Modelos de gestão pública:
+            patrimonialista,
+            burocrático (Weber) e gerencial.
+
+    Conceitos de eficácia e efetividade aplicados à Administração Pública:
+        avaliação e mensuração do desempenho governamental.
+
+    Orçamento público –
+        Princípios orçamentários;
+        diretrizes orçamentárias;
+        processo orçamentário;
+
+        receita pública:
+            categorias,
+            fontes,
+            estágios;
+
+        dívida ativa;
+
+        despesa pública:
+            categorias,
+            estágios;
+
+        suprimento de fundos;
+        restos a pagar;
+        despesas de exercícios
+        anteriores.
+
+    Noções de licitação pública:
+        fases,
+        modalidades,
+        dispensa e inexigibilidade.
+
+MATEMÁTICA
+    Conjuntos:
+        operações e
+        problemas com conjuntos.
+
+    Conjuntos dos:
+        números naturais,
+        inteiros,
+        racionais,
+        reais e
+        suas operações.
+
+    Representação na reta.
+
+    Unidades de medida:
+        distância,
+        massa,
+        tempo,
+        área,
+        volume e
+        capacidade.
+
+    Álgebra:
+        produtos notáveis,
+        equações,
+        sistemas e
+        problemas do primeiro grau,
+        inequações,
+        equação
+        e problemas do segundo grau.
+
+    Porcentagem e proporcionalidade direta e inversa.
+    Sequências,
+    reconhecimento de padrões,
+    progressões aritmética e geométrica.
+    Juros e noções de matemática financeira.
+    Problemas de raciocínio.
+
+    Geometria plana:
+        distâncias e ângulos,
+        polígonos,
+        circunferência,
+        perímetro e área.
+
+    Semelhança e relações métricas no triângulo retângulo.
+    Geometria espacial:
+        poliedros,
+        prismas e
+        pirâmides,
+        cilindro,
+        cone e
+        esfera,
+        áreas e
+        volumes.
+
+    Matemática discreta:
+        princípios de contagem,
+        noção de probabilidade,
+        noções de estatística,
+        gráficos e medidas.
