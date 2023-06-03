@@ -152,8 +152,7 @@ ANALISTA DE SUPORTE COMPUTACIONAL:
             1.1 Conceitos básicos.
             1.2 Arquitetura.
             1.3 Estrutura de dados.
-            1.4 Modelagem e normalização
-            de dados.
+            1.4 Modelagem e normalização de dados.
             1.5 Noções de administração de dados e de banco de dados.
             1.6 SQL (ANSI).
             1.7 Oracle 21C,
