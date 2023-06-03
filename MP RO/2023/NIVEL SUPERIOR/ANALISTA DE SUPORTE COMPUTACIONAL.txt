@@ -7,7 +7,12 @@ ANALISTA DE SUPORTE COMPUTACIONAL:
         1.3 Sistemas de numeração e representação de dados.
         1.4 Aritmética computacional.
         2 Sistemas operacionais.
-            2.1 Conceitos de sistemas operacionais: gerência de processador, gerência de memória, gerência de entrada e saída, dispositivos e impressoras e sistemas de arquivos.
+            2.1 Conceitos de sistemas operacionais:
+                gerência de processador,
+                gerência de memória,
+                gerência de entrada e saída,
+                dispositivos e impressoras e
+                sistemas de arquivos.
             2.2 Funções básicas e componentes.
             2.3 Sistemas operacionais da família Microsoft Windows (Windows 10 em suas diferentes versões de comercialização).
         3 Ambientes Linux e Windows.
