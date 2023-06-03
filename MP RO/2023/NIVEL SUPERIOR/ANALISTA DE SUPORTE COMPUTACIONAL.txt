@@ -149,17 +149,17 @@ ANALISTA DE SUPORTE COMPUTACIONAL:
 
     BANCOS DE DADOS:
         1 Banco de dados.
-        1.1 Conceitos básicos.
-        1.2 Arquitetura.
-        1.3 Estrutura de dados.
-        1.4 Modelagem e normalização
-        de dados.
-        1.5 Noções de administração de dados e de banco de dados.
-        1.6 SQL (ANSI).
-        1.7 Oracle 21C,
-            MySql,
-            ADABAS e
-            MSSQLSERVER 2019.
+            1.1 Conceitos básicos.
+            1.2 Arquitetura.
+            1.3 Estrutura de dados.
+            1.4 Modelagem e normalização
+            de dados.
+            1.5 Noções de administração de dados e de banco de dados.
+            1.6 SQL (ANSI).
+            1.7 Oracle 21C,
+                MySql,
+                ADABAS e
+                MSSQLSERVER 2019.
         1.8 Arquitetura e políticas de armazenamento de dados.
             Engenharia de dados – ingestão e armazenamento de grande quantidade de dados (Big Data).
 
