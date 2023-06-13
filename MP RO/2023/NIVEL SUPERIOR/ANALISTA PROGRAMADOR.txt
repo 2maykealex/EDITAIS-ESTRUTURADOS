@@ -1,3 +1,5 @@
+2023-06-06 - Link_edital: https://cdn.cebraspe.org.br/concursos/MPE_RO_23/arquivos/ED_1_2023_MPE_RO_SERVIDOR_ABERTURA.PDF
+
 ANALISTA PROGRAMADOR:
     ENGENHARIA E ARQUITETURA DE SOFTWARE:
         Ciclo de vida do software.
