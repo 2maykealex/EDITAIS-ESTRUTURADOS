@@ -252,8 +252,8 @@ GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
         1.1 Projetos e a organização.
         1.2 Escritório de projetos.
         1.2.1 Modelos e características.
-    2 Processos, grupos de processos e área de conhecimento.
-    3 Gestão de riscos.
+        2 Processos, grupos de processos e área de conhecimento.
+        3 Gestão de riscos.
     4 Gerenciamento de serviços (ITIL v4).
         4.1 Conceitos básicos,
             disciplinas,
