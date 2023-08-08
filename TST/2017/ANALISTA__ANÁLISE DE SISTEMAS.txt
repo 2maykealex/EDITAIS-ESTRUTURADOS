@@ -1,0 +1,94 @@
+ANALISTA JUDICIÁRIO – ÁREA APOIO ESPECIALIZADO – ESPECIALIDADE ANÁLISE DE SISTEMAS
+
+LINK EDITAL: http://www.concursosfcc.com.br/concursos/tstdc117/boletim_tstdc117_final_site.pdf
+
+Bancos de Dados:
+    Características de um SGBD. Modelo relacional. Modelagem de bancos de dados. Modelo Entidade-Relacionamento.
+    Normalização de Banco de Dados.
+    SQL.
+    Oracle PL/SQL, SQL Server.
+    Princípios sobre administração de bancos de dados.
+
+Engenharia e Desenvolvimento de Software:
+    Princípios de engenharia de software.
+    Ciclo de vida de sistemas.
+    Processos de software.
+    Métodos ágeis (eXtreme Programming – XP, Scrum, Kanban).
+    Modelos de desenvolvimento de sistemas.
+    Engenharia de requisitos.
+    Testes de software.
+    Princípios sobre qualidade de software:
+        modelo MPS.BR e CMMI-DEV versão 1.3.
+            Análise e projeto estruturados de sistemas.
+            Modelagem de processos (BPMN).
+
+    Modelagem funcional.
+        Modelagem de dados.
+        Modelagem orientada a objetos.
+        Conceitos sobre orientação a objetos:
+            (classes,
+            atributos,
+            objetos,
+            métodos,
+            herança,
+            interfaces e outras hierarquias).
+
+        Análise e projeto orientados a objetos (UML).
+        Estruturas de dados e de controle de fluxo.
+        Funções e procedimentos.
+        Controle de versões com Git e SVN.
+        Conceitos de linguagens estruturadas.
+        Conceitos de linguagens orientadas a objetos.
+        Conceitos de Web Services SOAP e REST.
+        Aspectos gerais das linguagens
+            PHP,
+            HTML5,
+            XML,
+            Java SE,
+            Java EE,
+            JUnit.
+        Padrões de Projeto (design patterns).
+        Conceitos sobre desenvolvimento Web e cliente/servidor.
+        Web Standards,
+        W3C;
+        CSS3,
+        Javascript (ECMAScript 6),
+        bootstrap,
+        jquery.
+
+    Sistemas de apoio à decisão:
+        Arquitetura OLAP, ETL, Data Mining, Data Warehouse.
+        ERP.
+        Business Intelligence:
+        Conceitos Princípios e Processos.
+
+Governança e Gestão de TI:
+    Planejamento estratégico de TI – PETI.
+        Alinhamento estratégico entre áreas de TI e negócios.
+        Políticas e procedimentos.
+
+    Estrutura organizacional e responsabilidades da TI.
+    Responsabilidade e papéis da TI.
+    Segregação de funções de TI.
+    Controles de segregação de funções.
+    Processos de definição, implantação e gestão de políticas organizacionais.
+    Práticas de gestão da TI.
+    Gestão de pessoal.
+    Terceirização da TI.
+    Gestão de mudanças organizacionais.
+    Gestão de riscos.
+    Programa de gestão de riscos.
+    Processo de gestão de riscos.
+    Métodos de análise de riscos.
+
+    Governança e Gestão de TI com COBIT 5 -
+        Estrutura,
+        objetivos e
+        conceitos gerais.
+
+    Gestão de serviços de TI com ITIL v3 Edição 2011 -
+        Estrutura,
+        objetivos e
+        conceitos gerais.
+
+    Gestão de projetos com PMBOK 5ª Edição.

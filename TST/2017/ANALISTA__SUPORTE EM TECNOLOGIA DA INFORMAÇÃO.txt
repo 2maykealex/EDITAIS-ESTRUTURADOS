@@ -1,0 +1,121 @@
+ANALISTA JUDICIÁRIO – ÁREA APOIO ESPECIALIZADO – ESPECIALIDADE SUPORTE EM TECNOLOGIA DA INFORMAÇÃO
+
+LINK EDITAL: http://www.concursosfcc.com.br/concursos/tstdc117/boletim_tstdc117_final_site.pdf
+
+Redes de Computadores:
+    Tipos e meios de transmissão e de cabeamento.
+    Técnicas de circuitos, pacotes e células.
+    Tecnologias de redes locais e de longa distância (LAN, MAN e WAN).
+    Características dos principais protocolos de comunicação.
+    Topologias.
+    Elementos de interconexão de redes de computadores (gateways,
+        hubs,
+        repetidores,
+        bridges,
+        switches e
+        roteadores).
+
+    Modelo de referência OSI.
+    Arquitetura TCP/IP:
+        Protocolos,segmentação e endereçamento,
+        serviço DNS e entidades de registros.
+
+    Arquitetura cliente/servidor.
+    Servidores de e-mail,
+    servidores Web,
+    servidores Proxy,
+    servidores Antispam,
+    Puppet.
+    Administração e gerência de redes de computadores.
+    Tipos de serviço e QoS.
+    Conceitos de Voz sobre IP.
+    Modelos de Domínio em Rede Windows Server 2012 e 2016 e Serviços de Diretório (Active Directory).
+
+Bancos de Dados:
+    Características de um SGBD.
+    Modelo relacional, em rede, hierárquico, distribuído e orientado a objetos.
+    Princípios sobre administração de bancos de dados.
+    Conhecimentos de SGBD ORACLE e PostgreSQL.
+
+Segurança da Informação:
+    Gerência de Riscos.
+    Classificação e controle dos ativos de informação.
+    Controles de acesso físico e lógico.
+    Plano de Continuidade de Negócio (plano de contingência e de recuperação de desastres).
+    Conceitos de backup e recuperação de dados.
+    Tratamento de incidentes e problemas.
+    Vírus de computador e outros malwares (cavalos de troia,
+        adware,
+        spyware,
+        backdoors,
+        keyloggers,
+        worms,
+        bots,
+        botnets,
+        rootkits,
+        ransomware)
+
+    Ataques e proteções relativos a hardware,
+        software,
+        sistemas operacionais,
+        aplicações,
+        bancos de dados,
+        redes,
+        pessoas e ambiente físico.
+
+    Segurança de Redes.
+    Monitoramento de tráfego.
+    Sniffer de rede.
+    Interpretação de pacotes.
+    Detecção e prevenção de ataques (IDS e IPS).
+    Arquiteturas de firewalls.
+    Ataques e ameaças da Internet e de redes sem fio:
+        (Phishing Scam,
+        spoofing,
+        DoS,
+        DDoS,
+        flood).
+
+    Criptografia.
+    Conceitos básicos de criptografia.
+    Sistemas criptográficos simétricos e de chave pública.
+    Certificação e assinatura digital.
+    Características dos principais protocolos criptográficos.
+    NBR ISO/IEC 17799:2005.
+    Estrutura, objetivos e conceitos gerais.
+
+Governança da TI:
+    Planejamento estratégico da TI – PETI.
+        Alinhamento estratégico entre área de TI e negócios.
+        Políticas e procedimentos.
+    Estrutura organizacional e responsabilidades de TI.
+        Responsabilidade e papéis da TI.
+        Segregação de funções de TI.
+        Controles de segregação de funções.
+        Processos de definição, implantação e gestão de políticas organizacionais.
+        Práticas de gestão da TI.
+        Gestão de pessoal.
+        Terceirização da TI.
+    Gestão de mudanças organizacionais.
+        Gestão de riscos.
+        Programa de gestão de riscos.
+        Processo de gestão de riscos.
+        Métodos de análise de riscos.
+    COBIT 5:
+        estrutura, objetivos e conceitos gerais.
+        ITIL v3 2011:
+            estrutura, objetivos e conceitos gerais.
+    Gerenciamento de Projetos (PMBOK 5):
+        conceitos gerais.
+
+Sistemas Operacionais:
+    Microsoft Windows Server 2012 e 2016.
+    Red Hat Enterprise Linux (RHEL) versões 5, 6 e 7.
+
+Virtualização e Cloud Computing:
+    conceitos básicos.
+        VMware vSphere 6:
+            fundamentos, configuração, administração e alta disponibilidade.
+        Servidores de Aplicação Java EE:
+            JBoss EAP 6 e Tomcat:
+                conceitos básicos, administração e configuração.
