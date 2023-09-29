@@ -1,0 +1,101 @@
+LINK EDITAL: https://www.iades.com.br/inscricao/upload/330/2023092015204439.pdf
+
+1. CONHECIMENTO GERAIS PARA TODAS AS ESPECIALIDADES:
+
+1.1 Língua Portuguesa e Redação Oficial.
+    1 Compreensão e interpretação de textos de gêneros variados.
+    2 Reconhecimento de tipos e gêneros textuais.
+    3 Domínio da ortografia oficial.
+    4 Domínio dos mecanismos de coesão textual.
+        4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+        4.2 Emprego de tempos e modos verbais.
+
+    5 Domínio da estrutura morfossintática do período.
+        5.1 Emprego das classes de palavras.
+        5.2 Relações de coordenação entre orações e entre termos da oração.
+        5.3 Relações de subordinação entre orações e entre termos da oração.
+        5.4 Emprego dos sinais de pontuação.
+        5.5 Concordância verbal e nominal.
+        5.6 Regência verbal e nominal.
+        5.7 Emprego do sinal indicativo de crase.
+        5.8 Colocação dos pronomes átonos.
+
+    6 Reescrita de frases e parágrafos do texto.
+        6.1 Significação das palavras.
+        6.2 Substituição de palavras ou de trechos de texto.
+        6.3 Reorganização da estrutura de orações e de períodos do texto.
+        6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+
+    7 Correspondência oficial (conforme Manual de Redação da Presidência da República).
+        7.1 Comunicação oficial.
+        7.2 Redação Oficial.
+        7.3 Elementos que compõem a estrutura dos documentos.
+        7.4 Uso do correio eletrônico (e-mail) corporativo.
+        7.5 Tipos de documentos.
+        7.6 Ato Normativo.
+
+1.2 Noções de Direito Administrativo:
+    1 Estado, governo e administração pública:
+        conceitos,
+        elementos,
+        poderes e organização;
+        natureza, fins e princípios.
+
+    2 Organização administrativa da União; administração direta e indireta.
+    3 Agentes públicos: espécies e classificação; poderes, deveres e prerrogativas; cargo, emprego e função públicos.
+    4 Lei nº 8.112/1990 e suas alterações (Regime Jurídico Único).
+        4.1 Título II: Do provimento, vacância, remoção, redistribuição e substituição.
+        4.2 Título III: Direitos e vantagens.
+        4.3 Do regime disciplinar.
+        4.4 Título IV: Dos deveres.
+
+    5 Poderes administrativos:
+        poder hierárquico,
+        poder disciplinar,
+        poder regulamentar,
+        poder de polícia,
+        uso e abuso do poder.
+
+    6 Serviços Públicos:
+        conceito,
+        classificação,
+        regulamentação e
+        controle;
+        forma,
+        meios e requisitos;
+        delegação:
+            concessão,
+            permissão,
+            autorização.
+
+    7 Controle e responsabilização da administração:
+        controle administrativo;
+        controle judicial;
+        controle legislativo;
+        responsabilidade civil do Estado.
+
+    8 Lei nº 9.784/1999 (Lei do Processo Administrativo).
+    9 Licitações e contratos na Administração Pública.
+        9.1 Lei n.º 8.666/1993.
+        9.2 Lei nº 14.133/2021.
+
+1.3 Noções de Direito Constitucional:
+    1 Direitos e garantias fundamentais:
+        direitos e deveres individuais e coletivos;
+        direito à vida,
+        à liberdade,
+        à igualdade,
+        à segurança e
+        à propriedade;
+        direitos sociais;
+        garantias constitucionais individuais;
+
+    2 Administração pública (artigos de 37 a 41, capítulo VII da Constituição Federal).
+
+1.4 Noções de Ética no Serviço Público.
+    1 Ética e função pública.
+    2 Ética no setor público.
+        2.1 Decreto nº 1.171/1994 e suas alterações (Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal).
+        2.2 Decreto nº 6.029/2007 e suas alterações (Institui Sistema de Gestão da Ética do Poder Executivo Federal).
+
+    3 Lei nº 8.429/1992 e suas alterações (Lei de Improbidade Administrativa).
