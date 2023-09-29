@@ -1,0 +1,267 @@
+https://www.camara.leg.br/midias/file/2023/08/cdep-edital-1.pdf
+https://conhecimento.fgv.br/sites/default/files/concursos/cdep-edital-1-contador-informatica-legislativa-e-tecnico-em-material-e-patrimonio.pdf
+
+LÍNGUA PORTUGUESA
+    1.Interpretação e compreensão de texto.
+        Organização estrutural dos textos.
+
+    2 Marcas de textualidade:
+        coesão,
+        coerência e
+        intertextualidade.
+
+    3 Modos de organização discursiva:
+        descrição,
+        narração,
+        exposição,
+        argumentação e injunção;
+        características específicas de cada modo.
+
+    4 Tipos textuais.
+    5 Tipologia da frase portuguesa.
+    6 Estrutura da frase portuguesa:
+        operações de deslocamento,
+        substituição,
+        modificação e correção.
+        Problemas estruturais das frases.
+        Norma culta.
+        Pontuação e sinais gráficos.
+        Organização sintática das frases:
+            termos e orações.
+        Ordem direta e inversa.
+
+    7 Tipos de discurso.
+    8  Registros de linguagem.
+        Funções da linguagem.
+
+    9  Elementos dos atos de comunicação.
+    10  Estrutura e formação de palavras.
+        Formas de abreviação.
+
+    11  Classes de palavras:
+            os aspectos morfológicos,
+            sintáticos,
+            semânticos e textuais de substantivos,
+            adjetivos,
+            artigos,
+            numerais,
+            pronomes,
+            verbos,
+            advérbios,
+            conjunções e interjeições;
+            os modalizadores.
+
+    12  Semântica:
+        sentido próprio e figurado;
+        antônimos,
+        sinônimos,
+        parônimos e hiperônimos.
+        Polissemia e ambiguidade.
+        Os dicionários:
+            tipos; a organização de verbetes.
+
+    13  Vocabulário:
+        neologismos,
+        arcaísmos,
+        estrangeirismos;
+        latinismos.
+
+    14  Ortografia e acentuação gráfica.
+        A crase.
+
+LÍNGUA INGLESA
+    1.Conhecimento e uso das formas contemporâneas da linguagem inglesa.
+    2 Compreensão e interpretação de textos variados:
+        domínio do vocabulário e da estrutura da língua,
+        ideias principais e secundárias,
+        explícitas e
+        implícitas,
+        relações intratextuais e intertextuais.
+
+    3 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos.
+      Palavras e expressões equivalentes.
+      Elementos de referência.
+
+DIREITO CONSTITUCIONAL E REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS
+Direito Constitucional:
+    1 Constituição de 1988:
+        conceito,
+        contexto histórico,
+        características,
+        estrutura do texto.
+
+    2 Poder constituinte:
+        conceito,
+        espécies,
+        limites.
+
+    3 Princípios Fundamentais.
+        Direitos e garantias fundamentais:
+            direitos e deveres individuais e coletivos,
+            direitos sociais,
+            nacionalidade,
+            direitos políticos e
+            partidos políticos.
+
+    4 Organização do Estado:
+        organização político-administrativa,
+        União,
+        Estados,
+        Municípios,
+        Distrito Federal e Territórios.
+        Intervenção Federal.
+
+    5 Administração Pública:
+        disposições gerais,
+        servidores públicos civis e militares.
+
+    6 Poder Legislativo.
+        O Congresso Nacional e suas Casas:
+            atribuições,
+            competências,
+            reuniões e comissões.
+        Regime Jurídico-constitucional dos Parlamentares.
+        Processo Legislativo.
+        Fiscalização Contábil,
+        Financeira e Orçamentária.
+
+    7 Poder Executivo:
+        atribuições e responsabilidades do Presidente da República.
+        Atribuições dos Ministros de Estado.
+
+    8 Poder Judiciário:
+        órgãos,
+        composição,
+        garantias e competências.
+        Funções Essenciais à Justiça.
+
+    9 Defesa do Estado e das Instituições Democráticas.
+
+Regimento Interno da Câmara dos Deputados:
+    1 Disposições Preliminares:
+        arts. 1º a 13.
+
+    2 Órgãos da Câmara:
+        arts.14 a 22.
+
+    3 Sessões da Câmara:
+        arts. 65 a 78.
+
+    4 Exercício do Mandato:
+        arts. 226 a 243.
+
+DIREITO ADMINISTRATIVO
+    1 Conceitos e princípios.
+        Estado.
+        Governo.
+        Administração Pública.
+        Reformas administrativas.
+
+    2 Organização da Administração.
+        Entidades paraestatais e o Terceiro Setor.
+        A Administração na Constituição de 1988.
+
+    3 Poderes e Deveres Administrativos:
+        poder discricionário,
+        poder regulamentar,
+        poder hierárquico e disciplinar,
+        poder de polícia.
+        Uso e abuso de poder.
+
+    4 Atos Administrativos:
+        conceito,
+        requisitos,
+        atributos,
+        classificação,
+        espécies,
+        extinção,
+        nulidades e revogação.
+
+    5 Agentes Públicos:
+        disposições constitucionais,
+        regime jurídico,
+        Lei nº 8.112/1990,
+        cargo público,
+        provimento,
+        investidura,
+        estabilidade,
+        acumulação,
+        regime disciplinar e
+        seguridade social.
+
+    6 Processo Administrativo Federal.
+        Lei nº 9.784/1999.
+
+    7 Licitações e contratos administrativos:
+        conceito,
+        princípios,
+        contratação direta,
+        modalidades e tipos.
+        Fracionamento de despesa.
+        Gestão de contratação de soluções de TI.
+        Legislação aplicável à contratação de bens e serviços de TI (Lei 14.133/2021).
+        Elaboração e fiscalização de contratos de Tecnologia da Informação.
+
+    8 Controle Interno e Externo da Administração.
+    9 Responsabilidade Civil do Estado.
+    10 Improbidade Administrativa (Lei nº 8.429/1992).
+    11 Lei de Acesso à Informação (Lei nº 12.527/2011).
+    12 Lei Geral de Proteção de Dados (Lei nº 13.709/2018).
+
+RACIOCÍNIO LÓGICO-MATEMÁTICO
+    1 Lógica:
+        proposições,
+        conectivos,
+        equivalências lógicas,
+        quantificadores e predicados.
+    2 Conjuntos e suas operações, diagramas.
+    3 Números inteiros, racionais e reais e suas operações, porcentagem e juros.
+    4 Proporcionalidade direta e inversa.
+    5 Estrutura lógica de relações arbitrárias entre:
+        pessoas,
+        lugares,
+        objetos
+        ou eventos fictícios;
+        dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações.
+
+    6 Compreensão e análise da lógica de uma situação,
+        utilizando as funções intelectuais:
+        raciocínio verbal,
+        raciocínio matemático,
+        raciocínio sequencial,
+        orientação
+        espacial e temporal,
+        formação de conceitos,
+        discriminação de elementos.
+
+    7 Compreensão de dados apresentados em gráficos e tabelas.
+    8 Raciocínio lógico envolvendo problemas aritméticos.
+    9 Problemas de contagem e noções de probabilidade.
+
+ADMINISTRAÇÃO ORÇAMENTÁRIA E FINANCEIRA
+    1 Orçamento Público:
+        conceitos e princípios.
+        Orçamento-programa:
+            fundamentos e técnicas.
+        O orçamento na Constituição de 1988.
+        Processo de planejamento orçamentário:
+            plano plurianual,
+            lei de diretrizes
+            orçamentárias e lei orçamentária anual.
+
+    2 Ciclo orçamentário:
+        elaboração,
+        discussão,
+        votação,
+        aprovação,
+        execução e avaliação.
+
+    3 Classificações orçamentárias:
+        conceituação,
+        classificação e estágios da receita e da despesa públicas.
+
+    4 Dívida ativa.
+        Regime de adiantamento (suprimento de fundo).
+        Restos a pagar.
+        Despesas de exercícios anteriores.
+        Dívida pública.

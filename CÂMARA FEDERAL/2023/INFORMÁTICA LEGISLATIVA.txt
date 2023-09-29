@@ -1,0 +1,345 @@
+https://www.camara.leg.br/midias/file/2023/08/cdep-edital-1.pdf
+https://conhecimento.fgv.br/sites/default/files/concursos/cdep-edital-1-contador-informatica-legislativa-e-tecnico-em-material-e-patrimonio.pdf
+
+Atribuição: INFORMÁTICA LEGISLATIVA
+
+ARQUITETURA DE SISTEMAS DA INFORMAÇÃO
+    1. Domínio dos padrões arquiteturais de modo a projetar soluções estratégicas de TI com os recursos disponíveis:
+        Design Patterns.
+        Padrões de Projeto (
+            GoF,
+            de criação,
+            estruturais,
+            comportamentais).
+        Domínio dos padrões GRASP (controller, expert).
+        Arquiteturas em:
+            camadas,
+            baseada em serviços,
+            microsserviços,
+            orientação a eventos,
+            cliente-servidor,
+            serverless.
+
+        Arquitetura hexagonal.
+        Anti-padrões arquiteturais.
+        Programação assíncrona.
+        Ferramentas de integração assíncrona.
+        Programação multithread.
+        Protocolos HTTP/2,
+        gRPC e WebSockets.
+
+    2 Domínio no desenvolvimento de front-end, back-end e full stack:
+        Linguagens de programação:
+            Java,
+            JavaScript.
+            SQL (Procedural Language / Structured Query Language).
+
+        Tecnologias e práticas front-end web:
+            HTML,
+            CSS,
+            Ajax,
+            frameworks (Bootstrap,
+            VueJS 3.x,
+            Angular e React).
+
+        Padrões de front-end:
+            SPA e PWA.
+
+        Tecnologias e frameworks backend:
+            Hibernate,
+            SpringBoot,
+            SpringMVC,
+            NodeJS.
+
+        Especificação:
+            JVM.
+
+        Tecnologia de desenvolvimento móvel:
+            Android (Kotlin),
+            IOS (Swift),
+            Ionic e Banco de Dados SQLite.
+
+    3. Soluções propostas integradas por meio de serviços aos sistemas existentes:
+        Web services.
+        RESTful e GraphQL.
+        Microsserviços (orquestração de serviços e API gateway).
+        Padrões de microsserviços (SAGA e CQRS).
+        Transações distribuídas.
+
+    3 Fundamentos de Modelagem, implementação e automação de testes:
+        Controles e testes de segurança para aplicações web.
+        Controles e testes de segurança para Web Services.
+
+        Testes de software:
+            Testes unitários,
+            Testes de Integração,
+            TDD,
+            BDD.
+            Frameworks (
+                JUnit 5,
+                Mockito,
+                Selenium,
+                Jest,
+                Cucumber,
+                Karate DSL).
+
+    4 Fundamentos de autenticação Oauth e segurança de código:
+        Conceitos de gestão de identidades e acesso;
+        autenticação e autorização,
+        Single Sign-On (SSO);
+        OAuth2.
+        Privacidade e segurança por padrão.
+        Criptografia e proteção de dados em trânsito e em repouso.
+        SSL, mTLS.
+        Assinatura e certificação digital (ICP-Brasil).
+        Gestão de segredos.
+        Conceito de zero-trust security.
+
+    5 Fundamentos de Sistemas de Mensageria:
+        Mensageria.
+        Ferramentas RabbitMQ Kafka,
+        ActiveMQ, e
+        WebSphereMQ.
+
+    6 Fundamentos de monitoramento de aplicações e análise de desempenho:
+        Análise de logs
+        e conhecimento de aplicações como logStash,
+        Kibana para análise e tomada de decisões quanto a desempenho.
+
+    7 Domínio de uso de ambientes com sistemas em containers:
+        Containers.
+        Engine (Docker).
+        Orquestração (Kubernetes).
+
+    8 Experiência do usuário e acessibilidade digital.
+        Práticas de UX e UI design.
+        Arquitetura da informação.
+        Padrão WCAG 2.1.
+        HTML semântico.
+
+    9 Ciência de Dados.
+        9.1 Gestão e Análise de Dados.
+            SGBDs SQL e NOSQL.
+            Modelagens de dados.
+            Painéis de dados.
+            Data warehouse.
+            Data lake.
+            Data mart.
+            Data staging area.
+            Data mining.
+            Big data.
+            ETL.
+            MOLAP.
+            ROLAP.
+            HOLAP.
+            Análise exploratória de dados.
+            Governança de Dados.
+
+        9.2 Inteligência Artificial.
+            Aprendizado de máquina.
+            Deep learning.
+            Treinamento de modelos de Inteligência Artificial.
+            Processamento de linguagem natural.
+            Transfer Learning.
+            Python.
+
+    10 Gestão de projetos e riscos e governança de Tecnologia da Informação.
+        10.1 Gestão de projetos e governança de Tecnologia da Informação.
+            PMBOK.
+            Scrum.
+            Kanban.
+            Lean Product Development.
+            Modelagem de processos BPMN.
+            COBIT 2019.
+            ITIL v4.
+            Planejamento estratégico e tático de TIC.
+            Transformação Digital.
+
+        10.2 Gestão de Riscos de Tecnologia da Informação e Comunicação.
+            ISO 31000 (Gestão de Riscos).
+
+ARQUITETURA DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+    1 Fundamentos.
+        Operação e administração de sistemas operacionais Microsoft Windows Server e Linux.
+        Programação em linguagens de script:
+            shell script (bash),
+            Python,
+            Windows Power Shell,
+            Ruby.
+            Arquitetura de computadores servidores.
+
+        2 Automação de Infraestrutura de Tecnologia da Informação e Comunicação.
+            Conceitos de infraestrutura como código e automação de infraestrutura de TI.
+            Ferramentas de gerenciamento de configuração,
+                aprovisionamento,
+                orquestração e automação:
+                Puppet,
+                Jenkins,
+                Ansible.
+            Administração e gerenciamento de ambientes de virtualização VMWare e KVM/PROXMOX.
+
+        3 Storage e Backup.
+            Administração e operação de serviços de arquivamento.
+            Implantação e administração de soluções de proteção e de recuperação de dados contra-ataques cibernéticos.
+            Implantação e administração de serviços de nuvem e multicamada.
+
+        4 Rede de Computadores.
+            Arquitetura TCP/IP:
+                protocolos,
+                segmentação e endereçamento.
+
+            Conceitos dos protocolos de roteamento estático,
+                OSPF e BGP;
+                Redes LAN,
+                VLAN,
+                MAN,
+                WAN e
+                sem fio (wireless).
+
+            Frequências licenciadas e propagação de sinais padrão 802.11.
+            Atenuação, interferência e degradação de sinais no padrão 802.11.
+            Qualidade de Serviço (QoS),
+            serviços diferenciados e serviços integrados.
+            Aplicações de voz e imagem em movimento (vídeo) sobre redes.
+            Conhecimentos de Multicast,
+            IGMP,
+            PIM-SM.
+            Conceitos de Software Defined Networks (SDN).
+            Autenticação 802.1x.
+            Conhecimento dos padrões e normas:
+                NBR 14565 e
+                ISO/IEC 11801 (cabeamento estruturado rede interna - predial),
+                NBR 16665 e ISO/IEC 24764 (data centers) e
+                EIA/TIA 568A e 568B (conectorização UTP).
+            Serviços de Rede Microsoft Windows Server:
+                DNS,
+                DHCP,
+                Radius,
+                Autenticação,
+                Certificados,
+                Active Directory (AD).
+
+        5 Infraestrutura de Aplicações.
+            Arquitetura de sistemas web:
+                protocolo HTTP,
+                SSL,
+                servidores proxy,
+                cache,
+                DNS,
+                balanceamento de carga,
+                tolerância a falhas e escalabilidade em sistemas web.
+                Alta Disponibilidade,
+
+            Clusterização e Escalabilidade de servidores e serviços.
+            Balanceamento de Carga.
+            Proxy Reverso.
+            Proxy cache.
+            HAproxy.
+            Nginx.
+            Plataforma e Infraestrutura como Serviço (
+                SaaS,
+                PaaS,
+                IaaS).
+
+            Princípios e práticas de DevOps e DevSecOps,
+            englobando integração e entrega contínuas (CI/CD).
+            Docker, Kubernetes:
+                boas práticas para infraestrutura de containers.
+                Orquestração de containers.
+                Gerência de configuração de software:
+                    Git,
+                    multirepos e monorepos,
+                    Gitflow.
+
+        6 Banco de Dados.
+            Conhecimentos de Sistemas Gerenciadores de Banco de Dados (SGBD) relacionais Oracle Database Server,
+            Microsoft SQL Server e PostgreSQL.
+            Instalação e configuração.
+            Administração (infraestrutura e aplicação).
+            Backup e recuperação.
+            Ajuste de desempenho de banco de dados.
+            Bancos de dados NoSQL.
+            Linguagem SQL e linguagem de programação para banco de dados.
+            Ajuste de desempenho de aplicação.
+            Ajuste de desempenho de comandos de SQL.
+            Tolerância a falhas e continuidade de operação.
+            Auditoria de banco de dados.
+            Configuração de auditoria de dados.
+            Produção de relatórios de auditoria.
+
+        7 Monitoramento de Infraestrutura de Tecnologia da Informação e Comunicação.
+            Simple Network Management Protocol (SNMP) v2 e v3.
+            Protocolos de monitoramento de sistemas e ativos de rede.
+            Observabilidade.
+            Coleta e análise de logs e métricas.
+            Monitorar e analisar o desempenho de sistemas em produção por meio do uso de ferramentas de monitoramento e logging,
+                como o Nagios,
+                Prometheus,
+                Grafana,
+                Elasticsearch,
+                Kibana,
+                Application Performance Monitoring (APM),
+                entre outras.
+
+SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO
+    1 Sistemas de criptografia simétrica e assimétrica.
+        1.1 Protocolos de autenticação Windows NT LAN Manager (NTLM) e Kerberos.
+            Soluções para Segurança da Informação:
+                Firewall,
+                Intrusion Detection System (IDS),
+                Intrusion Prevention System (IPS),
+                Security Information and Event Management (SIEM),
+                Proxy,
+                Identity Access Management (IAM),
+                Privileged Access Management (PAM),
+                Antivírus,
+                Antispam.
+
+        1.2 Protocolos da criptografia Secure Sockets Layer (SSL) e Transport Layer Security (TLS).
+        1.3 Infraestrutura de chaves públicas:
+            UIT-T X.509.
+            ICP-Brasil.
+            Certificação e assinatura digital.
+
+        1.4 Protocolos da camada de aplicação, como:
+            Simple Mail Transfer Protocol (SMTP),
+            Hypertext Transfer Protocol (HTTP),
+            Hypertext Transfer Protocol (HTTPS), SSL/TLS,
+            Lightweight Directory Access Protocol (LDAP),
+            Network File System (NFS),
+            Server Message Block (SMB).
+
+    2 Estruturas de gestão de riscos,
+        como NIST (National Institute of Standards and Technology)
+        RMF (Risk Management Framework).
+
+    3 Sistema de gestão de segurança da informação, nos termos da ISO/IEC 27001.
+        Controles de segurança como os do CIS (Center for Internet Security),
+        da ISO/IEC 27002 e do NIST SP (Special Publication) 800-53.
+
+    4 Gerenciamento de Riscos em Tecnologia da Informação e Comunicação (TIC) de acordo com a norma ISO/IEC 27005.
+
+    5 Avaliação de segurança em produtos de Tecnologia da Informação e Comunicação (TIC) de acordo com a norma ISO/IEC 15408.
+    6 Frameworks de segurança da informação e segurança cibernética,
+        como MITRE ATT&CK,
+        Cyber Security Body Of Knowledge (CyBOK) e
+        NIST Cybersecurity Framework.
+
+    7 Gestão de incidentes de segurança,
+        nos termos do NIST SP 800-61 e do SANS
+        Incident Handler’s Handbook.
+        Principais tipos de ataques e vulnerabilidades.
+        Boas práticas da Open Worldwide Application Security Project (OWASP).
+        Técnicas de desenvolvimento seguro.
+
+    8 Gestão de identidades e acesso;
+        autenticação e autorização,
+        Single Sign-On (SSO);
+        Security Assertion Markup Language (SAML),
+        OAuth2 e OpenId Connect.
+
+    9 Múltiplos Fatores de Autenticação (MFA).
+        Conceitos e ferramentas de Blue Team e Red Team.
+
+    10 Gestão de continuidade de negócio.
+    11 Privacidade e segurança por padrão.
