@@ -315,21 +315,19 @@ SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO
         como NIST (National Institute of Standards and Technology)
         RMF (Risk Management Framework).
 
-    3 Sistema de gestão de segurança da informação, nos termos da ISO/IEC 27001.
+    3 Sistema de gestão de segurança da informação, nos termos da ISO/IEC 27001: 2013.
         Controles de segurança como os do CIS (Center for Internet Security),
-        da ISO/IEC 27002 e do NIST SP (Special Publication) 800-53.
+        da ISO/IEC 27002: 2013 e do NIST SP (Special Publication) 800-53.
 
-    4 Gerenciamento de Riscos em Tecnologia da Informação e Comunicação (TIC) de acordo com a norma ISO/IEC 27005.
+    4 Gerenciamento de Riscos em Tecnologia da Informação e Comunicação (TIC) de acordo com a norma ISO/IEC 27005: 2019.
 
     5 Avaliação de segurança em produtos de Tecnologia da Informação e Comunicação (TIC) de acordo com a norma ISO/IEC 15408.
-    6 Frameworks de segurança da informação e segurança cibernética,
-        como MITRE ATT&CK,
+    6 Frameworks de segurança da informação e segurança cibernética, como:
+        MITRE ATT&CK,
         Cyber Security Body Of Knowledge (CyBOK) e
         NIST Cybersecurity Framework.
 
-    7 Gestão de incidentes de segurança,
-        nos termos do NIST SP 800-61 e do SANS
-        Incident Handler’s Handbook.
+    7 Gestão de incidentes de segurança, nos termos do NIST SP 800-61 e do SANS Incident Handler’s Handbook.
         Principais tipos de ataques e vulnerabilidades.
         Boas práticas da Open Worldwide Application Security Project (OWASP).
         Técnicas de desenvolvimento seguro.
@@ -345,25 +343,3 @@ SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO
 
     10 Gestão de continuidade de negócio.
     11 Privacidade e segurança por padrão.
-
-1 Sistemas de criptografia simétrica e assimétrica. 1.1 Protocolos de autenticação Windows NT LAN Manager
-(NTLM) e Kerberos. Soluções para Segurança da Informação: Firewall, Intrusion Detection System (IDS),
-Intrusion Prevention System (IPS), Security Information and Event Management (SIEM), Proxy, Identity
-Access Management (IAM), Privileged Access Management (PAM), Antivírus, Antispam. 1.2 Protocolos da
-criptografia Secure Sockets Layer (SSL) e Transport Layer Security (TLS). 1.3. Infraestrutura de chaves públicas
-UIT-T X.509. ICP-Brasil. Certificação e assinatura digital. 1.3 Protocolos da camada de aplicação, como Simple
-Mail Transfer Protocol (SMTP), Hypertext Transfer Protocol (HTTP), Hypertext Transfer Protocol (HTTPS),
-SSL/TLS, Lightweight Directory Access Protocol (LDAP), Network File System (NFS), Server Message Block
-(SMB). 2 Estruturas de gestão de riscos, como NIST (National Institute of Standards and Technology) RMF
-(Risk Management Framework). 3 Sistema de gestão de segurança da informação, nos termos da ISO/IEC
-27001. Controles de segurança como os do CIS (Center for Internet Security), da ISO/IEC 27002 e do NIST SP
-(Special Publication) 800-53. 4 Gerenciamento de Riscos em Tecnologia da Informação e Comunicação (TIC)
-de acordo com a norma ISO/IEC 27005. 5 Avaliação de segurança em produtos de Tecnologia da Informação
-e Comunicação (TIC) de acordo com a norma ISO/IEC 15408. 6 Frameworks de segurança da informação e
-segurança cibernética, como MITRE ATT&CK, Cyber Security Body Of Knowledge (CyBOK) e NIST
-Cybersecurity Framework. 7 Gestão de incidentes de segurança, nos termos do NIST SP 800-61 e do SANS
-Incident Handler’s Handbook. Principais tipos de ataques e vulnerabilidades. Boas práticas da Open
-Worldwide Application Security Project (OWASP). Técnicas de desenvolvimento seguro. 8 Gestão de
-identidades e acesso; autenticação e autorização, Single Sign-On (SSO); Security Assertion Markup Language
-(SAML), OAuth2 e OpenId Connect. 9 Múltiplos Fatores de Autenticação (MFA). Conceitos e ferramentas de
-Blue Team e Red Team. 10 Gestão de continuidade de negócio. 11 Privacidade e segurança por padrão.
