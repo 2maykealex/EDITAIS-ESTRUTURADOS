@@ -363,9 +363,6 @@ e Comunicação (TIC) de acordo com a norma ISO/IEC 15408. 6 Frameworks de segur
 segurança cibernética, como MITRE ATT&CK, Cyber Security Body Of Knowledge (CyBOK) e NIST
 Cybersecurity Framework. 7 Gestão de incidentes de segurança, nos termos do NIST SP 800-61 e do SANS
 Incident Handler’s Handbook. Principais tipos de ataques e vulnerabilidades. Boas práticas da Open
-
-
-CÂMARA DOS DEPUTADOS | CONCURSO PÚBLICO 4
 Worldwide Application Security Project (OWASP). Técnicas de desenvolvimento seguro. 8 Gestão de
 identidades e acesso; autenticação e autorização, Single Sign-On (SSO); Security Assertion Markup Language
 (SAML), OAuth2 e OpenId Connect. 9 Múltiplos Fatores de Autenticação (MFA). Conceitos e ferramentas de
