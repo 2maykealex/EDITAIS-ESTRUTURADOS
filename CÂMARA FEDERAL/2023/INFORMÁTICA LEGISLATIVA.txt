@@ -143,21 +143,6 @@ ARQUITETURA DE SISTEMAS DA INFORMAÇÃO
             Transfer Learning.
             Python.
 
-    10 Gestão de projetos e riscos e governança de Tecnologia da Informação.
-        10.1 Gestão de projetos e governança de Tecnologia da Informação.
-            PMBOK.
-            Scrum.
-            Kanban.
-            Lean Product Development.
-            Modelagem de processos BPMN.
-            COBIT 2019.
-            ITIL v4.
-            Planejamento estratégico e tático de TIC.
-            Transformação Digital.
-
-        10.2 Gestão de Riscos de Tecnologia da Informação e Comunicação.
-            ISO 31000 (Gestão de Riscos).
-
 ARQUITETURA DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
     1 Fundamentos.
         Operação e administração de sistemas operacionais Microsoft Windows Server e Linux.
