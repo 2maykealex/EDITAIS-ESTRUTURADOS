@@ -1,0 +1,330 @@
+https://www.gov.br/gestao/pt-br/concursonacional
+
+TECNOLOGIA, DADOS E INFORMAÇÃO
+LINK EDITAL: https://www.gov.br/gestao/pt-br/concursonacional/editais/edital-cpnu-bloco-2-10jan202
+    4.pdf
+
+EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA
+    1 Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas.
+        1.1 Balanced Scorecard(BSC).
+        1.2 Matriz SWOT.
+        1.3 Estabelecimento de objetivos e metas organizacionais.
+        1.4 Métodos de desdobramento de objetivos e metas e elaboração de planos de ação e mapas estratégicos.
+        1.5 Implementação de estratégias.
+        1.6 Análise de cenários.
+        1.7 Ferramentas de gestão.
+        1.8 Metodologias para medição de desempenho.
+        1.9 Indicadores de desempenho:
+            conceito, formulação e análise.
+        1.10 Detalhamento da ferramenta de avaliação de desempenho: OKR.
+
+    2 Gestão de projetos.
+        2.1 Conceitos básicos.
+        2.2 Processos do PMBOK.
+        2.3 Gerenciamento:
+            da integração,
+            do escopo,
+            do tempo,
+            de custos,
+            da qualidade,
+            de recursos humanos,
+            de comunicações,
+            de riscos,
+            de aquisições,
+            de partes interessadas.
+
+        2.4 Metodologias ágeis.
+
+    3 Gestão de processos de negócio.
+        3.1 Conceitos da abordagem por processos.
+        3.2 Técnicas de mapeamento, análise, melhoria e integração de processos.
+        3.3 Modelagem de processos com BPMN (versão 2.0).
+        3.4 Desenho de serviços públicos.
+
+    4 Gestão de riscos:
+        princípios, objetos, técnicas,
+        modelos nacionais e internacionais,
+        integração ao planejamento.
+
+        4.1 Processo de Gestão de Riscos:
+            comunicação,
+            consulta,
+            contextualização,
+            identificação,
+            análise,
+            tratamento,
+            monitoramento e
+            retroalimentação.
+
+        4.2 Boas práticas de gestão de Riscos.
+
+    5 Inovação na gestão pública.
+    6 Governo eletrônico; transparência da administração pública; controle social e cidadania; accountability.
+    7 Comunicação na gestão pública.
+
+    8 compras governamentais.
+        8.1 Processos de compras e gestão de contratos.
+        8.2 Contratações de tecnologia da informação.
+        8.3 Sustentabilidade das contratações.
+        8.4 Compras centralizadas.
+
+    9 Organização sistêmica da administração pública federal.
+        9.1 Sistemas estruturantes e estruturadores da administração pública federal.
+
+EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS
+    1 O processo de elaboração de políticas.
+        1.1 O papel do Estado.
+        1.2 A burocracia e o Estado.
+        1.3 Poder, racionalidade e tomada de decisões.
+        1.4 O papel da burocracia e a
+            discricionariedade no processo de formulação e
+            implementação de políticas públicas.
+
+    2 Implementação de políticas públicas: problemas, dilemas e desafios.
+        2.1 Arranjos institucionais para implementação de políticas públicas.
+
+    3 Avaliação de políticas públicas.
+        3.1 Principais componentes do processo de avaliação.
+        3.2 Custobenefício, escala, efetividade, impacto das políticas públicas.
+        3.3 Principais diretrizes da formulação, implementação e avaliação de políticas públicas.
+
+    4. Políticas de ciência, tecnologia e inovação.
+        4.1 Marco Legal de CT&I (Lei nº 13.243/2016).
+        4.2 Política e Estratégia Nacional de CT&I.
+        4.3 Política Nacional de Inovação.
+
+     5. Políticas de Governo Digital – Lei nº 14.129/2021.
+        Marco Civil da Internet – Lei nº 12.965/2014 e alterações.
+        Defesa do Usuário dos Serviços Públicos da Administração Pública – Lei nº 13.460/2017 e alterações.
+
+        5.1 Estratégia Nacional de Governo Digital:
+            Decreto 11.260/22 e suas alterações;
+            Decreto nº 10.332/2020.
+
+        5.2 Estratégia Brasileira para a Transformação Digital
+            (Decreto 9319/18 e suas alterações).
+
+EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO
+    1 Segurança da informação.
+    1.1 Princípios em segurança da informação.
+    1.2 Políticas de segurança.
+    1.3 Classificação de informações.
+    1.4 Autenticação e controle de acesso.
+    1.5 Análise de vulnerabilidade.
+    1.6 Plano de continuidade de negócio.
+    1.7 Normas ISO 17799 e ISO 2700
+    1.8 Auditoria e conformidade.
+
+2 Governança e Gestão de TI.
+    2.1 ITIL®: fundamentos, suporte
+    a serviços, entrega de serviços.
+    2.2 Fundamentos de COBIT.
+    2.3 Governança Digital.
+    2.4 Gestão de Relacionamento.
+
+3 Sistemas operacionais.
+    3.1 Conceitos básicos:
+        funções e
+        estruturas de sistemas operacionais.
+
+    3.2 Gerenciamento de processos:
+        escalonamento do processador,
+        programação concorrente,
+        deadlock,
+        comunicação e sincronização.
+
+    3.3 Gerenciamento de memória:
+        partições,
+        realocação,
+        memória virtual,
+        swapping.
+
+    3.4 Sistemas de arquivos.
+
+4 Redes de Computadores.
+    4.1 Conceitos básicos de redes de computadores e Internet.
+
+    4.2 Camadas de protocolos e serviços:
+        4.2.1 Camada Física:
+            características do meio de transmissão,
+            técnicas de transmissão.
+
+        4.2.2 Camada de aplicação: principais protocolos.
+        4.2.3 Camada de Transporte:
+            serviços,
+            protocolos TCP e UDP,
+            princípios do controle de congestionamento.
+
+        4.2.4 Camada de Rede:
+            protocolos IPv4 e IPv6,
+            algoritmos de roteamento.
+
+        4.2.5 Camada de enlace e redes locais:
+            serviços oferecidos,
+            protocolos de acesso múltiplo,
+            endereçamento na camada de enlace.
+
+    4.3 Redes Ethernet.
+    4.4 Redes sem fio.
+    4.5 Redes móveis.
+    4.6 Princípios da Gerência de Redes.
+
+EIXO TEMÁTICO 4 – DESENVOLVIMENTO DE SOFTWARE
+    1 Programação e estruturas de dados.
+        1.1 Linguagens de programação Python e Java.
+        1.2 Orientação a objetos: conceitos básicos, padrões de projeto.
+        1.3 Algoritmos de busca e ordenação.
+        1.4 Estruturas lineares: lista encadeada, pilha, fila.
+        1.5 Árvores:
+            formas de representação,
+            recursão em árvores,
+            árvores binárias,
+            árvores binárias de busca,
+            filas de prioridades,
+            árvores balanceadas.
+
+    2 Programação Web.
+        2.1 Conceitos fundamentais de programação para a Web.
+            Linguagens: HTML, XML, CSS, JavaScript.
+        2.2 Navegadores.
+        2.3 Frameworks de desenvolvimento para a Web.
+        2.4 Servidores Web.
+
+    3 Desenvolvimento para plataformas móveis.
+        3.1 Plataformas de programação.
+        3.2 Emuladores e padrões de programação para smartphones e tablets.
+        3.3 Principais componentes de interface com o usuário.
+        3.4 Tecnologias de persistência de dados em dispositivos móveis.
+
+    4 Engenharia de software.
+        4.1 Processos ágeis.
+        4.2 Engenharia de requisitos.
+        4.3 Ideação e especificação ágil.
+        4.4 Arquitetura MVC e princípios de projeto.
+        4.5 Testes unitários.
+        4.6 Revisões de software modernas.
+        4.7 DevOps (controle de versões, integração contínua e deployment contínuo).
+        4.8 Testes de aceitação.
+
+    5 Banco de dados.
+        5.1 Projeto de banco de dados: projeto conceitual, lógico e físico.
+        5.2 A abordagem Entidade-Relacionamento (E-R).
+        5.3 Modelo relacional:
+            conceitos,
+            restrições de integridade,
+            mapeamento de modelos E-R para esquemas relacionais
+
+        5.4 Dependências funcionais e normalização.
+        5.5 Linguagem SQL:
+            DDL,
+            DML,
+            restrições de integridade,
+            visões,
+            autorização de acesso.
+
+        5.6 Sistemas de gerência de bancos de dados.
+        5.7 Bancos de dados NoSQL:
+            definição de NoSQL,
+            orientação à agregados,
+            tipos de SGBD NoSQL:
+                chave valor,
+                chave valor orientado à documentos,
+                família de colunas,
+                grafos.
+
+    6 Arquitetura e tecnologias de sistemas de informação.
+        6.1 Conceitos básicos.
+        6.2 Workflow e gerenciamento eletrônico de documentos.
+
+EIXO TEMÁTICO 5 – APOIO À DECISÃO, INTELIGÊNCIA ARTIFICIAL E MÉTODOS QUANTITATIVOS
+    1 Big Data.
+        1.1 Definição de Big Data.
+        1.2 Bancos de dados na nuvem.
+            1.2.1 O paradigma de computação na nuvem.
+            1.2.2 Requisitos de gerência de dados na nuvem.
+            1.2.3 Categorias de bancos de dados na nuvem.
+        1.3 Infraestruturas para processamento distribuído de Big Data: Hadoop, Spark, Kafka.
+
+    2 Data Warehouse.
+        2.1 Definição e características de um Data Warehouse.
+        2.2 Data Mart.
+        2.3 Processamento de Transações em tempo real: OLTP e OLAP.
+        2.4 Modelagem Multidimensional.
+        2.5 Bancos de Dados Multidimensionais.
+        2.6 Projeto de Data Warehouse.
+        2.7 Conceitos de extração, transformação e carga (ETL).
+
+    3 Descoberta de Conhecimento e Mineração de Dados.
+        3.1 Conceitos básicos do processo de descoberta de conhecimento em bancos de dados (KDD).
+        3.2 Metodologia de KDD.
+        3.3 Métodos de Data Mining.
+        3.4 Préprocessamento de dados.
+        3.5 Mineração de dados:
+            classificação,
+            regressão,
+            detecção de agrupamentos,
+            descoberta de regras
+            de associação,
+            sumarização,
+            modelagem de dependências,
+            detecção de tendências e exceções.
+        3.6 Visualização de Dados.
+
+    4 Aprendizado de máquina.
+        4.1 Tipos de aprendizado de máquina:
+            aprendizado supervisionado,
+            aprendizado não supervisionado e
+            aprendizado por reforço.
+
+        4.2 Algoritmos de aprendizado de máquina:
+            regressão,
+            árvores de decisão,
+            redes neurais,
+            máquinas de vetor de suporte e
+            algoritmos de agrupamento.
+
+    5 Estatística.
+        5.1 Medidas de tendência central.
+        5.2 Medidas separatrizes.
+        5.3 Medidas de dispersão.
+        5.4 Medidas de Forma:
+            assimetria e curtose,
+            medidas de associação entre variáveis quantitativas e
+            qualitativas (coeficiente de correlação linear de Pearson e coeficiente de contingência de Pearson)
+        5.5 Gráficos, diagramas, tabelas, medidas descritivas (posição, dispersão, assimetria e curtose).
+
+    6 Noções de Probabilidade.
+        6.1 Probabilidade condicional e independência.
+        6.2 Variáveis aleatórias discretas e contínuas.
+
+    7 Noções de Inferência Estatística.
+        7.1 População e amostra.
+        7.2 Seleção de amostra.
+        7.3 Estatística e parâmetro.
+        7.4 Distribuições amostrais.
+
+    8 Noções de Estimação.
+        8.1 Estimação pontual.
+        8.2 Estimação intervalar.
+
+    9 Testes de hipóteses.
+        9.1 Teste sobre a média de uma população.
+        9.2 Teste para comparação de duas populações considerando amostras independentes.
+        9.3 Teste para comparação de duas populações considerando amostras dependentes (pareadas).
+        9.4 Testes de homogeneidade.
+        9.5 Teste de independência.
+        9.6 Teste para o coeficiente de correlação.
+
+    10 Noções sobre Regressão.
+        10.1 Diagrama de dispersão.
+        10.2 Ajuste da reta de regressão pelo método dos mínimos quadrados.
+        10.3 Regressão linear simples.
+        10.4 Intervalos de confiança e intervalo de predição.
+
+    11 Noções de amostragem.
+        11.1 Amostragem probabilística: técnicas de amostragem – amostragem aleatória simples,
+        estratificada, sistemática e por conglomerados.
+        11.2 Amostragem não probabilística.
+
+    12. Entidades Discretas e Contínuas;
+        Algoritmos; Operações Lógicas, Aritméticas, Trigonométricas e Estatísticas.
