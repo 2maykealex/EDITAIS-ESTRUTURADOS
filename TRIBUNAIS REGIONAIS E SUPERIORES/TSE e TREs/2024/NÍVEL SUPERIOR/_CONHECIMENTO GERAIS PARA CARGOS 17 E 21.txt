@@ -1,0 +1,74 @@
+LINK INSCRIÇÃO E EDITAL: https://www.cebraspe.org.br/concursos/cpnuje_24
+ESSE DOCUMENTO ESTÁ VOLTADO PARA OS CARGOS:
+    17(ANALISTA JUDICIÁRIO - ÁREA: APOIO ESPECIALIZADO - ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO)
+    21(TÉCNICO JUDICIÁRIO - ÁREA: APOIO ESPECIALIZADO - ESPECIALIDADE: PROGRAMAÇÃO DE SISTEMAS)
+
+CONHECIMENTO GERAIS PARA CARGOS:
+
+LÍNGUA PORTUGUESA (TODOS OS CARGOS):
+    1 Compreensão e interpretação de textos de gêneros variados.
+    2 Reconhecimento de tipos e gêneros textuais.
+    3 Domínio da ortografia oficial.
+    4 Domínio dos mecanismos de coesão textual.
+        4.1 Emprego de elementos de:
+            referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+        4.2 Emprego de tempos e modos verbais.
+
+    5 Domínio da estrutura morfossintática do período.
+        5.1 Emprego das classes de palavras.
+        5.2 Relações de coordenação entre orações e entre termos da oração.
+        5.3 Relações de subordinação entre orações e entre termos da oração.
+        5.4 Emprego dos sinais de pontuação.
+        5.5 Concordância verbal e nominal.
+        5.6 Regência verbal e nominal.
+        5.7 Emprego do sinal indicativo de crase.
+        5.8 Colocação dos pronomes átonos.
+
+    6 Reescrita de frases e parágrafos do texto.
+        6.1 Significação das palavras.
+        6.2 Substituição de palavras ou de trechos de texto.
+        6.3 Reorganização da estrutura de orações e de períodos do texto.
+        6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+
+NOÇÕES DE DIREITO ADMINISTRATIVO (EXCETO PARA CARGO 18: ANALISTA JUDICIÁRIO - ÁREA: JUDICIÁRIA):
+    1 Noções de organização administrativa.
+        1.1 Centralização, descentralização, concentração e desconcentração.
+        1.2 Administração direta e indireta.
+        1.3 Autarquias, fundações, empresas públicas e sociedades de economia mista.
+
+    2 Ato administrativo.
+        2.1 Conceito, requisitos, atributos, classificação e espécies.
+
+    3 Agentes públicos.
+        3.1 Legislação pertinente.
+            3.1.1 Disposições constitucionais aplicáveis.
+
+        3.2 Disposições doutrinárias.
+            3.2.1 Conceito.
+            3.2.2 Espécies.
+            3.2.3 Cargo, emprego e função pública.
+
+    4 Poderes administrativos.
+        4.1 Hierárquico, disciplinar, regulamentar e de polícia.
+        4.2 Uso e abuso do poder.
+
+    5 Licitação.
+        5.1 Princípios.
+        5.2 Contratação direta: dispensa e inexigibilidade.
+        5.3 Modalidades.
+        5.4 Tipos.
+        5.5 Procedimento.
+
+    6 Controle da administração pública.
+        6.1 Controle exercido pela administração pública.
+        6.2 Controle judicial.
+        6.3 Controle legislativo.
+
+    7 Responsabilidade civil do Estado.
+        7.1 Responsabilidade civil do Estado no direito brasileiro.
+            7.1.1 Responsabilidade por ato comissivo do Estado.
+            7.1.2 Responsabilidade por omissão do Estado.
+
+        7.2 Requisitos para a demonstração da responsabilidade do Estado.
+        7.3 Causas excludentes e atenuantes da responsabilidade do Estado
+
