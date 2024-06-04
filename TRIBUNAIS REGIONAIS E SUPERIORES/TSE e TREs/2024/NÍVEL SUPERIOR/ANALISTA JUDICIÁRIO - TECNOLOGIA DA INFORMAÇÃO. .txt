@@ -112,6 +112,8 @@ BANCOS DE DADOS:
     9 Propriedades de banco de dados.
     10 Banco de dados NoSQL.
     11 Banco de dados em memória.
+
+    #BIG DATA - DATA MINING - IA - ANALISE DE DADOS
     12 Data lakes e soluções para big data.
     13 Dados Estruturados e não Estruturados.
     14 Avaliação de modelos de dados.
