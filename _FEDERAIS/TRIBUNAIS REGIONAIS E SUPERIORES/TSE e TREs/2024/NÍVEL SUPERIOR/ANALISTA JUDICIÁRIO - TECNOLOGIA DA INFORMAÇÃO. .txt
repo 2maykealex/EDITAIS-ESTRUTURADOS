@@ -110,6 +110,8 @@ BANCOS DE DADOS:
     6 Linguagem de definição de dados (DDL).
     7 Linguagem de manipulação de dados (DML). 8 SGBD.
     9 Propriedades de banco de dados.
+
+    #BIG DATA - DATA MINING - IA - ANALISE DE DADOS
     10 Banco de dados NoSQL.
     11 Banco de dados em memória.
     12 Data lakes e soluções para big data.
