@@ -1,3 +1,6 @@
+TJ-RO e TCE-RO
+Edital em: https://conhecimento.fgv.br/concursos/tjro21
+
 ANALISTA DE SISTEMAS (DESENVOLVIMENTO):
 ESTRUTURA DE DADOS.
     Linguagens de programação,
