@@ -1,0 +1,53 @@
+2024-06-14 - Link_edital: https://www.cebraspe.org.br/concursos/tce_ac_24
+
+CARGO 8: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: PLANEJAMENTO DE TI
+
+GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
+
+    1 Gerenciamento de projetos - PMBOK 7ª edição:
+        1.1 Projetos e a organização.
+        1.2 Escritório de projetos.
+            1.2.1 Modelos e características.
+
+    2 Processos, grupos de processos e área de conhecimento.
+
+    3 Gestão de riscos.
+
+    4 Gerenciamento de serviços (ITIL v4):
+        4.1 Conceitos básicos, disciplinas, estrutura e objetivos.
+
+    5 Governança de TI (COBIT 2019):
+        5.1 Conceitos básicos, estrutura e objetivos.
+
+    6 Conceitos de gestão de processos e modelagem de processos de negócio usando BPMN.
+
+SEGURANÇA DA INFORMAÇÃO:
+
+    1 Gestão de segurança da informação: NBR ISO/IEC 27001 e NBR ISO/IEC 27002.
+
+    2 Métodos de autenticação: Autenticação de dois fatores (2FA), baseada em biometria, por token e certificados; Protocolos de autenticação: OAuth 2.0, OpenID Connect e JWT (JSON Web Tokens).
+
+    3 Ameaças e vulnerabilidades em aplicações: Injection (SQL, LDAP), Cross-Site Scripting (XSS), Quebra de autenticação e gerenciamento de sessão, Referência insegura a objetos, Cross-Site Request Forgery, Armazenamento inseguro de dados criptografados.
+
+    4 Segurança de aplicativos web: Conceitos de segurança de aplicativos web, Análise de vulnerabilidades em aplicações web, Metodologia Open Web Application Security Project (OWASP), Técnicas de proteção de aplicações web.
+
+    5 Prevenção e combate a ataques a redes de computadores, como DDoS, DoS, DNS spoofing, eavesdropping, phishing, brute force, port scanning.
+
+    6 Criptografia e proteção de dados em trânsito e em repouso; Sistemas criptográficos simétricos e assimétricos e principais protocolos.
+
+    7 Assinatura e certificação digital.
+
+    8 Gestão de riscos e continuidade de negócio: Norma NBR ISO/IEC 27005.
+
+    9 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e alterações.
+
+GERENCIAMENTO DE PROJETOS:
+
+    1 Estrutura de gerenciamento de projetos:
+        1.1 Ciclo de vida e organização do projeto.
+        1.2 Processos de gerenciamento de projetos.
+        1.3 Áreas de conhecimento em gerenciamento de projeto.
+        1.4 Ferramentas e técnicas de apoio ao gerenciamento de projetos.
+        1.5 Escritório de projetos.
+        1.6 Conceitos de gestão de programas e de gestão de portfólio de projetos.
+

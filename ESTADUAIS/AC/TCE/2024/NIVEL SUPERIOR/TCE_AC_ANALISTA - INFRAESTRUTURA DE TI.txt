@@ -1,0 +1,47 @@
+2024-06-14 - Link_edital: https://www.cebraspe.org.br/concursos/tce_ac_24
+
+CARGO 8: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: PLANEJAMENTO DE TI
+
+INFRAESTRUTURA EM TI:
+
+    1 Redes de computadores.
+    2 Endereçamento e protocolos da família TCP/IP.
+    3 Gerenciamento de redes TCP/IP.
+        3.1 Arquitetura de gerenciamento, SMI, SNMP e MIB.
+
+    4 Redes Locais e de longa distância.
+        4.1 MPLS.
+        Redes cabeadas, Redes sem fio: padrões 802.11, protocolos 802.1x, EAP, WEP, WPA e WPA2.
+        4.2 Conceitos básicos de routing e switching.
+
+    5 Segurança em redes de computadores.
+        5.1 Prevenção e tratamento de incidentes; dispositivos de segurança: firewalls, IDS, IPS, proxies, NAT e VPN; tipos de ataques: spoofing, flood, DoS, DDoS, phishing; malwares: vírus de computador, cavalo de Troia, adware, spyware, backdoors, keylogger, worms, ransomware.
+
+    6 Criptografia.
+        6.1 Conceitos básicos e aplicações; protocolos criptográficos; criptografia simétrica e assimétrica; principais algoritmos; assinatura e certificação digital.
+
+    7 Sistemas operacionais:
+        7.1 Fundamentos; gestão de processos; gestão de memória; gestão de entrada e saída; instalação, configuração e administração de sistemas operacionais.
+
+    8 Serviços de diretório:
+        8.1 Active Directory e LDAP; interoperabilidade.
+
+    9 Cloud computing (computação em nuvem).
+
+    10 Servidores de aplicação.
+        10.1 Conceitos básicos; noções de administração; topologia típica de ambientes com alta disponibilidade e escalabilidade; balanceamento de carga, fail-over e replicação de estado; técnicas para detecção de problemas e otimização de desempenho.
+
+    11 Tecnologias, arquitetura e gestão de data center e ambientes de missão crítica.
+        11.1 Conceitos básicos; serviços de armazenamento, padrões de disco e de interfaces; RAID; tecnologias de armazenamento NAS e SAN; tecnologias de backup.
+
+SEGURANÇA DA INFORMAÇÃO:
+
+    1 Gestão de segurança da informação: NBR ISO/IEC 27001 e NBR ISO/IEC 27002.
+    2 Métodos de autenticação: Autenticação de dois fatores (2FA), baseada em biometria, por token e certificados; Protocolos de autenticação: OAuth 2.0, OpenID Connect e JWT (JSON Web Tokens).
+    3 Ameaças e vulnerabilidades em aplicações: Injection (SQL, LDAP), Cross-Site Scripting (XSS), Quebra de autenticação e gerenciamento de sessão, Referência insegura a objetos, Cross-Site Request Forgery, Armazenamento inseguro de dados criptografados.
+    4 Segurança de aplicativos web: Conceitos de segurança de aplicativos web, Análise de vulnerabilidades em aplicações web, Metodologia Open Web Application Security Project (OWASP), Técnicas de proteção de aplicações web.
+    5 Prevenção e combate a ataques a redes de computadores, como DDoS, DoS, DNS spoofing, eavesdropping, phishing, brute force, port scanning.
+    6 Criptografia e proteção de dados em trânsito e em repouso; Sistemas criptográficos simétricos e assimétricos e principais protocolos.
+    7 Assinatura e certificação digital.
+    8 Gestão de riscos e continuidade de negócio: Norma NBR ISO/IEC 27005.
+    9 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e alterações.

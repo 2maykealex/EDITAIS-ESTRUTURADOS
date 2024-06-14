@@ -1,0 +1,96 @@
+2024-06-14 - Link_edital: https://www.cebraspe.org.br/concursos/tce_ac_24
+
+CARGO 9: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: PROJETOS DE TI
+
+GOVERNANÇA E GESTÃO DE PROJETOS:
+
+    1 Planejamento Estratégico:
+        1.1 Alinhamento entre estratégias de tecnologia da informação e de negócio: conceitos, escolas e técnicas.
+        1.2 Balanced Scorecard - BSC.
+        1.3 Análise SWOT.
+        1.4 Ciclo PDCA.
+        1.5 Plano estratégico de TI: elaboração, implementação, monitoramento, avaliação e revisão.
+        1.6 Guia de Elaboração de PDTI do SISP.
+
+    2 Governança:
+        2.1 Componentes e processos do modelo ITIL v4.
+
+    3 Gerência de Projetos:
+        3.1 Fundamentos de Gerência de Projetos.
+        3.2 Processos do PMBOK 7ª edição.
+        3.3 Noções de PRINCE2.
+        3.4 Escritório de Projetos - PMO.
+        3.5 Gestão de Portfólio de Projetos.
+        3.6 Gerenciamento de Projetos com Metodologias Ágeis.
+            3.6.1 Principais frameworks e métodos.
+            3.6.2 Planejamento e estimativa em ágil.
+            3.6.3 Sprints, gestão de backlog e priorização.
+            3.6.4 Desafios da implementação de métodos ágeis no setor público.
+
+    4 Modelagem de Processos de Negócio:
+        4.1 Construção e mensuração de indicadores de processos.
+        4.2 Modelagem de processos em BPMN.
+
+    5 Engenharia de Requisitos:
+        5.1 Conceitos básicos.
+        5.2 Técnicas de elicitação de requisitos funcionais e não-funcionais.
+        5.3 Especificação de requisitos.
+        5.4 Técnicas de validação de requisitos.
+
+    6 Gestão do Conhecimento:
+        6.1 Gestão da Informação.
+            6.1.1 Gestão de Documentos.
+            6.1.2 EIS (Enterprise Information System).
+            6.1.3 ECM (Enterprise Content Management).
+            6.1.4 Trouble Ticket Systems.
+        6.2 WEB Semântica: ontologias.
+        6.3 Dados Abertos.
+            6.3.1 Política de Dados Abertos: Decreto nº 8.777 de 11 de maio de 2016, e suas alterações.
+            6.3.2 Política Nacional de Governo Aberto: Decreto nº 10.160, de 9 de dezembro de 2019.
+
+SEGURANÇA DA INFORMAÇÃO:
+
+    1 Gestão de segurança da informação: NBR ISO/IEC 27001 e NBR ISO/IEC 27002.
+    2 Métodos de autenticação: Autenticação de dois fatores (2FA), baseada em biometria, por token e certificados; Protocolos de autenticação: OAuth 2.0, OpenID Connect e JWT (JSON Web Tokens).
+    3 Ameaças e vulnerabilidades em aplicações: Injection (SQL, LDAP), Cross-Site Scripting (XSS), Quebra de autenticação e gerenciamento de sessão, Referência insegura a objetos, Cross-Site Request Forgery, Armazenamento inseguro de dados criptografados.
+    4 Segurança de aplicativos web: Conceitos de segurança de aplicativos web, Análise de vulnerabilidades em aplicações web, Metodologia Open Web Application Security Project (OWASP), Técnicas de proteção de aplicações web.
+    5 Prevenção e combate a ataques a redes de computadores, como DDoS, DoS, DNS spoofing, eavesdropping, phishing, brute force, port scanning.
+    6 Criptografia e proteção de dados em trânsito e em repouso; Sistemas criptográficos simétricos e assimétricos e principais protocolos.
+    7 Assinatura e certificação digital.
+    8 Gestão de riscos e continuidade de negócio: Norma NBR ISO/IEC 27005.
+    9 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e alterações.
+
+DESENVOLVIMENTO DE SISTEMAS:
+
+    1 Desenvolvimento de sistemas.
+        1.1 Desenvolvimento web.
+            1.1.1 JavaScript, HTML5, CSS3, WebSocket, Single Page Application (SPA).
+        1.2 Framework JavaScript AngularJS, DHTML, AJAX, Vue JS.
+        1.3 Noções e conceitos de desenvolvimento para dispositivos móveis.
+        1.4 Framework Apache CXF.
+        1.5 Usabilidade e acessibilidade na Internet, padrões W3C.
+
+    2 Arquitetura de software.
+        2.1 Interoperabilidade de sistemas.
+        2.2 Arquitetura orientada a serviços.
+            2.2.1 Web services.
+        2.3 Arquitetura orientada a objetos.
+        2.4 Arquitetura de aplicações para ambiente web.
+            2.4.1 Servidor de aplicações. Servidor web.
+
+    3 Ambientes Internet, extranet, intranet e portal: finalidades, características físicas e lógicas, aplicações e serviços.
+    4 Padrões XML, XSLT, UDDI, WSDL, SOAP, REST e JSON.
+
+    5 Engenharia de software.
+        5.1 Unified Modeling Language (UML).
+        5.2 Metodologias ágeis para o desenvolvimento de software: Scrum, XP, Lean.
+
+    6 Noções de Arquitetura SOA (Service Oriented Architecture).
+    7 Noções de Arquitetura Cliente-Servidor.
+    8 Desenvolvimento de sistemas web: conceitos básicos e aplicações; HTML5, CSS3, Single Page Application, AJAX.
+
+    9 Microsoft Power Platform.
+        9.1 Power Apps.
+        9.2 Power BI.
+        9.3 Power Automate.
+        9.4 Power Virtual Agents.

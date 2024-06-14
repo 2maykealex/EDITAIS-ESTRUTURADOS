@@ -1,0 +1,138 @@
+2023-06-06 - Link_edital: https://cdn.cebraspe.org.br/concursos/MPE_RO_23/arquivos/ED_1_2023_MPE_RO_SERVIDOR_ABERTURA.PDF
+
+CONHECIMENTOS BÁSICOS PARA OS CARGOS DE NÍVEL SUPERIOR
+
+LÍNGUA PORTUGUESA:
+    1 Compreensão e interpretação de textos de gêneros variados.
+    2 Reconhecimento de tipos e gêneros textuais.
+    3 Domínio da ortografia oficial.
+    4 Domínio dos mecanismos de coesão textual.
+        4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+        4.2 Emprego de tempos e modos verbais.
+    5 Domínio da estrutura morfossintática do período.
+        5.1 Emprego das classes de palavras.
+        5.2 Relações de coordenação entre orações e entre termos da oração.
+        5.3 Relações de subordinação entre orações e entre termos da oração.
+        5.4 Emprego dos sinais de pontuação.
+        5.5 Concordância verbal e nominal.
+        5.6 Regência verbal e nominal.
+        5.7 Emprego do sinal indicativo de crase.
+        5.8 Colocação dos pronomes átonos.
+    6 Reescrita de frases e parágrafos do texto.
+        6.1 Significação das palavras.
+        6.2 Substituição de palavras ou de trechos de texto.
+        6.3 Reorganização da estrutura de orações e de períodos do texto.
+        6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+
+LÍNGUA INGLESA:
+    1 Compreensão de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
+    2 Itens gramaticais relevantes para compreensão de conteúdos semânticos.
+    3 Conhecimento e uso das formas contemporâneas da linguagem inglesa.
+
+RACIOCÍNIO LÓGICO E QUANTITATIVO:
+    1 Estruturas lógicas.
+    2 Lógica de argumentação: analogias, inferências, deduções e conclusões.
+    3 Lógica sentencial (ou proposicional).
+        3.1 Proposições simples e compostas.
+        3.2 Tabelas-verdade.
+        3.3 Equivalências.
+        3.4 Diagramas lógicos.
+    4 Lógica de primeira ordem.
+    5 Princípios de contagem e probabilidade.
+    6 Conjuntos: regras básicas — pertinência; inclusão; operações de união e intersecção; complemento e diferença de conjuntos; Leis de Morgan — problemas.
+    7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
+
+CONHECIMENTOS DA REALIDADE ÉTNICA, SOCIAL, GEOGRÁFICA, CULTURAL, POLÍTICA E ECONÔMICA DO ACRE:
+    I HISTÓRIA, HISTORIOGRAFIA, REALIDADE ÉTNICA, SOCIAL E CULTURAL DO ACRE:
+        A anexação do Acre ao Brasil.
+        O processo de ocupação das terras acreanas, a ocupação indígena, a imigração nordestina e a produção da borracha e a insurreição.
+        Organização social do Acre e expressão literária.
+        A chegada dos “paulistas” nas terras acreanas a partir dos anos 1970 do século XX: êxodo rural, conflitos pela terra e invasões do espaço urbano.
+        Comemorações cívicas.
+    II GEOGRAFIA DO ACRE:
+        Amazônia e características gerais: O espaço acreano.
+        Aspectos geográficos e ecológicos da Amazônia e do Acre.
+        Formação econômica do Acre.
+        Processo de anexação do Acre ao Brasil: tratados e limites.
+        O território do Acre, municípios e populações do Acre: população e localização.
+        Nova configuração do mapa.
+        Microrregiões.
+        Atuais municípios.
+        Relevo, vegetação e suas características, clima, solo, hidrografia, fluxo migratório, extrativismo e Zoneamento Ecológico do Acre.
+        Hidrografia: Bacia Amazônica e principais rios do Acre.
+        Modos de vida no campo e na cidade.
+    III POLÍTICA E ECONOMIA DO ACRE: INDICADORES SOCIOECONÔMICOS:
+        Economia, produto interno bruto, evolução das ocupações e do emprego, população.
+        Trabalhos e produção nas diferentes nações indígenas, uso e posse da terra dos indígenas da Amazônia no auge do ciclo da borracha, ocupação e utilização da terra, ocupação e disputa pela terra entre povos indígenas e grupos de interesse socioeconômico e atividades econômicas mais relevantes no estudo da história da Amazônia e do Acre.
+
+NOÇÕES DE DIREITO CONSTITUCIONAL:
+    1 Constituição da República Federativa do Brasil de 1988.
+        1.1 Conceito, classificação, princípios fundamentais, emendas constitucionais.
+    2 Direitos e garantias fundamentais.
+        2.1 Direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, cidadania, direitos políticos, partidos políticos.
+    3 Organização político-administrativa.
+        3.1 União, estados, Distrito Federal e municípios.
+    4 Administração pública.
+        4.1 Disposições gerais, servidores públicos.
+    5 Poder Legislativo.
+        5.1 Congresso Nacional, Câmara dos Deputados, Senado Federal, deputados e senadores.
+    6 Poder Executivo.
+        6.1 Atribuições do presidente da República e dos ministros de Estado.
+    7 Poder Judiciário.
+        7.1 Disposições gerais.
+        7.2 Órgãos do Poder Judiciário.
+            7.2.1 Competências.
+        7.3 Conselho Nacional de Justiça (CNJ).
+            7.3.1 Composição e competência.
+    8 Funções essenciais à Justiça.
+        8.1 Ministério Público, advocacia e defensoria públicas.
+
+NOÇÕES DE DIREITO ADMINISTRATIVO:
+    1 Estado, governo e administração pública.
+    2 Direito administrativo.
+    3 Ato administrativo.
+    4 Poderes da administração pública.
+        4.1 Hierárquico, disciplinar, regulamentar e de polícia.
+        4.2 Uso e abuso do poder.
+    5 Regime jurídico-administrativo.
+        5.1 Conceito.
+        5.2 Princípios expressos e implícitos da administração pública.
+    6 Responsabilidade civil do Estado.
+    7 Serviços públicos.
+    8 Organização administrativa.
+        8.1 Centralização, descentralização, concentração e desconcentração.
+        8.2 Administração direta e indireta.
+    9 Controle da administração pública.
+        9.1 Controle exercido pela administração pública.
+        9.2 Controle judicial.
+        9.3 Controle legislativo.
+        9.4 Improbidade administrativa.
+    10 Processo administrativo.
+    11 Licitações e contratos administrativos.
+    12 Agente público.
+    13 Cargo, emprego e função pública.
+
+LEGISLAÇÃO:
+    1 Regimento Interno do Tribunal de Contas do estado do Acre (Aprovado pela Resolução nº 30/1996).
+    2 Lei Orgânica do Tribunal de Contas do Estado do Acre (Lei Complementar Estadual nº 38/1993).
+    3 Lei Complementar Estadual nº 39/1993 (Dispõe sobre o Estatuto dos servidores Públicos Civis do Estado do Acre, das Autarquias e das Fundações Públicas, instituídas e mantidas pelo Poder Público).
+    4 Resolução nº 85/2013 (Institui o Código de Ética dos Servidores do Tribunal de Contas do Estado do Acre).
+
+GESTÃO PÚBLICA:
+    1 Processo administrativo.
+        1.1 Funções de administração: planejamento, organização, direção e controle.
+        1.2 Processo de planejamento.
+            1.2.1 Planejamento estratégico: visão, missão e análise SWOT.
+            1.2.2 Análise competitiva e estratégias genéricas.
+            1.2.3 Redes e alianças.
+            1.2.4 Planejamento tático.
+            1.2.5 Planejamento operacional.
+            1.2.6 Administração por objetivos.
+            1.2.7 Balanced scorecard.
+            1.2.8 Processo decisório.
+        1.3 Organização.
+            1.3.1 Estrutura organizacional.
+            1.3.2 Tipos de departamentalização: características, vantagens e desvantagens de cada tipo.
+    2 Comportamento organizacional: relações indivíduo/organização, motivação, liderança, desempenho.
+    3 Competência interpessoal.
+    4 Gerenciamento de conflitos.
