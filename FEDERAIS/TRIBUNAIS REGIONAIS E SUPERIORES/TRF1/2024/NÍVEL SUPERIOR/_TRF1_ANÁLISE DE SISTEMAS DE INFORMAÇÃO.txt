@@ -1,0 +1,322 @@
+LINK INSCRIÇÃO E EDITAL: https://conhecimento.fgv.br/concursos/trf1servidor24
+
+CONHECIMENTOS ESPECÍFICOS - ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO -
+ESPECIALIDADE: ANÁLISE DE SISTEMAS DE INFORMAÇÃO
+
+FUNDAMENTOS DE PROGRAMAÇÃO
+    Algoritmos,
+    Estrutura de Dados e Lógica de Programação:
+        listas,
+        filas,
+        pilhas,
+        tabelas hash,
+        árvores e grafos; métodos de acesso,
+        busca, inserção e ordenação em estruturas de dados;
+
+    complexidade de algoritmos.
+    Bases Numéricas e
+    aritmética computacional.
+
+ENGENHARIA DE SOFTWARE
+    UML 2.5.1.
+    Processos de Software:
+        atividades,
+        reutilização,
+        prototipação,
+        processo unificado,
+        RationalUnifiedProcess (RUP),
+        processo incremental,
+        processos e métodos ágeis (Extreme Programming - XP, SCRUM, Kanban).
+
+    Princípios de DevOps, DevSecOps e IaC (Infrastructure as Code).
+    Engenharia de requisitos:
+        tipificação,
+        especificação,
+        elicitação,
+        análise,
+        validação e gerenciamento.
+
+    Usabilidade de software:
+        princípios de User Experience (UX),
+        design de User Interface (UI) e métodos para avaliação de usabilidade,
+        WCAG (World ContentAccessibilityGuide), eMAG (Modelo de Acessibilidade em Governo Eletrônico).
+
+    Padrões de front-end:
+        SPA e PWA.
+
+    Testes de Software:
+        planejamento,
+        estratégias,
+        métodos e técnicas;
+        testes automatizados.
+        Test DrivenDevelopment (TDD).
+        Abordagem Domain-driven design (DDD).
+
+    Qualidade de Software:
+        processos,
+        atributos,
+        medições,
+        métricas de qualidade.
+        CMMI v3 e MPS.BR.
+
+    Estimativa e medição de Software:
+        Análise de Pontos de Função (APF) e Software Non Functional
+        Assessment Process (SNAP).
+
+    Gerência de Configuração:
+        controle de versão,
+        controle de mudança,
+        integração e entrega contínua (CI/CD),
+        protocolo Git,
+        protocolo Subversion (SVN).
+        Conhecimento das Ferramentas Git,
+        Gitlab e Jira.
+        Gestão de pipelines no Gitlab CI/CD.
+
+    Gerenciamento de contêiners:
+        Docker,
+        Kubernetes e
+        Openshift.
+
+    Modelagem de Processos de Negócio.
+    Modelagem AS-IS e TO-BE.
+    Notação BPMN 2.0.
+    jBPM, BizagiModeler e Bizagi BPMS.
+    Arquitetura de Software.
+    Padrões arquiteturais:
+        SOLID,
+        REST,
+        SOAP,
+        MVC,
+        três camadas (three-tier),
+        multicamadas (multi-tier),
+        arquitetura orientada a serviços (SOA),
+        microsserviços,
+        webservices,
+        AplicationProgramming Interface (API),
+        interoperabilidade de sistemas,
+        orientação a eventos,
+        cliente-servidor,
+        pipes-and-filters e P2P.
+        Arquitetura Hexagonal e Clean Architecture.
+        Orientação a Objetos.
+
+    Padrões de projeto:
+        Java Enterprise Patterns,
+        Gof ("Gang of Four") e POSA ("PatternOriented Software Architecture").
+        Linguagens de programação,
+        frameworks e toolkits.
+        JavaScript,
+        TypeScript,
+        Java e Python,
+        Angular,
+        jQuery,
+        Vue,
+        Bootstrap,
+        npm,
+        Maven,
+        React.JS,
+        ReactNative,
+        JEE,
+        Java,
+        Spring,
+        SpringBoot,
+        Spring Cloud,
+        Laravel,
+        Django,
+        Hibernate,
+        JPA,
+        JDBC,
+        JBoss Seam,
+        Junit,
+        GraphQL,
+        Swagger.
+        Recomendações W3C.
+        HTML5,
+        CSS3.
+        Padrões XML,
+        JSON,
+        UUID,
+        UDDI,
+        WSDL,
+        SOAP e JSON.
+        Tecnologias Web Services,
+        REST,
+        e API RESTful e HTTP.
+
+    Desenvolvimento para dispositivos móveis.
+    Segurança de Aplicações.
+    Principais vulnerabilidades e remediações (OWASP Top 10:2021).
+    Controles e testes de segurança para aplicações e webservices.
+    Análise estática de código fonte.
+    Conhecimento da ferramenta SonarQube.
+    Protocolos de autenticação OpenID Connect (OIDC),
+    SSO, OAuth2 e SAML.
+    Conhecimento da solução Keycloak
+
+SERVIDORES DE APLICAÇÃO
+    Conhecimento de servidores web:
+        Nginx e Apache.
+    Conhecimento de servidores de aplicação
+    Java Platform,
+    Enterprise Edition (JEE):
+        JBoss,
+    Tomcat,
+    Node.js e Wildfly.
+    Conceito de servidores de
+    armazenamento de objetos.
+    Conhecimentos das plataformas Jackrabbit (JCR),
+    H2 DB,
+    MinIO,
+    ElasticStack,
+    Apache Kafka e RabbitMQ.
+    Gerenciamento de contêiners Docker,
+    Kubernetes e Openshift.
+    Plataforma de
+    automação Ansible.
+    Computação em nuvem.
+    Fundamentos.
+    Características.
+    Modelos de Serviços.
+    Modelos
+    de implantação.
+    NIST SP 800-145.
+
+BANCO DE DADOS
+    Conceitos e fundamentos.
+    Tipos de dados.
+    Modelo relacional,
+    em rede,
+    hierárquico,
+    distribuído e
+    orientado a objetos.
+    Projeto e modelagem de banco de dados relacional.
+    Modelo e Diagrama Entidade
+    Relacionamento.
+    Notação Crow'sfoot (Pé de Galinha).
+    Normalização.
+    Álgebra relacional.
+    Conhecimento de
+    SGBD Oracle,
+    PostgreSQL,
+    SQL Server e MySQL.
+    Linguagem SQL e PL/SQL.
+    Bancos de dados NoSQL.
+    Conhecimento da ferramenta Flyway e Pentaho.
+    Controle de concorrência e otimização de consultas.
+    Business Intelligence.
+    Data Warehouse,
+    Data Mart,
+    ODS,
+    Data Mining,
+    Data Lake,
+    ETL e OLAP.
+    Modelagem
+    Dimensional de Dados:
+        básica e avançada.
+    Metodologia CRISP-DM.
+    Criação,
+    implantação e manutenção de
+    rotinas de ETL.
+    Conhecimento das ferramentas QlikSense e Power BI.
+    Governança de Dados.
+    DAMA/DMBOK 2ª edição.
+
+GOVERNANÇA E GESTÃO DE TI
+    Planejamento estratégico de TI.
+    Framework COBIT 2019.
+    Metodologias de indicadores OKR, PKI e BSC.
+    Conceitos de gestão de projetos (PMBOK 7ª Edição).
+    Métodos, técnicas e ferramentas de gerência de projetos.
+    Conceitos de gestão de riscos.
+    Análise SWOT e matriz RACI.
+    Biblioteca ITIL® versão 4.
+
+SEGURANÇA DA INFORMAÇÃO
+    Conceitos de segurança da informação:
+        classificação de informações,
+        confidencialidade,
+        integridade,
+        disponibilidade,
+        não repúdio,
+        privacidade,
+        controle de acesso,
+        segurança física e lógica;
+        identificação,
+        autorização e autenticação.
+    Firewall, sistemas de detecção/prevenção de intrusão e segurança em redes wireless.
+    Planos de continuidade de negócio e serviços essenciais.
+    Conceitos de criptografia, esteganografia e criptoanálise.
+    Sistemas criptográficos simétricos e de chave pública.
+    Modos de operação de cifradores.
+    Funções digestoras (hashes).
+    Mecanismos de assinatura digital e certificação digital.
+    Características dos algoritmos RSA, AES, SSL e SHA-256.
+    Infraestruturas de chaves públicas (PKI - Public Key Infrastrutucture).
+    Organização da ICP-Brasil.
+    Norma de segurança ISO/IEC 27001.
+
+LEGISLAÇÃO
+    Resolução CNJ n.º 468/2022 (Contratações de Soluções de (STIC) pelos órgãos do Poder Judiciário).
+    Guia de Contratações de TIC do Poder Judiciário.
+    Lei n.
+    13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
+
+PORTARIA N.
+257 DE 31/7/2022
+    Resolução CNJ no 91/2009;
+    Resolução CNJ no 335/2020;
+    Portaria CNJ no 253/2020;
+    Resolução CNJ no 396/2021;
+    Portaria CNJ no 162/2021;
+    Resolução CNJ no 396/2021;
+    Linguagem de programação Java;
+    Arquitetura distribuída de microsserviços;
+    API RESTful;
+    JSON;
+    Framework Spring;
+    Spring Cloud;
+    Spring Boot;
+    Spring Eureka,
+        Zuul;
+        Map Struct;
+        Swagger;
+        Service Discovery;
+        API Gateway;
+        Persistência;
+        JPA 2.0;
+        Hibernate 4.3 ou superior;
+        HibernateEnvers;
+        Biblioteca Flyway;
+        Banco de dados;
+        PostgreSQL;
+        H2 Database;
+        Serviços de autenticação;
+        SSO Single Sign-On;
+        Keycloak;
+        Protocolo OAuth2 (RFC 6749);
+        Mensageria e Webhooks;
+        Message Broker;
+        RabbitMQ;
+        Evento negocial;
+        Webhook; APIs reversas;
+        Ferramenta de versionamento Git;
+        Ambiente de clusters,
+        Kubernetes;
+        Ferramenta de orquestração de containeres,
+        Rancher;
+        Deploy de aplicações;
+        Continuous Delivery e Continuous Integration (CI/CD).
+
+NOÇÕES DE DIREITO PENAL
+    Dos crimes contra a Administração Pública:
+        Crimes praticados por funcionário público contra a administração em geral,
+        Crimes praticados por particular contra a administração em geral,
+        Crimes contra a administração da justiça.
+
+    Legislação Especial:
+        Crimes resultantes de preconceitos de raça ou de cor (Lei n.7.716/1989 e Lei n.
+        14.532/2023).
+        Lei n.
+        13.869/2019: Crimes de abuso de autoridade.
+

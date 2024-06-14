@@ -1,0 +1,272 @@
+LINK INSCRIÇÃO E EDITAL: https://conhecimento.fgv.br/concursos/trf1servidor24
+
+CONHECIMENTOS ESPECÍFICOS - ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - ESPECIALIDADE: ANÁLISE DE DADOS
+
+FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA
+    Probabilidade e probabilidade condicional.
+    Independência de eventos, regra de Bayes e teorema da probabilidade total.
+    Variáveis aleatórias e funções de probabilidade.
+    Principais distribuições de probabilidade discretas e contínuas: distribuição uniforme, distribuição de Bernoulli, distribuição binomial, distribuição multinomial e distribuição normal.
+    Medidas de tendência central: média (aritmética, ponderada, geométrica e harmônica), mediana e moda.
+    Medidas de dispersão: amplitude, variância, desvio padrão e coeficiente de variação.
+    Teorema central do limite.
+    Regra empírica (regra de três sigma) da distribuição normal.
+    Histogramas e curvas de frequência.
+
+LINGUAGENS DE PROGRAMAÇÃO
+    Conhecimento das linguagens: JavaScript, TypeScript, Java e Python.
+    NumPy.
+    Pandas.
+    SciPy.
+    Conhecimento dos frameworks e toolkits: React, Angular, jQuery, Spring, Spring Boot, Hibernate e JPA.
+    Padrões XML, XSLT, UDDI, WSDL, SOAP e JSON.
+    Tecnologias Web Services, REST e API RESTful e HTTP.
+    Scikit-learn, TensorFlow, PyTorch, NLTK, Matplotlib e Jupyter Notebook.
+
+BANCO DE DADOS
+    Conceitos e fundamentos.
+    Tipos de dados.
+    Modelo relacional, em rede, hierárquico, distribuído e orientado a objetos.
+    Arquitetura de sistemas de banco de dados.
+    Modelagem de banco de dados relacional.
+    Modelo de dados conceitual, lógico e físico.
+    Modelo e Diagrama Entidade Relacionamento.
+    Modelo Entidade-Relacionamento Estendido (EER).
+    Notação Crow'sfoot (Pé de Galinha).
+    Modelo de Classes da UML 2.5.
+    Normalização.
+    Álgebra relacional.
+    Projeto de banco de dados relacional: dependências funcionais,
+        normalização,
+        projeto lógico de banco de dados e projeto físico de banco de dados.
+
+    Conhecimento de SGBD: Oracle,
+        PostgreSQL,
+        SQL Server e MySQL.
+    Instalação,
+        operação,
+        tunning,
+        manutenção,
+        gerenciamento,
+        backup e restore.
+    Criação e manutenção de views,
+        funções,
+        stored procedures,
+        triggers,
+        segurança.
+    Conexões.
+    Processamento e otimização de consultas.
+    Processamento de transações,
+        controle de concorrência e recuperação.
+    Segurança em bancos de dados.
+    Algoritmos de busca e indexação: sequenciais,
+        árvores,
+        hashing,
+        bitmaps.
+    Linguagem SQL e PL/SQL.
+    Conhecimento da ferramenta Flyway e Pentaho.
+    Banco de dados Distribuídos.
+    Fundamentos de Big Data.
+    Bancos de dados NoSQL.
+    Conceitos e propriedades das transações (ACID e BASE).
+    Conhecimento das plataformas MongoDB e ElasticSearch.
+    Business Intelligence.
+    Data Warehouse,
+        Data Mart,
+        ODS,
+        Data Mining,
+        Data Lake,
+        ETL e OLAP.
+    Modelagem Dimensional de Dados: básica e avançada.
+    Metodologia CRISP-DM.
+    Criação,
+        implantação e manutenção de rotinas de ETL.
+    Conhecimento das ferramentas QlikSense e Power BI.
+    Governança de Dados.
+    DAMA/DMBOK 2ª edição.
+    Administração de dados e metadados: gestão,
+        organização,
+        coleta e manutenção.
+    Base Nacional de Dados do Poder Judiciário (DATAJUD).
+    Organização das Tabelas Processuais Unificadas do Poder Judiciário.
+    Modelo Nacional de Interoperabilidade (MNI).
+
+APRENDIZADO DE MÁQUINA
+    Técnicas de classificação: NaiveBayes,
+        regressão logística e redes neurais artificiais.
+    Redes Neurais para classificação.
+    Árvores de decisão: algoritmos ID3,
+        C4.5 e florestas aleatórias (randomforest).
+    Máquinas de vetores de suporte (SVM).
+    K vizinhos mais próximos (KNN - K-nearestneighbors).
+    Avaliação de modelos de classificação: treinamento,
+        teste,
+        validação; validação cruzada; métricas de avaliação; matriz de confusão,
+        acurácia,
+        precisão,
+        revocação,
+        F1-score e curva ROC.
+    Técnicas de regressão: regressão linear e séries temporais.
+    Redes neurais para regressão.
+    Árvores de decisão para regressão.
+    Máquinas de vetores de suporte para regressão.
+    Intervalos de confiança em regressão.
+    Avaliação de modelos de regressão: MAE,
+        MSE,
+        RMSE e coeficiente de determinação (R2).
+    Técnicas de agrupamento: por partição,
+        por densidade e hierárquico.
+    Técnicas de redução de dimensionalidade: seleção de características e análise de componentes principais (PCA).
+    Técnicas de associação: descoberta de conjuntos frequentes e descoberta de regras de associação.
+    Sistemas de recomendação.
+    Aprendizado profundo (Deep Learning): redes neurais convolucionais,
+        redes neurais recorrentes.
+    Redes de Hopfield.
+    Redes Adaline.
+    Long short-term memory (LSTM).
+    Redes perceptron multicamadas recorrentes.
+    Máquinas de Boltzmann.
+    Deepbelief networks.
+    Reconhecimento facial.
+    Classificação de imagens.
+    Detecção de objetos.
+    Deeplearning para visão computacional.
+    Pré-processamento de dados.
+    Tratamento de dados:
+        normalização numérica,
+        discretização,
+        tratamento de dados ausentes,
+        tratamento de outliers e agregações.
+    Diagrama boxplot.
+
+PROCESSAMENTO DE LINGUAGEM NATURAL
+    Conceito de processamento de linguagem natural (PLN).
+    Conceitos básicos da morfologia.
+    Processamento morfológico em PLN.
+    Dataset e corpus: formação,
+        codificação,
+        características,
+        anotação.
+    Normalização textual (stop words,
+        estemização,
+        lematização e análise de frequência de termos).
+    Reconhecimento de entidades nomeadas e rotulação.
+    Extração de relações.
+    Modelos de representação de texto: N-gramas,
+        modelos vetoriais de palavras (CBOW,
+        Skip-Gram e GloVe),
+        modelos vetoriais de documentos (booleano,
+        TF e TF-IDF,
+        média de vetores de palavras e Paragraph Vector).
+    Métricas de similaridade textual (similaridade do cosseno,
+        distância euclidiana,
+        similaridade de Jaccard,
+        distância de Manhattan e coeficiente de Dice).
+    Aplicações de PLN: sumarização automática de texto (abordagens extrativa e abstrativa),
+        modelagem de tópicos em texto (algoritmos LSI,
+        LDA e NMF),
+        classificação de texto,
+        agrupamento de texto,
+        tradução automática de texto,
+        análise de sentimentos e emoções em texto,
+        reconhecimento de voz (STT - speech-to-text).
+    Visão computacional.
+    Conceitos de representação de imagens.
+    Métodos de filtragem de imagens.
+    Conceitos gerais de reconhecimento de padrões.
+    Detetores de bordas.
+    Técnicas de convolução.
+    Métodos de segmentação.
+    Transformações de Fourier e Wavelets.
+    Transformações de Hough,
+        Snakes e outros métodos de reconhecimento de objetos baseados em modelos.
+    Operadores morfológicos.
+
+PROTEÇÃO DE DADOS E PRIVACIDADE
+    Lei n. 13.709/2018.
+    Tratamento de Dados Pessoais no Poder Público,
+        conforme orientação da ANPD.
+    Princípios do Privacy by Design.
+
+COMPUTAÇÃO EM NUVEM
+    Fundamentos.
+    Características.
+    Modelos de Serviços.
+    Modelos de implantação.
+    NIST SP 800-145.
+
+GESTÃO DE PROJETOS
+    Conceitos básicos (PMBOK 7ª Edição).
+
+GOVERNANÇA E GESTÃO DE TI
+    Conceitos básicos.
+    Framework COBIT 2019.
+    Biblioteca ITIL® versão 4.
+
+SEGURANÇA DA INFORMAÇÃO
+    Conceitos de segurança da informação: Ataques e mecanismos de segurança,
+        classificação de informações,
+        confidencialidade,
+        integridade,
+        disponibilidade,
+        não repúdio,
+        privacidade,
+        controle de acesso,
+        segurança física e lógica; identificação,
+        autorização e autenticação.
+
+PORTARIA N. 257 DE 31/7/2022
+    Resolução CNJ no 91/2009;
+    Resolução CNJ no 335/2020;
+    Portaria CNJ no 253/2020;
+    Resolução CNJ no 396/2021;
+    Portaria CNJ no 162/2021;
+    Resolução CNJ no 396/2021;
+    Linguagem de programação Java;
+    Arquitetura distribuída de microsserviços;
+    API RESTful;
+    JSON;
+    Framework Spring;
+    Spring Cloud;
+    Spring Boot;
+    Spring Eureka,
+        Zuul;
+        Map Struct;
+        Swagger;
+        Service Discovery;
+        API Gateway;
+        Persistência;
+        JPA 2.0;
+        Hibernate 4.3 ou superior;
+        HibernateEnvers;
+        Biblioteca Flyway;
+        Banco de dados;
+        PostgreSQL;
+        H2 Database;
+        Serviços de autenticação;
+        SSO Single Sign-On;
+        Keycloak;
+        Protocolo OAuth2 (RFC 6749);
+        Mensageria e Webhooks;
+        Message Broker;
+        RabbitMQ;
+        Evento negocial;
+        Webhook; APIs reversas;
+        Ferramenta de versionamento Git;
+        Ambiente de clusters,
+        Kubernetes;
+        Ferramenta de orquestração de containeres,
+        Rancher;
+        Deploy de aplicações;
+        Continuous Delivery e Continuous Integration (CI/CD).
+
+NOÇÕES DE DIREITO PENAL
+    Dos crimes contra a Administração Pública:
+        Crimes praticados por funcionário público contra a administração em geral,
+        Crimes praticados por particular contra a administração em geral,
+        Crimes contra a administração da justiça.
+
+    Legislação Especial:
+        Crimes resultantes de preconceitos de raça ou de cor (Lei n.7.716/1989 e Lei n. 14.532/2023).
+        Lei n. 13.869/2019: Crimes de abuso de autoridade.
+
