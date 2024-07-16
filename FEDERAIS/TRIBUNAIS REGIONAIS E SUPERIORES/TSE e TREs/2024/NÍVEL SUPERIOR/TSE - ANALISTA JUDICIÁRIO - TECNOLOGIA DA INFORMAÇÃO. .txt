@@ -70,6 +70,70 @@ DESENVOLVIMENTO DE SISTEMAS:
         9.3 Power Automate.
         9.4 Power Virtual Agents.
 
+ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO (PDPJ-Br):
+    1 Linguagem de programação Java.
+    2 Arquitetura distribuída de microsserviços;
+        API RESTful;
+        JSON;
+        Framework Spring;
+        Spring Cloud;
+        Spring Boot;
+        Spring Eureka, Zuul;
+        Map Struct;
+        Swagger;
+        Service Discovery;
+        API Gateway.
+
+    3 Persistência;
+        JPA 2.0;
+        Hibernate 4.3 ou superior;
+        Hibernate Envers;
+        Biblioteca Flyway.
+
+    4 Banco de dados;
+        PostgreSQL;
+        H2 Database.
+
+    5 Serviços de autenticação;
+        SSO Single Sign-On;
+        Keycloak;
+        Protocolo OAuth2 (RFC 6749).
+
+    6 Mensageria e Webhooks;
+        Message Broker;
+        RabbitMQ;
+        Evento negocial;
+        Webhook;
+        APIs reversas.
+
+    7 Ferramenta de versionamento Git.
+    8 Ambiente de clusters, Kubernetes.
+    9 Ferramenta de orquestração de containeres, Rancher.
+
+    10 Deploy de aplicações;
+        Continuous Delivery e
+        Continuous Integration (CI/CD).
+
+NORMATIVOS DA PDPJ-BR:
+    1 Resolução CNJ nº 522/2023 – institui o Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder Judiciário e disciplina a obrigatoriedade
+    da sua utilização no desenvolvimento e manutenção de sistemas informatizados para as atividades judiciárias e administrativas no âmbito do Poder Judiciário.
+
+    2 Resolução CNJ nº 335/2020 – institui política pública para a governança e a gestão de processo judicial eletrônico. Integra os tribunais do país com a
+    criação da Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br). Mantém o sistema PJe como sistema de Processo Eletrônico prioritário do Conselho Nacional de Justiça.
+
+    3 Portaria CNJ nº 252/2020 – dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br).
+
+    4 Portaria CNJ nº 253/2020 – institui os critérios e as diretrizes técnicas para o processo de desenvolvimento de
+    módulos e serviços na Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br).
+
+    5 Portaria CNJ nº 131/2021 – institui o Grupo Revisor de Código-Fonte das soluções da Plataforma Digital do Poder
+    Judiciário (PDPJ-Br) e do Processo Judicial Eletrônico (PJe).
+
+    6 Resolução CNJ nº 396/2021 – institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ).
+
+    7 Portaria CNJ nº 162/2021 – aprova Protocolos e Manuais criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia
+    Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ).
+
 INFRAESTRUTURA:
     1 Sistemas operacionais:
         fundamentos; gestão de processos; gestão de memória; gestão de entrada e saída;
