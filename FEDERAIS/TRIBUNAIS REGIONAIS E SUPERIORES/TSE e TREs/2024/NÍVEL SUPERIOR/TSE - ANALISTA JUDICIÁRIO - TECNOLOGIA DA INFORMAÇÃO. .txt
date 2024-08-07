@@ -214,6 +214,31 @@ SISTEMAS EMBARCADOS:
         3.5 Ferramentas de integração contínua.
         3.6 Padrões de projeto e SOLID.
 
+INFRAESTRUTURA:
+    1 Sistemas operacionais:
+        fundamentos; gestão de processos; gestão de memória; gestão de entrada e saída;
+        instalação, configuração e administração de sistemas operacionais:
+            Windows Server 2012 e 2016 e
+            RedHat Entrerprise Linux versões 5, 6 e 7.
+
+    2 Redes de computadores:
+        fundamentos; tecnologias ethernet, Fibre Channel, iSCSI, padrão wi-fi IEEE 802.11x; dispositivos:
+        repetidores, bridges, switches e roteadores; implantação de VOIP e VPN; segurança:
+            firewall, certificado digital, antivírus, anti-Spam;
+            modelo de referência OSI;
+            Protocolo TCP/IP;
+            Active Directory (AD).
+
+    3 Serviços:
+        backup/restore; arquitetura em nuvem (SaaS, IaaS e Paas); virtualização.
+
+    4 Servidores de Aplicação:
+        Tomcat 10; JBoss 7.
+
+    5 Noções de arquitetura de TI.
+    6 Conteinerização de aplicações e DeVOps.
+
+
 GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
     1 Gerenciamento de projetos (PMBOK 7ª edição).
     2 Processos, grupos de processos e área de conhecimento.
