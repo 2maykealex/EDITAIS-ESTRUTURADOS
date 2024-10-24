@@ -4,69 +4,270 @@ CONHECIMENTOS ESPECÍFICOS TÉCNICO JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO -
 ESPECIALIDADE: SUPORTE TÉCNICO
 
 REDES DE COMPUTADORES.
-    Modelo de referência OSI. Arquitetura TCP/IP. Topologias de redes de
-    computadores. Meios de transmissão e tipos de cabeamentos. Fibras ópticas multimodo e monomodo.
-    Cabeamento estruturado de rede. Normas ABNT NBR 14565, 16665 e EIA/TIA-568. Tecnologias de redes
-    locais e de longa distância (PAN, LAN, MAN, WAN, WPAN, WLAN, WMAN e WWAN, VLAN). Ativos de rede:
-    gateways, hubs, repetidores, bridges, switches e roteadores. Características dos principais protocolos de
-    rede TCP/IP: TCP, IP, UDP, ICMP, HTTP, HTTPS, SMTP, IMAP, DNS, DHCP, SSH, SSL LDAP e RDP.
-    Endereçamento IP: IPv4. IPv6. CIDR. Mecanismo de NAT e PAT. Comutação na camada de enlace de dados.
-    SpanningTreeProtocol (IEEE 802.1d). IEEE-802.2 LLC. Tecnologias MPLS e SDWAN. VLAN (IEEE 802.1Q).
-    Protocolo de subcamada MAC e LLC. CSMA/CD. Padrão IEEE 802.3. Fast Ethernet. Gigabit Ethernet. Conjunto
-    de padrões IEEE 802.11. Gerações de Wi-Fi. Padrões e protocolos da família 802.1x. EAP, WEP, WPA e WPA2.
-    Redes sem fio (Wireless): padrões IEEE 802.11b/g/n/ac. Características da Internet das Coisas (IoT).
-    Protocolos de roteamento: OSPF, BGP, RIP, VRRP e HSRP. Tecnologia VoIP. Protocolos H.323 e SIP. Qualidade
-    de Serviço (QoS). Serviços integrados e diferenciados. Ativos de perímetro e segurança: firewall, firewall
-    Proxy, NGFW, WAF, IDS/IPS, gateway VPN, cofres de senhas e gerenciadores de acessos privilegiados (PAM).
-    Gerenciamento de redes: conceitos, fundamentos, protocolos e implantação. SNMP, MIBs, NMSs e agentes.
-    Cabeamento estruturado categorias 3, 5, 5e, 6 e 6a, de acordo com a ABNT NBR 14565:2019. Fibras ópticas
-    (monomodo e multimodo). Padrões: IEEE 802.1D, IEEE 802.1Q/p, IEEE 802.1w, IEEE 802.1s, IEEE 802.1X, IEEE
-    802.3, IEEE 802.3u, IEEE 802.3z, IEEE802.3ae e IEEE802.3af.Bancos de dados. Conceitos e fundamentos.
-    Arquitetura de sistemas de banco de dados. Conhecimento de SGBD. Oracle, PostgreSQL, SQL Server e
-    MySQL. Instalação, operação, tunning, manutenção, gerenciamento, backup e restore. Linguagem SQL e
-    PL/SQL. Business Intelligence.
+    Modelo de referência OSI.
+    Arquitetura TCP/IP.
+    Topologias de redes de computadores.
+    Meios de transmissão e tipos de cabeamentos.
+    Fibras ópticas multimodo e monomodo.
+    Cabeamento estruturado de rede.
+    Normas ABNT NBR 14565, 16665 e EIA/TIA-568.
+    Tecnologias de redes locais e de longa distância (PAN, LAN, MAN, WAN, WPAN, WLAN, WMAN e WWAN, VLAN).
+    Ativos de rede:
+        gateways,
+        hubs,
+        repetidores,
+        bridges,
+        switches e roteadores.
+
+    Características dos principais protocolos de rede TCP/IP:
+        TCP,
+        IP,
+        UDP,
+        ICMP,
+        HTTP,
+        HTTPS,
+        SMTP,
+        IMAP,
+        DNS,
+        DHCP,
+        SSH,
+        SSL LDAP e RDP.
+
+    Endereçamento IP:
+        IPv4.
+        IPv6.
+        CIDR.
+
+    Mecanismo de NAT e PAT.
+    Comutação na camada de enlace de dados.
+    SpanningTreeProtocol (IEEE 802.1d).
+    IEEE-802.2 LLC.
+    Tecnologias MPLS e SDWAN.
+    VLAN (IEEE 802.1Q).
+    Protocolo de subcamada MAC e LLC.
+    CSMA/CD.
+    Padrão IEEE 802.3.
+    Fast Ethernet.
+    Gigabit Ethernet.
+    Conjunto de padrões IEEE 802.11.
+    Gerações de Wi-Fi.
+    Padrões e protocolos da família 802.1x.
+        EAP,
+        WEP,
+        WPA e
+        WPA2.
+
+    Redes sem fio (Wireless):
+        padrões IEEE 802.11b/g/n/ac.
+
+    Características da Internet das Coisas (IoT).
+    Protocolos de roteamento:
+        OSPF,
+        BGP,
+        RIP,
+        VRRP e HSRP.
+
+    Tecnologia VoIP.
+        Protocolos H.323 e SIP.
+
+    Qualidade de Serviço (QoS).
+    Serviços integrados e diferenciados.
+    Ativos de perímetro e segurança:
+        firewall,
+        Proxy,
+        NGFW,
+        WAF,
+        IDS/IPS,
+        gateway VPN,
+        cofres de senhas e gerenciadores de acessos privilegiados (PAM).
+
+    Gerenciamento de redes:
+        conceitos,
+        fundamentos,
+        protocolos e implantação.
+        SNMP,
+        MIBs,
+        NMSs e
+        agentes.
+
+    Cabeamento estruturado categorias
+        3,
+        5,
+        5e,
+        6 e 6a,
+        de acordo com a ABNT NBR 14565:2019.
+
+    Fibras ópticas (monomodo e multimodo).
+    Padrões: IEEE 802.1D,
+        IEEE 802.1Q/p,
+        IEEE 802.1w,
+        IEEE 802.1s,
+        IEEE 802.1X,
+        IEEE 802.3,
+        IEEE 802.3u,
+        IEEE 802.3z,
+        IEEE802.3ae e
+        IEEE802.3af.
+
+    Bancos de dados.
+        Conceitos e fundamentos.
+        Arquitetura de sistemas de banco de dados.
+        Conhecimento de SGBD.
+            Oracle,
+            PostgreSQL,
+            SQL Server e
+            MySQL.
+
+        Instalação,
+            operação,
+            tunning,
+            manutenção,
+            gerenciamento,
+            backup e restore.
+
+        Linguagem SQL e PL/SQL.
+        Business Intelligence.
 
 INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO.
-    Infraestruturas de serviços. Plataformas Microsoft: Active Directory, Exchange, Windows Server e Enterprise, e Office 365.
-    Arquiteturas de armazenamento corporativo de dados: DAS, SAN, NAS, CAS, CloudStorage e RAID. Multipathing. Servidores de Aplicação: Apache/PHP,
-    Tomcat, JBoss, Wildfly, IIS e ZopePlone. Utilitários e comandos padrão. OpenLDAP. Interpretador Bash e Shell
-    Script. Administração de usuários, grupos, permissões e controles de acesso (LDAP).
-    Serviços de Rede: Serviços de nomes (BIND e Windows DNS Server). Conceitos básicos de máquinas virtuais e containers.
-    Conceitos de alta disponibilidade e tolerância a falhas. Indicadores de disponibilidade: MTBF, MTTR e MTTF.
-    Computação em nuvem. Fundamentos. Características. Modelos de Serviços. Escalabilidade, elasticidade,
-    bilhetagem e cobrança de serviços em nuvem.
-    NIST SP 800-145.
+    Infraestruturas de serviços.
+    Plataformas Microsoft:
+        Active Directory,
+        Exchange,
+        Windows Server e Enterprise,
+        e Office 365.
+
+    Arquiteturas de armazenamento corporativo de dados:
+        DAS,
+        SAN,
+        NAS,
+        CAS,
+        CloudStorage e
+        RAID.
+
+    Multipathing.
+
+    Servidores de Aplicação:
+        Apache/PHP,
+        Tomcat,
+        JBoss,
+        Wildfly,
+        IIS e ZopePlone.
+
+    Utilitários e comandos padrão.
+    OpenLDAP.
+        Interpretador Bash e Shell Script.
+        Administração de usuários,
+        grupos,
+        permissões e controles de acesso (LDAP).
+
+    Serviços de Rede:
+        Serviços de nomes (BIND e Windows DNS Server).
+
+    Conceitos básicos de máquinas virtuais e containers.
+    Conceitos de alta disponibilidade e tolerância a falhas.
+
+    Indicadores de disponibilidade:
+        MTBF,
+        MTTR e MTTF.
+
+    Computação em nuvem.
+        Fundamentos.
+        Características.
+        Modelos de Serviços.
+        Escalabilidade,
+        elasticidade,
+        bilhetagem e cobrança de serviços em nuvem.
+        NIST SP 800-145.
 
 SEGURANÇA DA INFORMAÇÃO.
-    Conceitos de segurança da informação: classificação de informações, confidencialidade, integridade, disponibilidade, não
-    repúdio, privacidade, controle de acesso, segurança física e lógica; identificação, autorização e autenticação.
-    Ataques e mecanismos de segurança. Controle de acesso: autenticação baseada em múltiplos fatores.
-    Comunicação segura com SSL e TLS. Protocolos de autenticação OpenID Connect (OIDC), SSO, OAuth2 e
-    SAML. Conhecimento da plataforma Keycloak. Sistemas de proteção. Firewall, IPTables, WAF, UTM, DMZ,
-    Proxy, NAC, antivírus e antispam. IDS e IPS. Monitoramento de tráfego: sniffer de rede. Segurança de redes
-    sem fio EAP, WEP, WPA, WPA2 e WPA3, VPN e VPN-SSL. Ataques e ameaças na internet e em redes sem
-    fio.Códigos maliciosos. Tipos e características. Virus e Malware. Ataques DoS e DDoS. Conceitos e definições
-    de Certificação digital e assinatura digital: chaves simétricas, públicas e privadas; Autoridade certificadora e
-    de registro; principais protocolos; Infraestrutura de chaves públicas ICP-Brasil. OWASP. Norma de segurança
-    ISO/IEC 27001.
-    Norma de Segurança ABNT NBR ISO/IEC 27001:2013 e ABNT NBR ISO/IEC 27002:2013.
-    Criptografia: Conceitos e algoritmos de chave simétrica e de chave pública. Segurança de IP (IPSec. VPN
-    (Redes privadas virtuais). Segurança de IP (IPSec). Funções de hash criptográficos. Conceitos e definições de
-    Certificação digital e assinatura digital; Infraestrutura de chaves públicas ICP-Brasil.
+    Conceitos de segurança da informação:
+        classificação de informações,
+        confidencialidade,
+        integridade,
+        disponibilidade,
+        nãorepúdio,
+        privacidade,
+        controle de acesso,
+        segurança física e lógica;
+            identificação,
+            autorização e
+            autenticação.
 
-GERENCIAMENTO DE SERVIÇOS: ITIL® VERSÃO 4.
-    conceitos básicos, estrutura e objetivos; processos e funções de estratégia, desenho,
-    transição e operação de serviços, suporte e entrega de serviços.
+    Ataques e mecanismos de segurança.
+
+    Controle de acesso:
+        autenticação baseada em múltiplos fatores.
+        Comunicação segura com SSL e TLS.
+        Protocolos de autenticação OpenID Connect (OIDC),
+        SSO,
+        OAuth2 e
+        SAML. Conhecimento da plataforma Keycloak.
+
+    Sistemas de proteção.
+        Firewall,
+        IPTables,
+        WAF,
+        UTM,
+        DMZ,
+        Proxy,
+        NAC,
+        antivírus e antispam.
+        IDS e IPS.
+
+    Monitoramento de tráfego:
+        sniffer de rede. Segurança de redes
+        sem fio EAP,
+        WEP,
+        WPA,
+        WPA2 e WPA3,
+        VPN e VPN-SSL.
+
+    Ataques e ameaças na internet e em redes sem fio.Códigos maliciosos.
+    Tipos e características.
+    Virus e Malware.
+    Ataques DoS e DDoS.
+    Conceitos e definições de Certificação digital e assinatura digital:
+        chaves simétricas,
+        públicas e privadas; Autoridade certificadora e de registro;
+        principais protocolos;
+        Infraestrutura de chaves públicas ICP-Brasil.
+        OWASP.
+
+    Norma de segurança ISO/IEC 27001.
+    Norma de Segurança ABNT NBR ISO/IEC 27001:2013 e ABNT NBR ISO/IEC 27002:2013.
+
+    Criptografia:
+        Conceitos e algoritmos de chave simétrica e de chave pública.
+        VPN(Redes privadas virtuais).
+        Segurança de IP (IPSec).
+        Funções de hash criptográficos.
+        Conceitos e definições de Certificação digital e assinatura digital;
+        Infraestrutura de chaves públicas ICP-Brasil.
+
+GERENCIAMENTO DE SERVIÇOS:
+    ITIL® VERSÃO 4.
+        conceitos básicos,
+        estrutura e
+        objetivos;
+        processos e funções de estratégia,
+        desenho,
+        transição e
+        operação de serviços,
+        suporte e entrega de serviços.
 
 FERRAMENTAS E APLICATIVOS.
-    Microsoft Office (Word, Excel, Access e Power Point). LibreOffice. Navegadores Internet. Correio Eletrônico. Ambientes de
-    Colaboração e Videoconferência.
+    Microsoft Office (Word, Excel, Access e Power Point).
+    LibreOffice.
+    Navegadores Internet.
+    Correio Eletrônico.
+    Ambientes de Colaboração e Videoconferência.
 
 CONCEITOS BÁSICOS DE CONTRATAÇÕES DE TI.
-    Resolução CNJ nº 182/2013 (Diretrizes para as contratações de Solução de Tecnologia da Informação e Comunicação). Resolução CNJ nº
-    370/2021 (Estratégia Nacional deTecnologia da Informação e Comunicação do Poder Judiciário - ENTIC-JUD).
+    Resolução CNJ nº 182/2013 (Diretrizes para as contratações de Solução de Tecnologia da Informação e Comunicação).
+    Resolução CNJ nº 370/2021 (Estratégia Nacional deTecnologia da Informação e Comunicação do Poder Judiciário - ENTIC-JUD).
     Resolução CNJ nº 335/2020 (Plataforma Digital do Poder Judiciário Brasileiro - PDPJ-Br).
 
 Proteção de Dados e Privacidade.
-    Lei nº 13.709/2018. Tratamento de Dados Pessoais no Poder Público, conforme orientação da
-    ANPD. Princípios do Privacyby Design.
+    Lei nº 13.709/2018.
+    Tratamento de Dados Pessoais no Poder Público, conforme orientação da ANPD.
+    Princípios do Privacyby Design.
