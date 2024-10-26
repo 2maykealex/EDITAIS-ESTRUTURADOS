@@ -1,0 +1,90 @@
+CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS DE NÍVEL MÉDIO E SUPERIOR
+
+LÍNGUA PORTUGUESA
+    1. Elementos de construção do texto e seu sentido:
+        gênero do texto (literário e não literário, narrativo, descritivo e argumentativo);
+    interpretação e organização interna.
+    2. Semântica:
+        sentido e emprego dos vocábulos; campos semânticos; emprego de tempos e modos dos verbos em português.
+    3. Morfologia:
+        reconhecimento, emprego e sentido das classes gramaticais; processos de formação de palavras; mecanismos de flexão dos nomes e verbos.
+    4. Sintaxe:
+        frase, oração e período; termos da oração; processos de coordenação e subordinação; concordância nominal e verbal;
+    transitividade e regência de nomes e verbos; padrões gerais de colocação pronominal no português; mecanismos de coesão textual. Ortografia.
+    Acentuação gráfica. Emprego do sinal indicativo de crase. Pontuação.
+    5. Reescrita de frases:
+        substituição, deslocamento, paralelismo.
+    6. Variação linguística:
+        norma culta.
+
+HISTÓRIA E GEOGRAFIA DE RONDÔNIA
+    1. Ocupação, colonização e povoamento da área que hoje constitui o Estado de Rondônia:
+        missões Jesuíticas, descoberta de ouro no Estado de Rondônia, entradas e bandeiras nos vales do Guaporé e Madeira (mineração, drogas do sertão, o escravismo, o contrabando e as rotas fluviais).
+    2. Economia e sociedade nos séculos XIX e XX:
+        da economia da borracha, poia e castanha aos planos de desenvolvimento regional, da nacionalização da ferrovia à transição para o Estado de Rondônia. Produção econômica regional e questões socioambientais na atualidade. Populações
+    tradicionais.
+    3. O ambiente amazônico, estruturas físicas e ambientais.
+
+CONHECIMENTOS TRANSVERSAIS
+    1. Governança e Gestão Pública:
+        Noções de Governança e Gestão Pública:
+            Estado, Governo e Sociedade - conceito e evolução do Estado contemporâneo; aspectos fundamentais na formação do estado brasileiro.
+        Gestão Estratégica:
+            eficiência, eficácia, excelência nos serviços públicos, gestão de projetos, gestão por competências.
+        Normas do TJRO e CNJ:
+            Resolução 205/2021 do TJRO - Estratégia do Poder Judiciário do Estado de Rondônia 2021-2026; Resolução n. 325/2020 do CNJ - Estratégia Nacional do Poder Judiciário 2021-2026;
+            Resolução 298/2023 do TJRO - Política de Gestão de Riscos do PJRO;
+            Resolução n. 306/2023 do PJRO - Sistema de Integridade do Poder Judiciário do Estado de Rondônia.
+            Lei n. 14.133/2021 - Lei de Licitações e Contratos.
+
+    2. Transparência e compliance:
+        Lei n. 12.527/2011 - Lei de Acesso à Informação e
+        Decreto n. 7.724/2012.
+        Lei n. 13.709/2018 - Lei Geral de Proteção de Dados Pessoais - LGPD.
+        Resolução n. 363/2021 CNJ - Estabelece medidas para o processo de adequação à Lei Geral de Proteção de Dados Pessoais a serem adotadas pelos tribunais.
+        Resolução n. 199/2021 do TJRO - Política de Privacidade e Proteção de Dados Pessoais no âmbito do PJRO.
+        Resolução n. 309/2023 do TJRO - Código de Ética e Conduta do PJRO.
+        Resolução n. 307/2023 do TJRO - Política de Prevenção e Enfrentamento ao Assédio Moral, Sexual e à Discriminação do PJRO.
+
+    3. Diversidade e inclusão:
+        Diversidade de sexo, gênero e sexualidade. Diversidade étnico-racial. Diversidade cultural.
+        Desafios sociopolíticos da inclusão de grupos vulnerabilizados:
+            crianças e adolescentes; idosos; LGBTQIA+; pessoas com deficiências; pessoas em situação de rua, povos indígenas, comunidades quilombolas e demais minorias sociais. Legislação protetiva de grupos vulnerabilizados.
+            Ações afirmativas. Lei n. 13.146/2015 - Estatuto da Pessoa com Deficiência.
+        Resolução 401/2021 do CNJ - Desenvolvimento de diretrizes de acessibilidade e inclusão de pessoas com deficiência. Resolução CNJ n. 255/2018 -
+        Institui a Política Nacional de Incentivo à Participação Institucional Feminina no Poder Judiciário. Resolução CNJ n. 520/2023 - Dispõe sobre a
+        Política Judiciária sobre Pessoas Idosas e suas interseccionalidades. Resolução CNJ n. 425/2021 - Institui, no âmbito do Poder Judiciário, a Política
+        Nacional Judicial de Atenção a Pessoas em Situação de Rua e suas interseccionalidades.
+
+    4. Sustentabilidade e Meio Ambiente.
+        Meio ambiente na Constituição Federal de 1988.
+        Sustentabilidade.
+        Qualidade ambiental.
+        Princípios do direito ambiental.
+        Dano ambiental.
+        Desenvolvimento sustentável, meio ambiente e mudança climática.
+        Política Nacional de Educação Ambiental (Lei n. 9.795/1999).
+        Resolução n. 400/2021 do CNJ - Política de sustentabilidade do PJRO.
+        Ato 610/2024 do TJRO e Anexo I - Plano de Sustentabilidade do TJRO 2024-2026.
+
+    5. Legislação Institucional:
+        Constituição do Estado de Rondônia:
+            Poder Judiciário;
+            Servidores públicos civis.
+            Lei Complementar 68/1992 - Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia.
+            Lei Complementar 568/2010 - Plano de carreiras, cargos e salários dos servidores do PJRO.
+            Regimento interno do TJRO.
+            Lei Estadual n. 94/1993 - Código de Organização e Divisão Judiciária do Estado de Rondônia (COJE).
+
+    6. Noções de Informática:
+        Noções do sistema operacional Windows 11. Conceitos de organização e de gerenciamento de informações:
+            arquivos, pastas e programas.
+        Google Workspace/Drive:
+            compartilhamento de arquivos; criar arquivos, editar, compartilhamento de arquivos e permissões; Google Agenda - Criar eventos, convidar participantes, ajustar horários, anexar documentos, adicionar videoconferência; Google Tarefas; Google Meet; Gmail - configurações
+        rápidas, painel de visualização, marcadores; editor de texto (documentos Google).
+        Navegadores web:
+            Mozilla Firefox e Google Chrome.
+        Segurança da informação:
+            noções de procedimentos de segurança;
+            noções de vírus, worms e outras pragas virtuais;
+            boas práticas de segurança cibernética, incluindo autenticação de dois fatores e gestão de senhas.

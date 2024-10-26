@@ -1,0 +1,348 @@
+TJ-RO
+Edital em: https://conhecimento.fgv.br/concursos/tjro21
+
+1.Estrutura de dados:
+    Linguagens de programação, compiladores e interpretadores.
+    Noções de linguagens procedurais:
+        tipos de dados elementares e estruturados, funções e procedimentos.
+    Representação de dados numéricos, textuais e estruturados.
+    Aritmética computacional.
+
+    Estruturas de dados e algoritmos:
+        listas,
+        filas,
+        pilhas,
+        tabelas hash e árvores;
+        métodos de acesso,
+        busca,
+        inserção e ordenação em estruturas de dados;
+        complexidade de algoritmos.
+        Algoritmos para exploração de dados e machine learning.
+
+    2.Engenharia e arquitetura de software:
+        Ciclo de vida do software.
+        Metodologias de desenvolvimento de software.
+        Metodologias ágeis.
+        Qualidade de software.
+        Gestão de Configuração:
+            Controle de versão,
+            controle de mudança e
+            integração contínua.
+
+        Teste de software.
+            Técnicas de testes de software.
+            Controles e testes de segurança para aplicações web.
+            Controles e testes de segurança para Web Services.
+            Processo unificado:
+                disciplinas, fases, papéis e atividades.
+            Métricas e estimativas de software.
+
+        Engenharia de requisitos.
+            Técnicas de elicitação de requisitos.
+            Gerenciamento de requisitos.
+            Especificação de requisitos.
+            Técnicas de validação de requisitos.
+            Prototipação.
+            Engenharia de usabilidade.
+            Análise de requisitos de usabilidade.
+            Métodos para avaliação de usabilidade.
+
+        Orientação a objetos:
+            classes e objetos;
+            relacionamentos;
+            herança e polimorfismo;
+            encapsulamento.
+            SOLID.
+            GRASP.
+            TDD.
+            BDD.
+            Padrões de projeto.
+            Análise e projeto orientados a objetos.
+
+        Interoperabilidade de sistemas:
+            SOA e Web Services; padrões XML, XSLT, JSON, UDDI, WSDL, SOAP e REST.
+        Arquitetura distribuída de microsserviços;
+            API RESTful;
+            JSON;
+            Framework Spring;
+            Spring Cloud;
+            Spring Boot;
+            Spring Eureka, Zuul;
+            Map Struct;
+            Swagger;
+        Service Discovery;
+            API Gateway;
+            Persistência;
+            JPA 2.0;
+            Hibernate 4.3 ou superior;
+            Hibernate Envers;
+            Biblioteca Flyway;
+            Mensageria e Webhooks;
+        Message Broker;
+            RabbitMQ;
+            Evento negocial;
+            Webhook;
+            APIs reversas.
+
+    3.Ambientes de desenvolvimento e linguagens de programação:
+        Programação para WEB.
+            Conhecimentos de Python, Java, Kotlin, JavaScript, jQuery, Angular, bootstrap, PHP.
+        Tecnologias e práticas web:
+            HTML,
+            CSS, UX, Ajax.
+        Padrões de frontend:
+            SPA e PWA.
+        Tecnologia de desenvolvimento móvel:
+            Android, IOS, Flutter, React e SQLite.
+
+    4.Governança e gestão de TIC:
+        Conceito, objetivos e aplicações de governança de TIC.
+        Conhecimentos básicos das principais metodologias de governança de TI.
+        Gerenciamento de projetos Ágeis.
+        Metodologias de gestão de projetos:
+            PMBOK - 7ª edição, Agile, Scrum, Kanban.
+        Ferramentas de gestão de projetos:
+            MS Project, Jira, Trello.
+        Gerenciamento de escopo, tempo, custo, qualidade, recursos humanos, comunicações, riscos e aquisições.
+        Boas práticas.
+        Resolução do CNJ n. 468/2022 - Contratações de Solução de Tecnologia da Informação e Comunicação pelos órgãos submetidos ao controle administrativo e financeiro do CNJ.
+        Resolução do CNJ n. 370/2021 - Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD).
+
+    5. Virtualização:
+        Conceito de virtualização:
+            fundamentos de virtualização, benefícios e tipos de virtualização.
+        Conhecimento e gestão de Hypervisor VMware vSphere/ESXi 8.0 ou superior:
+            instalação, configuração, gestão de VMs, e práticas de otimização.
+        Virtualização na Nuvem:
+            criação, configuração e gestão de instâncias em Google Compute Engine, Amazon EC2, Microsoft Azure Virtual Machines.
+        Virtualização Híbrida e Multi-Cloud:
+            Gestão de recursos em ambientes híbridos e multi-cloud, incluindo VMware Cloud on AWS, Azure Arc, Google Anthos.
+
+    Sistemas operacionais.
+        Sistemas de arquivos e gerenciamento de memória:
+            conceitos de sistemas de arquivos, otimização e gerenciamento de memória em Windows Server 2019 ou superior e Linux Red Hat 9 ou superior.
+        Gerenciamento de usuários, permissões e segurança no Windows
+    Server e Linux Red Hat:
+        criação de usuários, definição de permissões, implementação de políticas de segurança.
+        Gerenciamento de Sistemas
+    Operacionais em nuvem:
+        administração e otimização de instâncias de SOs em Google Compute Engine, Amazon EC2, Microsoft Azure Virtual
+    Machines.
+        Automatização e configuração de SOs na nuvem:
+            uso de Cloud-Init e gerenciamento de imagens (AMIs, Google Cloud Images, Azure VM
+    Images).
+        Gerenciamento de segurança em SOs na nuvem:
+            implementação de firewalls baseados em host, criptografia, e controle de acesso na nuvem.
+    Gerenciamento de atualizações e patches:
+        Ferramentas e práticas para manter instâncias de SOs seguras e atualizadas na nuvem.
+
+    6. Servidores:
+        Servidores físicos:
+            Configuração e manutenção de Hyper-convergência.
+            Noções de servidores de páginas em HTML:
+                Nginx, Apache, Tomcat em ambientes on-premises e na nuvem.
+            Noções de servidores de aplicação Java Platform, Enterprise Edition (JEE):
+                JBoss, Wildfly em ambientes onpremises e na nuvem.
+            Serviços gerenciados na Nuvem:
+                Web hosting com AWS Elastic Beanstalk, Google App Engine, Azure App Services.
+        Servidores DHCP:
+            Implementação em ambientes on-premises e na nuvem.
+        Servidor de DNS:
+            Configuração em ambientes locais e com serviços gerenciados como Amazon Route 53, Google Cloud DNS, Azure DNS.
+        Servidores Active Directory:
+            configuração e gestão em ambientes on-premises e com AWS Directory Service, Azure AD, Google Cloud Identity.
+        Servidor de NTP:
+            configuração em ambientes locais e na nuvem.
+            Configuração e gestão de servidores de E-mail:
+                SPF, DKIM, DMARC, SMTP, IMAP, POP3 em servidores locais e soluções de e-mail na nuvem (Google Workspace).
+
+    7. Armazenamento:
+        Sistemas de armazenamento escalável:
+            implementação, gestão e otimização de sistemas de armazenamento altamente escaláveis,
+        com foco em desempenho, capacidade de expansão horizontal e integração com ambientes multi-nuvem.
+        VMware vSAN:
+            arquitetura de cluster,
+            Política de armazenamento baseada em regras (Storage Policy Based Management - SPBM), Deduplicação, compressão e eficiência de espaço,
+            recuperação, tolerância a falhas (RAID, Fault Domains) e Escalabilidade e desempenho.
+        Servidor de Arquivos:
+            Implementação de servidores de arquivos, como Samba e Windows File Server.
+        MinIO:
+            Compatibilidade com protocolo S3, segurança, alta disponibilidade, e integração com Kubernetes.
+        Armazenamento de objetos em nuvem:
+            Amazon S3, Google Cloud Storage e Microsoft Azure Blob Storage.
+        Armazenamento de blocos em nuvem:
+        Amazon EBS (Elastic Block Store), Google Persistent Disk e Microsoft Azure Managed Disks.
+        Armazenamento de arquivos em nuvem:
+            Amazon EFS (Elastic File System), Google Filestore e Microsoft Azure Files.
+        Gerenciamento de ciclo de vida de dados:
+            implementação de políticas de ciclo de vida em serviços de armazenamento em nuvem.
+
+    8. Redes:
+        Fundamentos de Redes:
+            Modelo OSI e TCP/IP, Topologias de rede, Protocolos,
+            Endereçamento IP (IPv4/IPv6, Subnetting, CIDR).
+        Classificação de Redes:
+            LAN, MAN, WAN, VPN, SD-WAN e suas aplicações.
+            Equipamentos de rede:
+            Roteadores, Switches (VLAN, STP), Access Point.
+            Tecnologias e protocolos de Roteamento:
+                RIP, OSPF, EIGRP, BGP, MPLS.5.5
+
+        Redes sem fio (Wireless):
+            Padrões Wi-Fi (802.11x), segurança em redes sem fio, RFID, IoT.
+            Redes definidas por software (SDN) e NFV:
+                Conceitos de SDN,
+                OpenFlow,
+                NFV e
+                Cisco ACI.
+        Redes em nuvem:
+                Configuração e gestão de redes em AWS VPC, Google Cloud VPC, Azure Virtual Network, Integração entre Redes On-Premises e Nuvem.
+        Redes de conteúdo e CDN:
+            Implementação e gestão de CDNs para otimizar a entrega de conteúdo, utilizando serviços como AWS CloudFront, Google Cloud CDN e Azure CDN.
+        Alta disponibilidade e redes de missão crítica:
+            Implementação de Redes de Alta Disponibilidade; QoS.
+        SD-WAN:
+            Implementação e gestão de redes WAN definidas por software.
+
+    9. Automação e orquestração:
+        Noções de DevOps:
+            princípios e práticas de DevOps, incluindo CI/CD, automação de testes e colaboração entre equipes de desenvolvimento e operações.
+        Conhecimento em containers:
+            LXC/LXD, Docker, Podman, CRI-O e Containerd.
+        Conhecimento em orquestradores:
+            Kubernetes e OpenShift.
+        Ferramentas de automação:
+            Helm e integração CI/CD nas pipelines do GitLab.
+        Infraestrutura como código (IaC):
+            Terraform, Ansible e GitLab.
+
+        Balanceamento de Carga:
+            Conceitos e ferramentas:
+                F5 Big Ip Management, Traefik, HAProxy, Nginx.
+        Service Mesh:
+            Conceitos e ferramentas como Istio, Linkerd, e Consul Connect para gestão de tráfego entre microsserviços.
+
+    10. Bancos de dados:
+        Integração com bancos de dados.
+        Modelagem de dados, conceitual e semântica.
+        Modelo de entidades e relacionamentos.
+        Notação IDEF1X.
+        Noções de Big Data.
+        Sistema relacional:
+            teoria, estrutura, linguagens, operações, normalização, integridade.
+        Projeto de bancos de dados:
+            teoria, dependências funcionais, normalização.
+        Linguagem SQL para controle, manipulação e descrição de dados.
+        Conceitos de banco de dados NoSQL (orientado a documento, chave-valor, grafo, colunar e time series).
+        Transações:
+            conceitos e propriedades.
+        Processamento e otimização de consultas.
+        Recuperação e concorrência.
+        Conhecimento em Segurança de dados (políticas de segurança para proteger dados contra acessos não autorizados, incluindo criptografia, gerenciamento de
+    permissões e auditoria).
+        Conhecimentos de Oracle 12C ou posterior, Postgresql 12 ou superior e MongoDB 4.4 ou superior.
+        Conceitos de Data Mining, OLAP e ETL.
+        Servidor de Banco de Dados:
+            Configuração e gestão de bancos de dados com MySQL, PostgreSQL, SQL Server, Oracle, Amazon RDS, Google Cloud SQL, Azure SQL Database.
+
+    11.Segurança da informação:
+        Conceitos Fundamentais:
+            confidencialidade, integridade, disponibilidade, integridade e não repúdio.
+        Princípios de segurança:
+            mínimo privilégio, defesa em profundidade e Zero Trust.
+        Gestão da Segurança da Informação:
+            ISO 27001/2022.
+        Controles e orientações em Segurança da Informação:
+            ISO 27002/2022 e Framework NIST.
+        Riscos:
+            ISO/IEC 27005/2023.
+
+        Arquiteturas e dispositivos de segurança:
+            Firewalls de aplicação, PAM (Privileged Access Management), antimalware.
+        Gerenciamento de eventos e informações de segurança (SIEM):
+            correlação e análise de logs e criação de alertas e dashboards.
+        Análise de comportamento:
+            Detecção de anomalias em sistemas e usuários.
+                Tipos de ataques e proteções relativos a hardware, software, sistemas operacionais, aplicações, bancos de dados, redes, pessoas e ambiente físico.
+        Segurança em Servidores:
+            conceitos de hardening de servidores, configuração e gestão de firewalls e gerenciamento de certificados SSL/TLS.
+        Segurança de imagens de contêiner:
+            PodSecurityPolicies, varredura de vulnerabilidades e gestão de segredos.
+        Segurança de Redes:
+            VPN (IPsec, SSL/TLS), Firewalls de rede, IDS/IPS.
+        Backup e Recuperação de Desastres:
+            práticas de backup, ferramentas e práticas de backup e recuperação para ambientes on-premises e na nuvem.
+        OWASP Top 10.
+        Secure by Design.
+        Ciclo de vida DevSecOps:
+            Shift-left.
+        Lei Geral de Proteção de Dados Pessoais.
+        Segurança para Nuvem:
+            Responsabilidades compartilhadas.
+
+    12. Criptografia:
+        Conceitos básicos:
+            Cifragem, descriptografia, chaves, algoritmos.
+        Tipos de criptografia:
+            simétrica e assimétrica e hash.
+        Assinatura, certificação digital e infraestrutura de chave pública (PKI).
+
+    13. Autenticação:
+        Active Diretory:
+            autenticação centralizada, gerenciamento de identidades e controle de acesso.
+        Controle de acesso baseado em funções (RBAC).
+        Autenticação de dois fatores (MFA).
+        OAuth 2, JWT e SAML.
+        Serviços de autenticação; SSO Single Sign-On;
+        Keycloak.
+        Desenvolvimento em nuvem.
+        Inteligência Artificial e Aprendizado de Máquina:
+            algoritmos de aprendizado supervisionado e não supervisionado; redes neurais; processamento de linguagem natural.
+        Processamento de Dados:
+            Processamento massivo e paralelo.
+        Processamento em lote e em tempo real.
+
+    14. Normativos da PDPJ-Br:
+        Resolução do CNJ n. 522/2023 - Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder Judiciário.
+        Resolução do CNJ n. 335/2020 - Política pública para a governança e a gestão de processo judicial eletrônico;
+        Portaria do CNJ n. 252/2020 - dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br);
+        Portaria do CNJ n. 253/2020 - Critérios e as diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do
+        Poder Judiciário Brasileiro (PDPJ-Br);
+        Portaria do CNJ n. 131/2021 - Grupo Revisor de Código-Fonte das soluções da Plataforma Digital do Poder Judiciário (PDPJ-Br) e do Processo Judicial Eletrônico (PJe);
+        Resolução do CNJ n.396/2021 - Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ);
+        Portaria do CNJ n. 162/2021 - Protocolos e Manuais da Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ).
+
+    15.Conhecimentos de Direito Administrativo:
+        Noções de organização administrativa.
+        Administração direta e indireta, centralizada e descentralizada. Desconcentração.
+        Princípios expressos e implícitos da administração pública.
+        Órgãos públicos.
+        Agentes públicos.
+        Processo Administrativo.
+        Poderes administrativos.
+        Ato administrativo.
+        Controle e responsabilização da administração:
+            controle administrativo;
+            controle judicial;
+            controle legislativo.
+        Improbidade Administrativa.
+        Responsabilidade civil do Estado.
+
+    16. Conhecimentos de Direito Constitucional:
+        Constituição:
+            conceito, classificações, princípios fundamentais.
+            Direitos e garantias fundamentais:
+                direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, cidadania.
+            Organização político-administrativa:
+                União, Estados, Distrito Federal, Municípios e Territórios.
+            Administração pública:
+                disposições gerais, servidores públicos.
+            Poder Judiciário:
+                Disposições gerais.
+            Órgãos do Poder Judiciário:
+                competências.
+            Conselho Nacional de Justiça (CNJ):
+                composição e competência.
+            Funções essenciais à Justiça:
+                Ministério Público, Advocacia e Defensoria Pública.
+            Noções de direitos humanos.
