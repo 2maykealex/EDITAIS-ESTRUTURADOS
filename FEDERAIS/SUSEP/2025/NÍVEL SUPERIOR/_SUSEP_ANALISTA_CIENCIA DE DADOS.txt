@@ -1,0 +1,333 @@
+SUSEP
+Edital em: https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/ED_1_2024_SUSEP_ABERTURA.PDF
+
+Aplicação das provas objetivas e discursiva 08/06/2025
+
+REMUNERAÇÃO: R$ 18.033,52, conforme alínea b do Anexo IX da Lei nº 11.890, de 24 de dezembro de
+2008, alterado pelo artigo 60 e anexo XC da Medida Provisória nº 1.286, de 31 de dezembro de 2024.
+JORNADA DE TRABALHO: 40 horas semanais.
+
+CARGO 4: ANALISTA TÉCNICO – ÁREA: TECNOLOGIA DA INFORMAÇÃO E CIÊNCIA DE DADOS
+
+    CIÊNCIA DE DADOS E BANCO DE DADOS:
+        I CIÊNCIA DE DADOS:
+            1 Aprendizado supervisionado.
+            2 Aprendizado não-supervisionado.
+            3 Redes neurais artificiais.
+            4 IA generativa.
+            5 Processamento de linguagem natural (PLN).
+            6 Big Data.
+            7 Visão computacional.
+            8 Deep learning.
+            9 Mineração de dados.
+            10 ETL e ELT.
+
+            11 Manipulação, tratamento e visualização de dados;
+            técnicas para lidar com valores ausentes,
+            com outliers e com desbalanceamento dos dados;
+            seleção, extração e criação de novas características (feature engineering).
+
+            12 Modelagem:
+                otimização de hiperparâmetros,
+                técnicas de regularização,
+                métricas para avaliação e seleção de modelos,
+                validação de modelos.
+
+            13 Aplicações em Python:
+                análise de dados,
+                aprendizado de máquina,
+                técnicas de classificação,
+                técnicas de regressão,
+                ensembling de modelos,
+                técnicas de agrupamento,
+                técnicas de redução de dimensionalidade,
+                técnicas de associação e
+                sistemas de recomendação.
+
+            14 Governança e ética na IA:
+                transparência,
+                responsabilidade,
+                explicabilidade,
+                privacidade,
+                segurança e viés.
+
+            15 MLOps:
+                Gestão de código,
+                treinamento,
+                implantação,
+                monitoramento e versionamento de modelos,
+                automação do ciclo de produção.
+
+        II BANCOS DE DADOS:
+            1 Banco de dados:
+                conceitos básicos,
+                arquitetura,
+                estrutura de dados
+                normalização de dados.
+
+            2 Modelagem de dados:
+                relacional,
+                multidimensional
+                NoSQL.
+
+            3 Linguagem de consulta estruturada (PL/SQL e SQL).
+            4 Linguagem de definição de dados (DDL).
+            5 Linguagem de manipulação de dados (DML).
+            6 Sistemas de gestão de banco de dados (SGDB).
+            7 DataWarehouse,
+            DataMart,
+            DataLake,
+            DataMesh.
+
+    SEGURANÇA DA INFORMAÇÃO:
+        1 Normas em suas respectivas versões mais recentes:
+            NBR ISO/IEC 27001,
+            NBR ISO/IEC 27002,
+            NBR ISO/IEC 27005
+
+        2 Gestão de identidades e acesso:
+            métodos de autenticação e autorização,
+            SSO (single sign-on),
+            SAML (security assertion markup language),
+            OAuth2,
+            OpenID Connect,
+            JWT (JSON web token).
+
+        3 Privacidade e segurança por padrão.
+
+        4 Principais tipos de ataques e vulnerabilidades:
+            DDoS,
+            DoS,
+            DNS spoofing,
+            worms,
+            ransomware,
+            adware,
+            spyware,
+            keylogger,
+            cavalo de Troia,
+            eavesdropping,
+            phishing,
+            brute force,
+            port scanning,
+            injection (SQL,
+            LDAP),
+            XSS (cross-site scripting),
+            quebra de autenticação e gerenciamento de sessão,
+            referência insegura a objetos,
+            cross-site request forgery,
+            armazenamento inseguro de dados criptografados.
+
+        5 Controles e testes de segurança para aplicações web e web services.
+        6 Autenticação em múltiplos fatores (MFA).
+
+        7 Soluções para segurança da informação:
+            firewall,
+            IDS (intrusion detection system),
+            IPS (intrusion prevention system),
+            SIEM (security information and event management),
+            proxy,
+            IAM (identity access management),
+            PAM (privileged access management),
+            antivírus,
+            antispam.
+
+        8 Frameworks de segurança da informação e segurança cibernética:
+            MITRE ATT&CK,
+            CIS controls e
+            NIST cybersecurity framework (NIST CSF).
+
+        9 Assinatura e certificação digital, criptografia e proteção de dados em trânsito e em repouso.
+        10 Segurança em nuvens e de contêineres.
+        11 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e suas alterações.
+
+    ENGENHARIA DE SOFTWARE:
+        1 Arquitetura de sistemas web:
+            gRPC,
+            WebSockets,
+            TLS,
+            servidores proxy,
+            cache,
+            DNS,
+            balanceamento de carga,
+            tolerância a falhas e escalabilidade em sistemas web.
+
+        2 Princípios e práticas de DevOps e DevSecOps e integração e entrega contínuas (CI/CD).
+        3 Práticas de UX e UI design.
+        4 Web services.
+        5 GIT.
+        6 Transações distribuídas.
+
+        7 Arquitetura de software:
+            arquitetura multicamadas,
+            arquitetura orientada a serviços,
+            microsserviços,
+            padrões arquiteturais (SOAP e REST),
+            DDD (domain driven design),
+            clean architecture,
+            serverless,
+            arquitetura baseada em nuvem.
+
+        8 Engenharia de requisitos:
+            elicitação,
+            especificação e gerenciamento de requisitos,
+            prototipação,
+            usabilidade e linguagem de
+            modelagem UML 2.5.1.
+
+        9 Qualidade de software:
+            métricas de software,
+            indicadores e métricas de qualidade de produtos de software,
+            CMMI 2.0,
+            MPS.BR — Referência Guia Geral MPS Software 2023.
+
+        10 Padrões de projeto (design patterns).
+        11 Testes de software.
+
+        12 Práticas:
+            implementação e manutenção de software,
+            gerência de configuração,
+            lógica de programação e
+            paradigmas de programação,
+            linguagens
+
+            e frameworks (
+                Java,
+                PHP,
+                JavaScript,
+                HTML,
+                CSS,
+                XML,
+                JSON,
+                Python,
+                C#,
+                ASP.NET,
+                Delphi 7,
+                Angular).
+
+        13 Contagem em projetos:
+            IFPUG e NESMA,
+            uso de deflatores.
+
+    INFRAESTRUTURA DE TI:
+        1 Redes de computadores:
+            conceitos de:
+                LAN,
+                WAN e
+                SDN.
+
+        2 Endereçamento e protocolos da família TCP/IP.
+
+        3 Gerenciamento de redes TCP/IP:
+            arquitetura de gerenciamento,
+            SMI,
+            SNMP e MIB.
+
+        4 Noções de infraestrutura como código e automação de infraestrutura de TI.
+
+        5 Ambientes virtualizados:
+            Docker e
+            Kubernetes (boas práticas para infraestrutura e orquestração de contêineres)
+            administração e gerenciamento de ambientes virtualizados.
+
+        6 Computação em nuvem:
+            conceitos e
+            implementação
+            administração de serviços de nuvem (IaaS, Paas e SaaS).
+
+        7 Serviços de rede Microsoft Windows Server:
+            DNS,
+            DHCP,
+            Radius,
+            autenticação,
+            certificados,
+            Active Directory (AD).
+
+        8 Monitoramento e análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging:
+            Nagios,
+            Prometheus,
+            Grafana,
+            Elasticsearch,
+            Kibana,
+            application performance monitoring (APM).
+
+        9 Protocolos da camada de aplicação, como
+            simple mail transfer protocol (SMTP),
+            hypertext transfer protocol (HTTP),
+            hypertext transfer protocol secured (HTTPS),
+            SSL/TLS,
+            lightweight directory access protocol (LDAP),
+            network file system (NFS),
+            server message block (SMB).
+
+        10 Administração e operação de sistemas operacionais:
+            Microsoft Windows Server
+            Linux.
+
+        11 Conceitos e ferramentas de orquestração e automação de infraestrutura:
+            Puppet,
+            Ansible.
+
+    GESTÃO DE TI:
+        1 Gestão estratégica.
+            1.1 Planejamento estratégico de negócio.
+            1.2 Planejamento estratégico de TI.
+
+        1.3 Alinhamento estratégico entre TI e negócio.
+        2 BPMN (business process model and notation).
+
+        3 Gerenciamento de projetos (PMBOK 7ª edição).
+            3.1 Conceitos básicos, estrutura e objetivos de um projeto.
+            3.2 Ciclo de vida do projeto e ciclo de vida do produto.
+            3.3 Processos,
+                grupos de processos
+                áreas de conhecimento.
+
+        4 Gerenciamento de serviços (ITIL v4).
+            4.1 Conceitos básicos, estrutura e objetivos.
+            4.2 Processos e funções de estratégia,
+                desenho, transição e operação de serviços.
+
+        5 Governança de TI (COBIT 2019).
+            5.1 Conceitos básicos,
+                estrutura e objetivos.
+            5.2 Requisitos da informação.
+            5.3 Recursos de tecnologia da informação.
+            5.4 Domínios, processos e objetivos de controle.
+
+        6 Governança de TI do SISP (https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/sisp/documentos/guia-degovtic-do-sisp).
+
+        7 Metodologias ágeis.
+            7.1 Scrum.
+            7.1.1 Fundamentos do Scrum.
+
+            7.1.2 Papéis e responsabilidades (
+                Product Owner,
+                Scrum Master,
+                Time de Desenvolvimento).
+
+            7.1.3 Eventos do Scrum:
+                Sprint,
+                Reunião de Planejamento,
+                Daily Scrum,
+                Revisão da Sprint,
+                Retrospectiva.
+
+            7.1.4 Artefatos do Scrum:
+                Backlog do Produto,
+                Backlog da Sprint,
+                Incremento.
+
+            7.2 Kanban.
+            7.2.1 Fundamentos do Kanban.
+            7.2.2 Princípios e práticas do Kanban.
+            7.2.3 Fluxo contínuo e gestão visual.
+            7.2.4 Limites de trabalho em progresso (WIP).
+            7.2.5 Métricas e melhorias contínuas no Kanban.
+            7.3 Técnicas de estimativa ágil (planning poker e story points).
+
+        8 Ferramentas e técnicas:
+            indicadores de desempenho em projetos,
+            MS Project e técnicas de acompanhamento de projetos.
+
+        9 Contratações de TI:
+            Lei nº 14.133/2021 e suas alterações e Instrução Normativa SGD/ME nº 94/2022.

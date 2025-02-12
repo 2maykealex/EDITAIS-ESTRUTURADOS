@@ -1,0 +1,215 @@
+SUSEP
+Edital em: https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/ED_1_2024_SUSEP_ABERTURA.PDF
+
+Aplicação das provas objetivas e discursiva 08/06/2025
+
+REMUNERAÇÃO: R$ 18.033,52, conforme alínea b do Anexo IX da Lei nº 11.890, de 24 de dezembro de
+2008, alterado pelo artigo 60 e anexo XC da Medida Provisória nº 1.286, de 31 de dezembro de 2024.
+
+JORNADA DE TRABALHO: 40 horas semanais.
+
+CONHECIMENTOS GERAIS
+
+    LÍNGUA PORTUGUESA:
+        1 Compreensão e interpretação de textos de gêneros variados.
+        2 Reconhecimento de tipos e gêneros textuais.
+        3 Domínio da ortografia oficial.
+
+        4 Domínio dos mecanismos de coesão textual.
+            4.1 Emprego de elementos de referenciação,
+                substituição e repetição,
+                de conectores e de outros
+                elementos de sequenciação textual.
+            4.2 Emprego de tempos e modos verbais.
+
+        5 Domínio da estrutura morfossintática do período.
+            5.1 Emprego das classes de palavras.
+            5.2 Relações de coordenação entre orações e entre termos da oração.
+            5.3 Relações de subordinação entre orações e entre termos da oração.
+            5.4 Emprego dos sinais de pontuação.
+            5.5 Concordância verbal e nominal.
+            5.6 Regência verbal e nominal.
+            5.7 Emprego do sinal indicativo de crase.
+            5.8 Colocação dos pronomes átonos.
+
+        6 Reescrita de frases e parágrafos do texto.
+            6.1 Significação das palavras.
+            6.2 Substituição de palavras ou de trechos de texto.
+            6.3 Reorganização da estrutura de orações e de períodos do texto.
+            6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+
+    NOÇÕES DE LÓGICA E ESTATÍSTICA:
+        1 Raciocínio lógico.
+            1.1 Estruturas lógicas.
+            1.2 Lógica de argumentação:
+                analogias,
+                inferências,
+                deduções e conclusões.
+
+            1.3 Lógica sentencial (ou proposicional).
+                1.3.1 Proposições simples e compostas.
+                    1.3.2 Tabelas-verdade.
+                    1.3.3 Equivalências.
+                    1.3.4 Leis de Morgan.
+
+        2 Noções de estatística.
+            2.1 População e amostra.
+            2.2 Histogramas e curvas de frequência.
+            2.3 Medidas de posição:
+                média,
+                moda,
+                mediana e separatrizes.
+            2.4 Medidas de dispersão absoluta e relativa.
+            2.5 Probabilidade condicional, independência.
+            2.6 Variável aleatória e funções de distribuição.
+
+    NOÇÕES DE DIREITO ADMINISTRATIVO:
+        1 Ato administrativo.
+            1.1 Conceito,
+                requisitos,
+                atributos,
+                classificação e espécies.
+            1.2 Extinção do ato administrativo:
+                cassação,
+                anulação,
+                revogação e convalidação.
+            1.3 Decadência administrativa.
+
+        2 Agentes públicos.
+            2.1 Conceito.
+            2.2 Espécies.
+            2.3 Cargo, emprego e função pública.
+            2.4 Disposições constitucionais aplicáveis.
+            2.5 Lei nº 8.112/1990.
+            2.6 Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).
+            2.7 Lei 12.813/2013.
+
+        3 Poderes da administração pública.
+            3.1 Hierárquico,
+                disciplinar,
+                regulamentar e de polícia.
+            3.2 Uso e abuso do poder.
+
+        4 Regime jurídico-administrativo.
+            4.1 Conceito.
+            4.2 Princípios expressos e implícitos da administração pública.
+
+        5 Organização administrativa.
+            5.1 Centralização,
+                descentralização,
+                concentração e
+                desconcentração.
+
+            5.2 Administração direta e indireta.
+            5.3 Autarquias,
+                fundações,
+                empresas públicas e
+                sociedades de economia mista.
+
+            6 Controle da administração pública.
+                6.1 Controle exercido pela administração pública.
+                6.2 Controle judicial.
+                6.3 Controle legislativo.
+                6.4 Improbidade administrativa (Lei nº 8.429/1992 e suas alterações).
+
+            7 Processo administrativo.
+                7.1 Lei nº 9.784/1999 e suas alterações.
+
+        8 Arts. 20 a 30 do Decreto-Lei nº 4.657/1942 (Lei de Introdução às normas do Direito Brasileiro) e suas alterações
+            Decreto nº 9.830/2019 e suas alterações.
+
+        9 Licitações e contratos administrativos.
+            9.1 Legislação pertinente.
+            9.1.1 Lei nº 14.133/2021 e suas alterações.
+            9.1.2 Decreto nº 11.462/2023 e suas alterações.
+
+    NOÇÕES DE DIREITO CONSTITUCIONAL:
+        1 Constituição da República Federativa do Brasil de 1988.
+            1.1 Princípios fundamentais.
+            1.2 Direitos e garantias fundamentais.
+                1.2.1 Direitos e deveres individuais e coletivos.
+                1.2.2 Direitos sociais.
+            1.3 Organização do Estado.
+                1.3.1 Organização político-administrativa do Estado.
+                1.3.2 União.
+                1.3.3 Estados federados.
+                1.3.4 Municípios.
+                1.3.5 Distrito Federal e Territórios.
+            1.4 Administração pública.
+                1.4.1 Disposições gerais.
+                1.4.2 Servidores públicos.
+            1.5 Ordem econômica e financeira.
+                1.5.1 Princípios gerais da atividade econômica.
+                1.5.2 Sistema Financeiro Nacional.
+
+        2 Aplicabilidade das normas constitucionais.
+            2.1 Normas de eficácia plena, contida e limitada.
+            2.2 Normas programáticas.
+
+    MERCADO DE SEGUROS, PREVIDÊNCIA COMPLEMENTAR ABERTA, CAPITALIZAÇÃO E RESSEGUROS:
+        1 Seguro, cosseguro, resseguro e retrocessão.
+            1.1 Conceitos, finalidades e características gerais.
+            1.2 Princípios básicos.
+            1.3 Seguros facultativos e obrigatórios.
+            1.4 Seguro cumulativo.
+            1.5 Sujeitos dos contratos.
+            1.6 Elementos essenciais dos contratos:
+                garantia,
+                interesse,
+                risco,
+                prêmio,
+                empresarialidade.
+            1.7 Contratos de resseguro automáticos e facultativos.
+            1.8 Resseguro proporcional.
+            1.9 Resseguro não proporcional:
+                excesso de danos,
+                stop loss e catástrofe.
+
+        2 Previdência complementar aberta.
+            2.1 Conceito, finalidades e características gerais.
+            2.2 Princípios básicos.
+            2.3 Contribuição,
+                acumulação de recursos,
+                rentabilidade,
+                carregamento,
+                portabilidade,
+                resgates,
+                benefício,
+                ciclo de renda.
+
+        3 Planos com cobertura por sobrevivência.
+            3.1 PGBL (plano gerador de benefício livre).
+            3.2 VGBL (vida gerador de benefício livre).
+
+    4 Capitalização.
+        4.1 Conceito,
+            finalidades e características gerais.
+        4.2 Modalidades de capitalização.
+        4.3 Contribuições,
+            quotas,
+            sorteios,
+            cessão dos direitos e resgate.
+
+    5 Proteção Patrimonial Mutualista.
+        5.1 Conceito, finalidades e características gerais.
+        5.2 Rateio mutualista de despesas.
+        5.3 Grupo de proteção patrimonial mutualista.
+        5.4 Administradora de proteção patrimonial mutualista.
+        5.5 Contrato de participação em grupo de proteção patrimonial mutualista.
+
+    6 Legislação.
+        6.1 Decreto-lei nº 73/1966 e suas alterações.
+        6.2 Decreto-lei nº 261/1967 e suas alterações.
+        6.3 Lei nº 4.594/1964 e suas alterações.
+        6.4 Lei complementar nº 109/2001 e suas alterações.
+        6.5 Lei Complementar nº 126/2007 e suas alterações.
+        6.6 Lei nº 14.430/2022 (arts.2º a 17) e suas alterações.
+        6.7 Lei 14.332/2022 e suas alterações.
+        6.8 Lei nº 14.652/2023 e suas alterações.
+        6.9 Lei nº 15.040/2024 e suas alterações.
+        6.10 Lei Complementar nº 213/2025 e suas alterações.
+
+    ATUALIDADES (SOMENTE PARA A PROVA DISCURSIVA):
+        1 Tópicos relevantes e atuais de diversas áreas, tais como segurança,
+        transportes, política, economia, sociedade, educação, cultura, tecnologia, energia, relações internacionais,
+        desenvolvimento sustentável e ecologia.
