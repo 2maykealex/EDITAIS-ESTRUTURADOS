@@ -23,9 +23,9 @@ CARGO 4: ANALISTA TÉCNICO – ÁREA: TECNOLOGIA DA INFORMAÇÃO E CIÊNCIA DE D
             10 ETL e ELT.
 
             11 Manipulação, tratamento e visualização de dados;
-            técnicas para lidar com valores ausentes,
-            com outliers e com desbalanceamento dos dados;
-            seleção, extração e criação de novas características (feature engineering).
+               técnicas para lidar com valores ausentes,
+               com outliers e com desbalanceamento dos dados;
+               seleção, extração e criação de novas características (feature engineering).
 
             12 Modelagem:
                 otimização de hiperparâmetros,
