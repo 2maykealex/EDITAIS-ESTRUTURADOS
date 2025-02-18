@@ -34,6 +34,6 @@ CONHECIMENTOS ESPECIFICOS:
 
     SEGURANÇA DA INFORMAÇÃO:
         1 Gestão de segurança da informação.
-        2. Gestão de continuidade do negócio.
+        2 Gestão de continuidade do negócio.
         3 Gestão de Identidade e Acesso.
         4 Gestão de Riscos de Segurança da Informação.
