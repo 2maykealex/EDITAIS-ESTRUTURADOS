@@ -44,6 +44,12 @@ ANALISTA PROGRAMADOR
     6 DevOps.
 
     7 Ferramenta de Gestão da configuração GIT.
+
+    8 Metodologias Ágeis de Desenvolvimento.
+        8.1 Scrum,
+        8.2 Kanban,
+        8.3 XP.
+
         TESTES:
             conceitos básicos de testes de aplicações.
             Testes unitários.
@@ -54,13 +60,6 @@ ANALISTA PROGRAMADOR
             Tipos de testes.
             Test-driven development (TDD).
             Gestão do ciclo de vida de testes.
-
-        RPA (robotic process automation).
-
-    8 Metodologias Ágeis de Desenvolvimento.
-        8.1 Scrum,
-        8.2 Kanban,
-        8.3 XP.
 
     9 Padrões de desenvolvimento e reuso.
     10 Codificação de software (transacionais, analíticos, mobile e API).
@@ -92,3 +91,5 @@ ANALISTA PROGRAMADOR
             19.1.7 Desenho e planejamento de interação em aplicações web.
 
     20 Conceitos de Inteligência Artificial, Análise de Dados e Big Data.
+
+    RPA (robotic process automation).
