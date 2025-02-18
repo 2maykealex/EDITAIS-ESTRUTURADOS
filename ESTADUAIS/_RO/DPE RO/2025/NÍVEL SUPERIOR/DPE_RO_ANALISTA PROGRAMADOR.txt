@@ -3,7 +3,7 @@ Edital em:
     https://conhecimento.fgv.br/concursos/dpero25
     https://conhecimento.fgv.br/sites/default/files/concursos/dpero-edital-de-abertura-14.02.24.pdf
 
-ANALISTA DE SISTEMAS
+ANALISTA PROGRAMADOR
 
     1 DESENVOLVIMENTO DE SISTEMAS.
         Desenvolvimento em Linguagens de programação Java (versão 6 ou superior),
