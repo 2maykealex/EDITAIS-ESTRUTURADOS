@@ -53,15 +53,15 @@ ANALISTA DE SISTEMAS
     9 Desenvolvimento
         9.1 Linguagens: Java (JDK 17) e Javascript (ECMASCript 2021).
         9.2 Frameworks Java:
-            Spring Boot,
-            Spring MVC,
-            Spring Core,
-            Hibernate,
-            QueryDSL,
-            Flyway,
-            Redis,
-            Maven,
-            Gradle.
+                Spring Boot,
+                Spring MVC,
+                Spring Core,
+                Hibernate,
+                QueryDSL,
+                Flyway,
+                Redis,
+                Maven,
+                Gradle.
 
         9.3 Frameworks Javascript:
                 Vue.JS 3.x,
@@ -74,7 +74,6 @@ ANALISTA DE SISTEMAS
 
     11 Segurança no desenvolvimento.
         11.1 Práticas de programação segura e revisão de código.
-        11.2 Controles e testes de segurança para
-        aplicações web.
+        11.2 Controles e testes de segurança para aplicações web.
         11.3 Controles e testes de segurança para Web Services.
         11.4 Melhores Práticas de Codificação Segura OWASP.
