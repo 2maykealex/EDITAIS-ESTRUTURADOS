@@ -5,35 +5,71 @@ Edital em:
 
 TÉCNICO EM INFORMÁTICA
 
-CONHECIMENTOS ESPECIFICOS:
+CONHECIMENTOS BASICOS:
 
-    INFORMÁTICA
-        Sistemas operacionais;
-        edição de textos, planilhas e apresentações (Ambientes Microsoft Office e Google).
-        Ferramentas de navegação (Microsoft Internet Explorer, Mozilla Firefox e Google Chrome),
-        aplicativos, procedimentos, internet e intranet.
-        Google Workspace e ferramentas de produtividade/colaboração.
-        Segurança da informação:
-            procedimentos de segurança;
-            noções de vírus,
-            worms e pragas virtuais;
-            aplicativos para segurança (antivírus, firewall, anti-spyware etc.).
-            Procedimentos de backup;
-        armazenamento de dados na nuvem (cloud storage).
+    LÍNGUA PORTUGUESA
+        1. Interpretação e Compreensão de texto. Organização estrutural dos textos. 2. Marcas de textualidade:
+        coesão, coerência e intertextualidade. 3. Modos de organização discursiva: descrição, narração,
+        exposição, argumentação e injunção; características específicas de cada modo. 4. Tipos textuais,
+        características específicas de cada tipo. Textos literários e não literários. 5. Tipologia da frase portuguesa.
+        6. Estrutura da frase portuguesa: operações de deslocamento, substituição, modificação e correção.
+        Problemas estruturais das frases. Norma culta. Pontuação e sinais gráficos. Organização sintática das
+        frases: termos e orações. Ordem direta e inversa. 7. Tipos de discurso. 8. Registros de linguagem. Funções
+        da linguagem. 9. Elementos dos atos de comunicação. 10. Estrutura e formação de palavras. Formas de
 
-    BANCOS DE DADOS:
-        1 Bancos de dados relacionais.
-        2 Banco de dados NoSQL (Key/Value, Orientados a Documentos e Grafos).
-        3 Técnicas para detecção de problemas e otimização de desempenho do SGBD e de consultas SQL.
-        4 Arquitetura e aplicações de data warehousing, ETL e Olap.
+        abreviação. 11. Classes de palavras, aspectos morfológicos, sintáticos, semânticos e textuais de
+        substantivos, adjetivos, artigos, numerais, pronomes, verbos, advérbios, conjunções e interjeições,
+        modalizadores. 12. Semântica: sentido próprio e figurado; antônimos, sinônimos, parônimos e
+        hiperônimos. Polissemia e ambiguidade. Os dicionários: tipos, organização de verbetes. 13. Vocabulário:
+        neologismos, arcaísmos, estrangeirismos, latinismos. 14. Ortografia e acentuação gráfica, crase.
 
-    INFRAESTRUTURA TECNOLÓGICA:
-        1 Nuvem.
-            1.1 Conceitos: Nuvens pública e privada, IaaS, PaaS, SaaS, workloads.
-            1.2 Estratégias de Migração de Aplicações para o ambiente de nuvem, Governança,
+    LEGISLAÇÃO INSTITUCIONAL
+        1. Constituição do Estado de Rondônia. Arts. 105 e 106. 2. Lei Complementar nº 117/1994 e suas
+        alterações (Cria a Defensoria Pública do Estado de Rondônia). 3. Lei Complementar nº 703/2013 e suas
+        alterações (Dispõe sobre a criação do quadro de pessoal administrativo da Defensoria Pública do Estado
+        de Rondônia). 4. Lei Complementar nº 68/1992 (Regime Jurídico dos Servidores Públicos Civil do Estado
+        de Rondônia, das Autarquias e das Fundações Públicas Estaduais). 5. Lei Geral de Proteção de Dados (Lei
+        nº 13.709/2018).
 
-    SEGURANÇA DA INFORMAÇÃO:
-        1 Gestão de segurança da informação.
-        2. Gestão de continuidade do negócio.
-        3 Gestão de Identidade e Acesso.
-        4 Gestão de Riscos de Segurança da Informação.
+    RACIOCÍNIO LÓGICO MATEMÁTICO
+        Lógica: proposições, conectivos, equivalências lógicas, quantificadores e predicados. 2. Conjuntos e suas
+        operações, diagramas. 3. Números inteiros, racionais e reais e suas operações. 4. Proporcionalidade direta
+        e inversa, porcentagem e juros. 5. Medidas de comprimento, área, volume, massa e tempo. 6. Estrutura
+        lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; dedução de novas
+        informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura
+        daquelas relações. 7. Compreensão e análise da lógica de uma situação, utilizando as funções intelectuais:
+        raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação
+        de conceitos, discriminação de elementos. 8. Compreensão de dados apresentados em gráficos e tabelas.
+        9. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais. 10. Conjuntos e suas
+        operações. Números naturais, inteiros, racionais, reais e suas operações. 11.Representação na reta.
+        Unidades de medida: distância, área, volume, massa e tempo. 12. Álgebra básica: equações, sistemas e
+        problemas do primeiro grau. 13. Porcentagem, proporcionalidade direta e inversa, regras de três, juros
+        simples e compostos. 14. Sequências e reconhecimento de padrões. 6. Princípios de contagem e noção
+        de probabilidade. 15. Tratamento da informação: noções básicas de estatística, tabelas e gráficos.
+
+    HISTÓRIA, GEOGRAFIA E ATUALIDADES DE RONDÔNIA
+        HISTÓRIA DE RONDÔNIA: Colonização e ocupação inicial - Povos indígenas originários: etnias e modos de
+        vida, Expedições coloniais e entradas bandeirantes; Ciclo do ouro e exploração dos rios - Primeiras
+        atividades econômicas na região, Impacto das explorações sobre populações indígenas; Tratados de
+        fronteira e território - Tratado de Madri (1750), Tratado de Petrópolis (1903) e a aquisição do Acre; Ciclo
+        da borracha - Ascensão e declínio da economia baseada no látex, Migração nordestina e infraestrutura
+        associada; A construção da Estrada de Ferro Madeira-Mamoré - Motivação, desafios e impactos
+        econômicos e sociais; Criação do Território Federal do Guaporé (1943) - Fundação e rebatismo para
+        Território Federal de Rondônia (1956); Emancipação e formação do Estado de Rondônia (1981) -
+        Movimento pela autonomia estadual, Conflitos agrários e políticas de ocupação.
+
+        GEOGRAFIA DE RONDÔNIA: Localização geográfica - Limites territoriais e posição no bioma Amazônia.;
+        Aspectos físicos - Relevo e geomorfologia, Hidrografia: Bacias dos rios Madeira, Guaporé e Mamoré,
+        Clima: Tropical úmido e variações locais; Vegetação e biodiversidade - Florestas tropicais e áreas de
+        transição, Espécies endêmicas e ameaçadas; Uso e ocupação do solo - Agricultura, pecuária e áreas de
+        preservação. Desmatamento e desafios ambientais. Aspectos econômicos e urbano Expansão urbana:
+        Porto Velho e outros municípios. Infraestrutura e conectividade regional.
+
+        ATUALIDADES DE RONDÔNIA: Desenvolvimento econômico - Principais atividades econômicas:
+        agronegócio, energia e mineração, Papel estratégico na exportação de commodities; Questões ambientais
+        - Impactos do desmatamento e queimadas, Conservação da biodiversidade e reservas indígenas; Aspectos
+        sociais e culturais Composição populacional e diversidade cultural., Festividades, tradições e
+        manifestações artísticas locais; Política e administração pública Governança estadual e desafios
+        administrativos., Políticas públicas para saúde, educação e infraestrutura. Infraestrutura e integração
+        regional Rodovias, ferrovias e hidrovias, Integração com outros estados e países vizinhos; Perspectivas
+        para o futuro - Sustentabilidade e desenvolvimento, Desafios econômicos, ambientais e sociais.
