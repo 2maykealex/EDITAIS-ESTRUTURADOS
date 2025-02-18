@@ -1,24 +1,25 @@
 DPE-RO
-Edital em: 
+Edital em:
     https://conhecimento.fgv.br/concursos/dpero25
     https://conhecimento.fgv.br/sites/default/files/concursos/dpero-edital-de-abertura-14.02.24.pdf
 
 ANALISTA DE SISTEMAS
-    1 Modelagem de Processos de Negócio: 
-        1.1 Conceitos básicos. 
-        1.2 Identificação e delimitação de processos de negócio. 
-        1.3 Técnicas de mapeamento de processos (modelos AS-IS). 
-        1.4 Técnicas de análise e simulação de processos. 
-        1.5 Construção e mensuração de indicadores de processos. 
-        1.6 Técnicas de modelagem de processos (modelos TO-BE). 
+
+    1 Modelagem de Processos de Negócio:
+        1.1 Conceitos básicos.
+        1.2 Identificação e delimitação de processos de negócio.
+        1.3 Técnicas de mapeamento de processos (modelos AS-IS).
+        1.4 Técnicas de análise e simulação de processos.
+        1.5 Construção e mensuração de indicadores de processos.
+        1.6 Técnicas de modelagem de processos (modelos TO-BE).
         1.7 Modelagem de processos BPMN: notação, artefatos e atividades.
-          
-    2 Orientação a objetos. 
+
+    2 Orientação a objetos.
         2.1 Conceitos fundamentais, análise, modelagem e padrões de projeto.
-        2.2 Análise e projeto orientados a objetos 
-        2.3 Polimorfismo, Herança, Abstração e Encapsulamento. 
-        
-    3 Gerenciamento do ciclo de vida do software. 
+        2.2 Análise e projeto orientados a objetos
+        2.3 Polimorfismo, Herança, Abstração e Encapsulamento.
+
+    3 Gerenciamento do ciclo de vida do software.
 
     4 Metodologias de desenvolvimento de software.
         4.1 Metodologias ágeis: Scrum, XP, Kanban e TDD.
@@ -26,32 +27,32 @@ ANALISTA DE SISTEMAS
 
     5. Utilização de Folhas de Estilo (CSS).
         5.1 Páginas Web responsivas.
-    
+
     6 Arquitetura.
         6.1 Arquitetura de aplicações em infraestrutura de
         containers (Docker e Kubernetes).
         6.2 Arquitetura: Arquitetura de aplicações web, modelo MVC, Domain
         Driven Design (DDD), Arquitetura Hexagonal.
-        6.3 Arquitetura e desenvolvimento em nuvem 
-    
+        6.3 Arquitetura e desenvolvimento em nuvem
+
     7. Soluções de integração entre sistemas.
         7.1 API Rest.
-    
-    8 Testes de software: 
-        Testes unitátios, 
-        Testes de Integração, 
-        TDD, 
+
+    8 Testes de software:
+        Testes unitátios,
+        Testes de Integração,
+        TDD,
         BDD.
 
-      Frameworks: 
-        JUnit 5, 
-        Mockito, 
-        Selenium, 
+      Frameworks:
+        JUnit 5,
+        Mockito,
+        Selenium,
         Jest.
 
     9 Desenvolvimento
         9.1 Linguagens: Java (JDK 17) e Javascript (ECMASCript 2021).
-        9.2 Frameworks Java: 
+        9.2 Frameworks Java:
             Spring Boot,
             Spring MVC,
             Spring Core,
@@ -62,7 +63,7 @@ ANALISTA DE SISTEMAS
             Maven,
             Gradle.
 
-        9.3 Frameworks Javascript: 
+        9.3 Frameworks Javascript:
                 Vue.JS 3.x,
                 jQuery,
                 Webpack,
