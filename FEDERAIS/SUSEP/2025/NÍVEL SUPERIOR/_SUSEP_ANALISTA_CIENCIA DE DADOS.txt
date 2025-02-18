@@ -75,9 +75,9 @@ CARGO 4: ANALISTA TÉCNICO – ÁREA: TECNOLOGIA DA INFORMAÇÃO E CIÊNCIA DE D
             5 Linguagem de manipulação de dados (DML).
             6 Sistemas de gestão de banco de dados (SGDB).
             7 DataWarehouse,
-            DataMart,
-            DataLake,
-            DataMesh.
+              DataMart,
+              DataLake,
+              DataMesh.
 
     SEGURANÇA DA INFORMAÇÃO:
         1 Normas em suas respectivas versões mais recentes:
