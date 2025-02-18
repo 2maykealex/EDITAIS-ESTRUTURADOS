@@ -1,0 +1,39 @@
+DPE-RO
+Edital em:
+    https://conhecimento.fgv.br/concursos/dpero25
+    https://conhecimento.fgv.br/sites/default/files/concursos/dpero-edital-de-abertura-14.02.24.pdf
+
+TÉCNICO EM INFORMÁTICA
+
+CONHECIMENTOS ESPECIFICOS:
+
+    INFORMÁTICA
+        Sistemas operacionais;
+        edição de textos, planilhas e apresentações (Ambientes Microsoft Office e Google).
+        Ferramentas de navegação (Microsoft Internet Explorer, Mozilla Firefox e Google Chrome),
+        aplicativos, procedimentos, internet e intranet.
+        Google Workspace e ferramentas de produtividade/colaboração.
+        Segurança da informação:
+            procedimentos de segurança;
+            noções de vírus,
+            worms e pragas virtuais;
+            aplicativos para segurança (antivírus, firewall, anti-spyware etc.).
+            Procedimentos de backup;
+        armazenamento de dados na nuvem (cloud storage).
+
+    BANCOS DE DADOS:
+        1 Bancos de dados relacionais.
+        2 Banco de dados NoSQL (Key/Value, Orientados a Documentos e Grafos).
+        3 Técnicas para detecção de problemas e otimização de desempenho do SGBD e de consultas SQL.
+        4 Arquitetura e aplicações de data warehousing, ETL e Olap.
+
+    INFRAESTRUTURA TECNOLÓGICA:
+        1 Nuvem.
+            1.1 Conceitos: Nuvens pública e privada, IaaS, PaaS, SaaS, workloads.
+            1.2 Estratégias de Migração de Aplicações para o ambiente de nuvem, Governança,
+
+    SEGURANÇA DA INFORMAÇÃO:
+        1 Gestão de segurança da informação.
+        2. Gestão de continuidade do negócio.
+        3 Gestão de Identidade e Acesso.
+        4 Gestão de Riscos de Segurança da Informação.
