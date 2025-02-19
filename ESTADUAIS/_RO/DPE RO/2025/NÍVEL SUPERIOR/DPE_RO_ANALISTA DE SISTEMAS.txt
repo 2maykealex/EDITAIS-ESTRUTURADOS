@@ -29,10 +29,8 @@ ANALISTA DE SISTEMAS
         5.1 Páginas Web responsivas.
 
     6 Arquitetura.
-        6.1 Arquitetura de aplicações em infraestrutura de
-        containers (Docker e Kubernetes).
-        6.2 Arquitetura: Arquitetura de aplicações web, modelo MVC, Domain
-        Driven Design (DDD), Arquitetura Hexagonal.
+        6.1 Arquitetura de aplicações em infraestrutura de containers (Docker e Kubernetes).
+        6.2 Arquitetura: Arquitetura de aplicações web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal.
         6.3 Arquitetura e desenvolvimento em nuvem
 
     7. Soluções de integração entre sistemas.
