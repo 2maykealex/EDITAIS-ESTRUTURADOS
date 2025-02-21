@@ -1,7 +1,7 @@
 DPE-RO
 Edital em:
     https://conhecimento.fgv.br/concursos/dpero25
-    https://conhecimento.fgv.br/sites/default/files/concursos/dpero-edital-de-abertura-14.02.24.pdf
+    https://conhecimento.fgv.br/sites/default/files/concursos/edital_de_abertura_retificado-retificacao_-_21.02.25_-oficial-assinado.pdf
 
 ANALISTA DE SISTEMAS
 
@@ -49,24 +49,12 @@ ANALISTA DE SISTEMAS
         Jest.
 
     9 Desenvolvimento
-        9.1 Linguagens: Java (JDK 17) e Javascript (ECMASCript 2021).
-        9.2 Frameworks Java:
-                Spring Boot,
-                Spring MVC,
-                Spring Core,
-                Hibernate,
-                QueryDSL,
-                Flyway,
-                Redis,
-                Maven,
-                Gradle.
-
-        9.3 Frameworks Javascript:
-                Vue.JS 3.x,
-                jQuery,
-                Webpack,
-                NPM,
-                Bootstrap.
+        Desenvolvimento em Linguagens de programação Python (versão 3.9 ou superior),
+        PHP (versão 7 ou superior),
+        Javascript (Versão ECMAScript 2021 ou superior).
+        Frameworks Django (versão 4 ou superior),
+        Laravel (versão 9 ou superior),
+        React (versão 18 ou superior)
 
     10 Ferramentas de versionamento GIT.
 
