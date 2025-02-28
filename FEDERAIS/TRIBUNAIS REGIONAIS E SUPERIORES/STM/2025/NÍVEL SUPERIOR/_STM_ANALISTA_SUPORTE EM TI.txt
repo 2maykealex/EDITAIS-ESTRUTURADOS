@@ -1,0 +1,117 @@
+STM
+https://www.cebraspe.org.br/concursos/stm_25
+Edital em: https://cdn.cebraspe.org.br/concursos/stm_25/arquivos/ED_1_2025_STM_ABERTURA.PDF
+Aplicação das provas objetivas e discursiva 08/06/2025 - TURNO MANHA - ANALISTAS
+REMUNERAÇÃO: R$ 14.852,66.
+JORNADA DE TRABALHO: 40 horas semanais.
+
+CARGO 6: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: SUPORTE EM TECNOLOGIA DA INFORMAÇÃO
+
+    INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO: 1 ISO/IEC 20000. 2 ITIL v4. 2.1
+    Conceitos básicos, disciplinas, estrutura e objetivos. 3 Meios de transmissão e tipos de cabeamentos. 3.1
+    Cabeamento estruturado categorias 5, 5e, 6 e 6a, de acordo com a ABNT NBR 14565:2019. 3.2 Fibras ópticas
+    (monomodo e multimodo). 4 Técnicas de circuitos, pacotes e células. 5 Tecnologias, protocolos e elementos
+    de redes locais e de longa distância (PAN, LAN, MAN, WAN, WPAN, WLAN, WMAN e WWAN). 6 Modelos de
+    referência OSI e TCP/IP. 6.1 Protocolos de comunicação TCP/IP, RDMA OVER converged ethernet (RoCE),
+    MTU, Jumbo Frames. 7 Elementos de interconexão de redes de computadores (gateways, hubs, repetidores,
+    bridges, switches e roteadores). 8 Protocolos de rede TCP/IP. 8.1 Protocolos IPv4 e IPv6. 8.2 Segmentação e
+    endereçamento. 8.3 CIDR. 8.4 Protocolos TCP, UDP, ICMP, IPSec, ARP, SSH, SMTP, HTTP e HTTPS, SSL e TLS,
+    FTP, NFS, SMB, LDAP, DNS, DHCP, IMAP. 8.5 Conceitos de multi protocol label switching (MPLS) e SD‐WAN. 9
+    Mecanismos NAT e PAT. 10 Spanning tree protocol (IEEE 802.1D). 11 Protocolos de roteamento. 11.1 OSPF,
+    BGP, RIP, VRRP e HSRP. 12 Noções de VLAN (IEEE 802.1Q). 13 Tecnologia VOIP. 13.1 Protocolos H.323 e SIP.
+    13.2 Qualidade de serviço (QoS). 14 Padrão IEEE 802.3. 14.1 Fast ethernet. 14.2 Gigabit ethernet. 15 Redes
+    sem fio (wireless). 15.1 Padrões IEEE 802.11, 802.1x, WPA e WPA2. 16 Ativos e perímetros de segurança de
+    rede e aplicação. 16.1 Firewall, firewall proxy, WAF, SIEM, identity access management (IAM), privileged
+    access management (PAM), IPTables, IDS/IPS, VPN, antivírus e antispam, antiDDoS. 17 Gerenciamento de
+    redes. 17.1 SNMP, MIBs, NMSs e agentes. 18 Ferramentas de monitoramento e logging. 18.1 Zabbix, Grafana,
+    Elasticsearch, Kibana, application performance monitoring (APM). 19 Serviços de nuvem (IaaS, PaaS e SaaS).
+    19.1 Modelos de nuvem (público, privado, comunitário, híbrido). 19.2 Google Workspace. 19.3 Microsoft
+    Office 365. 20 Armazenamento de dados em rede. 20.1 Network attached storage (NAS), direct attached
+    storage (DAS), software defined storage (SDS), cloud storage, protocolo FCP, protocolos CIFS e NFS, noções
+    de storage. 21 Backup. 21.1 Políticas. 21.2 Tipos de backup. 21.3 Tecnologias de backup. 21.3.1 Veritas
+    Netbackup, Robocopy, RSync, deduplicação. 22 Sistemas operacionais. 22.1 Ambiente Linux (Red Hat e Oracle
+    Linux). 22.1.1 Instalação, configuração e administração. 22.1.2 Utilitários e comandos‐padrão. 22.1.3 Shell
+    Script. 22.2 Microsoft Windows (Windows 11 e Windows Server 2022). 22.2.1 Instalação, configuração e
+    administração. 22.2.2 Active Directory. 22.2.3 Powershell. 23 Virtualização. 23.1 VMWare. 23.1.1
+    Fundamentos, configuração, administração e alta disponibilidade. 24 Virtualização de desktop. 24.1 Remote.
+    24.2 Desktop services. 24.3 Noções de máquinas virtuais e contêineres. 24.4 Arquitetura de orquestração de
+    contêineres. 24.4.1 Docker, Kubernetes, Rancher, noções de ferramentas de orquestração de automação de
+    infraestrutura (Ansible e Puppet), noções de DevOps, ambiente de clusters. 24.4.2 Deploy de aplicações;
+    continuous delivery e continuous integration (CI/CD). 24.4.3 Ferramenta de versionamento Git: configuração
+    e utilização. 25 Noções de alta disponibilidade e tolerância a falhas. 25.1 Indicadores de disponibilidade.
+    25.1.1 MTBF, MTTR e MTTF. 25.1.2 Clusterização. 25.1.3 Balanceamento de carga. 25.1.4 Failover. 26
+    Servidores de aplicação (JBoss, Apache HTTP Server, IIS). 26.1 Administração e configuração. 26.1.1 Análise
+    de desempenho da rede. 26.1.2 Gerenciamento de usuários. 26.1.3 Configuração, administração e logs de
+    serviços.
+
+    BANCO DE DADOS E CIÊNCIA DE DADOS: 1 Administração de SGBD. 1.1 MySQL, Oracle e PostgreSQL. 1.2
+    Características de um SGBD. 2 Modelagens de dados. 2.1 Relacional, multidimensional, noSQL. 2.2 Noções de
+    normalização de dados. 3 Arquitetura de inteligência de negócio. 3.1 Business inteligence, data warehouse,
+    data mart, data mining, data lake, data mesh, ETL e OLAP. 4 Ciência de dados. 4.1 Aprendizado de máquina.
+    4.2 Deep learning. 4.3 Processamento de linguagem natural. 4.4 Big data. 4.5 Qualidade de dados. 4.6 Tipos
+    de aprendizado. 4.6.1 Supervisionado, não supervisionado, semissupervisionado, por reforço, por
+    transferência. 5 Grandes modelos de linguagem (LLM), IA generativa. 6 Redes neurais.
+
+    SEGURANÇA DA INFORMAÇÃO: 1 Normas ABNT NBR ISO/IEC 27001:2013 e ABNT NBR ISO/IEC 27002:2022.
+    2 Gestão de riscos de SI. 2.1 ABNT NBR ISO/IEC 27005:2022. 3 Políticas de segurança da informação. 4
+    Gerenciamento de incidentes de segurança da informação. 5 Gestão de continuidade de negócio. 6 Princípios
+    de segurança da informação. 6.1 Classificação de informações, confidencialidade, integridade,
+    disponibilidade, não repúdio, privacidade, autenticidade, segurança física e lógica. 7 Criptografia. 7.1
+    Conceitos básicos e aplicações. 7.2 Protocolos criptográficos. 7.3 Criptografia simétrica e assimétrica. 7.4
+    Assinatura e certificação digital. 7.5 Hashes e algoritmos de hash. 7.6 Esteganografia e criptoanálise. 8
+    Infraestrutura de chaves públicas — public key infrastructure (PKI); organização ICP‐ Brasil. 9 Controle de
+    acesso. 9.1 Autenticação, autorização e auditoria. 9.2 Controle de acesso baseado em papéis. 9.3
+    Autenticação baseada em múltiplos fatores (MFA). 10 Gestão de identidades, acesso e serviços de
+    autenticação. 10.1 Radius. 10.2 SSO Single. 10.3 Sign On. 10.4 Keycloak; protocolos SAML, OAuth2 (RFC 6749).
+    10.5 OpenId Connect. 11 Monitoramento de tráfego; ferramentas e conceitos de sniffer de rede; wireshark;
+    análise de pacotes. 12 Ameaças e ataques em aplicações web. 12.1 SQL injection, broken authentication,
+    cross-site scripting (XSS), insecure deserialization, directory traversal, watering hole attack, cross-site request
+    forgery, cookie/session poisoning, buffer overflow, CAPTCHA attacks, OWASP Top 10:2021. 13 Ameaças e
+    ataques em redes de computadores e redes wireless. 13.1 Ataques de negação de serviço (denial of service –
+    DoS), distributed denial of service (DDoS), permanent denial of service (PDoS), distributed reflection denial of
+    service (DRDoS). 13.2 Ataques de reconhecimento. 13.2.1 Ping sweeping, port scanning, social engineering,
+    DNS footprinting. 13.3 Ataques de sniffing and spoofing. 13.4 Tipos de ataques em redes wireless. 14 Ameaças
+    e ataques de e-mail. 14.1 Phishing (spear phishing, whaling, pharming, spimming), spamming, mail bombing,
+    mail storms. 14.2 Protocolos de segurança de e-mail SPF e DKIM. 15 Ataques de malwares. 15.1 Vírus, worms,
+    trojans, ransomware, rootkits, adware, spyware, botnet, backdoor. 15.2 Advanced persistent threats (APT).
+    16 Frameworks de segurança da informação e segurança cibernética. 16.1 MITRE ATT&CK, CIS Controls e NIST
+    CyberSecurity Framework (NIST CSF).
+
+    GOVERNANÇA E GESTÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO: 1 Planejamento estratégico
+    de TIC. 1.1 Fundamentos do planejamento estratégico em tecnologia da informação e comunicação. 1.2
+    Elaboração e implementação do plano diretor de TIC (PDTIC). 1.3 Indicadores de desempenho de TIC e
+    alinhamento com objetivos organizacionais. 2 Governança de TIC 2.1 COBIT 2019: conceitos básicos,
+    estrutura, objetivos e aplicação para a governança de TIC. 2.2 ITIL v4: gerenciamento de serviços de TIC, com
+    foco em processos e melhores práticas. 2.3 Metodologias de indicadores OKR, PKI e BSC. 2.4 Análise SWOT
+    aplicados à TIC. 3 Gerenciamento de projetos de TIC. 3.1 PMBOK 7ª edição: conceitos, grupos de processos e
+    áreas de conhecimento. 3.2 Escritório de projetos – PMO e gestão de portfólio de projetos. 4 Governança e
+    gestão de TIC. 4.1 Resolução CNJ nº 370/2021 (Estratégia Nacional de Tecnologia da Informação e
+    Comunicação do Poder Judiciário – ENTIC‐JUD). 4.2 Resolução CNJ nº 468/2022 e o Guia de Contratações de
+    STIC do Poder Judiciário e suas alterações. 4.3 Lei nº 14.133/2021. 4.4 Planejamento, fiscalização e gestão de
+    contratos de TIC. 5 Noções de gestão de riscos de TIC. 6 Lei Geral de Proteção de Dados Pessoais (Lei
+    nº 13.709/2018).
+
+    NORMATIVOS DA PDPJ-BR: 1 Resolução CNJ nº 522/2023 (institui o modelo de requisitos para sistemas
+    informatizados de gestão de processos e documentos do Poder Judiciário e disciplina a obrigatoriedade da
+    sua utilização no desenvolvimento e manutenção de sistemas informatizados para as atividades judiciárias e
+    administrativas no âmbito do Poder Judiciário). 2 Resolução CNJ nº 335/2020 (institui política pública para
+    governança e gestão de processo judicial eletrônico; integra os tribunais do país com a criação da Plataforma
+    Digital do Poder Judiciário Brasileiro –PDPJ-Br; mantém o sistema PJe como sistema de processo eletrônico
+    prioritário do Conselho Nacional de Justiça). 3 Portaria CNJ nº 252/2020 (dispõe sobre modelo de governança
+    e gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br). 4 Portaria CNJ nº 253/2020 (institui os critérios
+    e as diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do
+    Poder Judiciário Brasileiro – PDPJ-Br). 5 Portaria CNJ nº 131/2021 (institui o grupo revisor de código-fonte
+    das soluções da Plataforma Digital do Poder Judiciário – PDPJ-Br e do Processo Judicial Eletrônico – PJe). 6
+    Resolução CNJ nº 396/2021 (institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário –
+    ENSEC-PJ). 7 Portaria CNJ nº 162/2021 (aprova protocolos e manuais criados pela Resolução CNJ
+    nº 396/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário – ENSEC-PJ).
+
+    ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO
+    (PDPJ-Br): 1 Linguagem de programação Java. 2 Arquitetura distribuída de microsserviços; API RESTful; JSON;
+    framework Spring; Spring Cloud; Spring Boot; Spring Eureka, Zuul; Map Struct; Swagger; Service Discovery;
+    API Gateway. 3 Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers; bBiblioteca Flyway. 4
+    Banco de dados; PostgreSQL; H2 Database. 5 Serviços de autenticação; single sign‐on (SSO); keycloak;
+    protocolo OAuth2 (RFC 6749). 6 Mensageria e webhooks; message broker; RabbitMQ; evento negocial;
+    webhook; APIs reversas. 7 Ferramenta de versionamento Git. 8 Ambiente de clusters e Kubernetes. 9
+    Ferramenta de orquestração de contêineres, Rancher. 10 Deploy de aplicações; continuous delivery e
+    continuous integration (CI/CD).
