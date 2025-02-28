@@ -66,34 +66,6 @@ CARGO 3: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: 
         2 CI/CD (continuous integration/continuous delivery).
         3 Ambiente de clusters, Kubernetes, ferramenta de orquestração de contêineres, Rancher.
 
-    NORMATIVOS DA PDPJ-BR:
-        1 Resolução CNJ nº 522/2023 (institui o modelo de requisitos para sistemas informatizados de gestão de processos e documentos do Poder Judiciário e disciplina a obrigatoriedade da
-        sua utilização no desenvolvimento e manutenção de sistemas informatizados para as atividades judiciárias e administrativas no âmbito do Poder Judiciário).
-
-        2 Resolução CNJ nº 335/2020 (institui política pública para governança e gestão de processo judicial eletrônico; integra os tribunais do país com a criação da Plataforma
-        Digital do Poder Judiciário Brasileiro –PDPJ-Br; mantém o sistema PJe como sistema de processo eletrônico prioritário do Conselho Nacional de Justiça).
-
-        3 Portaria CNJ nº 252/2020 (dispõe sobre modelo de governança e gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br).
-
-        4 Portaria CNJ nº 253/2020 (institui os critérios e as diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do
-        Poder Judiciário Brasileiro – PDPJ-Br).
-
-        5 Portaria CNJ nº 131/2021 (institui o grupo revisor de código-fonte das soluções da Plataforma Digital do Poder Judiciário – PDPJ-Br e do Processo Judicial Eletrônico – PJe).
-        6 Resolução CNJ nº 396/2021 (institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário – ENSEC-PJ).
-        7 Portaria CNJ nº 162/2021 (aprova protocolos e manuais criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário – ENSEC-PJ).
-
-    ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO (PDPJ-Br):
-        1 Linguagem de programação Java.
-        2 Arquitetura distribuída de microsserviços; API RESTful; JSON; framework Spring; Spring Cloud; Spring Boot; Spring Eureka, Zuul; Map Struct; Swagger; Service Discovery; API Gateway.
-        3 Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers; bBiblioteca Flyway.
-        4 Banco de dados; PostgreSQL; H2 Database.
-        5 Serviços de autenticação; single sign‐on (SSO); keycloak; protocolo OAuth2 (RFC 6749).
-        6 Mensageria e webhooks; message broker; RabbitMQ; evento negocial; webhook; APIs reversas.
-        7 Ferramenta de versionamento Git.
-        8 Ambiente de clusters e Kubernetes.
-        9 Ferramenta de orquestração de contêineres, Rancher.
-        10 Deploy de aplicações; continuous delivery e continuous integration (CI/CD).
-
     GOVERNANÇA E GESTÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO:
         1 Planejamento estratégico de TIC.
             1.1 Fundamentos do planejamento estratégico em tecnologia da informação e comunicação.
@@ -176,3 +148,31 @@ CARGO 3: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: 
             7.3 Brute force, port scanning.
 
         8 Criptografia e proteção de dados.
+
+    NORMATIVOS DA PDPJ-BR:
+        1 Resolução CNJ nº 522/2023 (institui o modelo de requisitos para sistemas informatizados de gestão de processos e documentos do Poder Judiciário e disciplina a obrigatoriedade da
+        sua utilização no desenvolvimento e manutenção de sistemas informatizados para as atividades judiciárias e administrativas no âmbito do Poder Judiciário).
+
+        2 Resolução CNJ nº 335/2020 (institui política pública para governança e gestão de processo judicial eletrônico; integra os tribunais do país com a criação da Plataforma
+        Digital do Poder Judiciário Brasileiro –PDPJ-Br; mantém o sistema PJe como sistema de processo eletrônico prioritário do Conselho Nacional de Justiça).
+
+        3 Portaria CNJ nº 252/2020 (dispõe sobre modelo de governança e gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br).
+
+        4 Portaria CNJ nº 253/2020 (institui os critérios e as diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do
+        Poder Judiciário Brasileiro – PDPJ-Br).
+
+        5 Portaria CNJ nº 131/2021 (institui o grupo revisor de código-fonte das soluções da Plataforma Digital do Poder Judiciário – PDPJ-Br e do Processo Judicial Eletrônico – PJe).
+        6 Resolução CNJ nº 396/2021 (institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário – ENSEC-PJ).
+        7 Portaria CNJ nº 162/2021 (aprova protocolos e manuais criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário – ENSEC-PJ).
+
+    ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO (PDPJ-Br):
+        1 Linguagem de programação Java.
+        2 Arquitetura distribuída de microsserviços; API RESTful; JSON; framework Spring; Spring Cloud; Spring Boot; Spring Eureka, Zuul; Map Struct; Swagger; Service Discovery; API Gateway.
+        3 Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers; bBiblioteca Flyway.
+        4 Banco de dados; PostgreSQL; H2 Database.
+        5 Serviços de autenticação; single sign‐on (SSO); keycloak; protocolo OAuth2 (RFC 6749).
+        6 Mensageria e webhooks; message broker; RabbitMQ; evento negocial; webhook; APIs reversas.
+        7 Ferramenta de versionamento Git.
+        8 Ambiente de clusters e Kubernetes.
+        9 Ferramenta de orquestração de contêineres, Rancher.
+        10 Deploy de aplicações; continuous delivery e continuous integration (CI/CD).
