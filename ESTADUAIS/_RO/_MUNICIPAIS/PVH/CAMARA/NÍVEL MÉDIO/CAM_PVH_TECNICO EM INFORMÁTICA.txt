@@ -1,0 +1,42 @@
+CAMARA DE PORTO VELHO - RO
+Edital em:
+    https://novo.ibgpconcursos.com.br/rest/concurso/download/edital/16446/?file=site/anexos/521/00%20-%20EDITAL%20CONCURSO%20C%C2MARA%20PORTO%20VELHO.pdf
+
+403 - TÉCNICO EM INFORMÁTICA
+    Conhecimentos Fundamentais em Computação:
+        Hardware:
+            noções básicas sobre partes de um computador,
+            incluindo noções básicas sobre processador,
+            memórias e periféricos, bem como uma visão geral sobre os tipos de periféricos existentes.
+
+        Algoritmos e lógica de programação:
+            introdução ao pseudocódigo e à álgebra booleana,
+            juntamente com as noções básicas sobre estruturas de dados, como:
+                arranjos (arrays),
+                listas,
+                filas,
+                pilhas,
+                árvores e grafos,
+                além de abordar algoritmos de busca.
+
+        Organização e manutenção de computadores:
+            noções básicas sobre instalação e configuração de periféricos, bem como compartilhamento em rede de periféricos.
+
+        Banco de dados:
+            introdução aos bancos de dados relacionais e operações em banco de dados através de SQL,
+            acompanhado de noções básicas de modelagem usando diagramas ER.
+
+        Sistemas operacionais:
+            discussão sobre particionamento de discos rígidos,
+            instalação de múltiplos sistemas em uma máquina,
+            criação e atualização de contas de usuários,
+            gerenciamento de permissões e comandos básicos de administração em sistemas Linux.
+
+        Redes de computadores:
+            noções básicas sobre protocolos de comunicação, detalhes sobre a pilha TCP/IP (incluindo IPV4 e IPV6),
+            abordagem de redes locais, redes sem fio, redes virtuais (VLAN), servidor de nomes de domínio (DNS) e
+            introdução aos conceitos fundamentais de firewall.
+
+        Legislação em Segurança da Informação:
+            explanação sobre a Lei Geral de Proteção de Dados (LGPD) e o
+            Marco Civil da Internet (Lei Federal nº 12.965/2014) e seus aspectos básicos.

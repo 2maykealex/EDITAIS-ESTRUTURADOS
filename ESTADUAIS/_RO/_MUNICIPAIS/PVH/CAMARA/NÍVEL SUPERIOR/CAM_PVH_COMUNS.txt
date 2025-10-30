@@ -1,0 +1,150 @@
+CAMARA DE PORTO VELHO - RO
+Edital em:
+    https://novo.ibgpconcursos.com.br/rest/concurso/download/edital/16446/?file=site/anexos/521/00%20-%20EDITAL%20CONCURSO%20C%C2MARA%20PORTO%20VELHO.pdf
+
+
+PORTUGUÊS
+    Compreensão e interpretação de textos.
+    Gêneros e tipos de textos.
+    Variação linguística: diversidade de usos da língua.
+    Discursos direto, indireto e indireto livre.
+    Coerência e coesão textuais.
+    Estratégias argumentativas.
+    Processos de formação de palavras.
+    Classes de palavras:
+        identificação, flexão e emprego de substantivos,
+        adjetivos, pronomes, verbos, advérbios, preposições e conjunções.
+
+    Verbo: flexão, conjugação, correlação dos modos e tempos verbais, vozes.
+    Estrutura da oração e do período: aspectos sintáticos e semânticos.
+    Concordância verbal e nominal.
+    Regência verbal e nominal.
+    Uso dos pronomes relativos.
+    Colocação dos pronomes pessoais oblíquos átonos.
+    Emprego do sinal indicativo da crase.
+    Usos da pontuação.
+    Ortografia oficial.
+    Acentuação gráfica.
+
+RACIOCÍNIO LÓGICO
+    Noções básicas da lógica matemática:
+        proposições, conectivos,
+        equivalência e implicação lógica,
+        argumentos válidos, problemas com tabelas e argumentação.
+
+    Linguagem dos conjuntos:
+        Notação e representação de conjuntos; Elementos de um conjunto e relação de pertinência;
+            Igualdade de conjuntos;
+            Relação de inclusão;
+        Subconjuntos;
+        Conjunto unitário;
+        Conjunto vazio;
+        Conjuntos das partes;
+        Formas e representações de conjuntos;
+        Conjunto finito e infinito;
+        Conjunto universo;
+        Operações com conjuntos;
+        União.
+
+    Operações de adição, subtração, multiplicação, divisão, potenciação e radiciação.
+    Números decimais. Valor absoluto. Propriedades no conjunto dos números naturais.
+    Decomposição de um número natural em fatores primos.
+    Múltiplos e divisores, máximo divisor comum e mínimo múltiplo comum de dois números naturais.
+    Verdades e Mentiras:
+        resolução de problemas.
+        Sequências (com números, com figuras, de palavras).
+    Análise combinatória e probabilidade.
+    Problemas envolvendo raciocínio lógico.
+
+NOÇÕES DE INFORMÁTICA
+    Noções de Sistemas de Backup:
+        Tipos de backup.
+        Planos de contingência.
+        Meios de armazenamento para backups.
+
+    Noções de Sistemas operacionais:
+        conhecimentos do ambiente Windows.
+        Windows 10:
+        operações com janelas, menus, barra de tarefas, área de trabalho;
+        trabalho com pastas e arquivos:
+            localização de arquivos e pastas;
+            movimentação e cópia de arquivos e pastas;
+            tipos de arquivos e extensões;
+            criação, renomeação e exclusão de arquivos e pastas;
+        configurações básicas do Windows:
+            resolução da tela, cores, fontes, impressoras, aparência, segundo plano, protetor de tela;
+            Windows Explorer.
+    Editor de texto Microsoft Word 2016 e superior:
+        criação, edição, formatação e impressão;
+        criação e manipulação de tabelas;
+        inserção e formatação de gráficos e figuras;
+        geração de mala direta.
+    Planilha eletrônica Microsoft Excel 2016 e superior:
+        criação, edição, formatação e impressão;
+        utilização de fórmulas;
+        geração de gráficos;
+        classificação e organização de dados.
+    Software de Apresentações PowerPoint 2016 e superior:
+        criação, edição, formatação e impressão das apresentações.
+    Conhecimentos de internet:
+        noções básicas;
+        correio eletrônico:
+            anexos
+            receber e enviar mensagens
+            catálogos de endereço
+            organização das mensagens
+        navegadores (Internet Explorer, Google Chrome, Mozilla Firefox e Microsoft Edge).
+
+    Noções de rede de computadores:
+        conceitos e serviços relacionados à Internet, tecnologias e
+    protocolos da internet, ferramentas, aplicativos e procedimentos associados à internet/intranet.
+    Noções de Hardware e Software:
+        Fundamentos de computação:
+        Conceitos de hardware e software.
+        Organização e arquitetura de computadores.
+    Componentes de um computador (hardware e software).
+    Conceitos de segurança da informação:
+        noções básicas de segurança da informação.
+        Políticas de Segurança da Informação.
+        Classificação da informação, segurança física e segurança lógica.
+        Análise e gerenciamento de riscos.
+        Ameaça, tipos de ataques e vulnerabilidade.
+        Ataques e proteções relativos a hardware, sistemas operacionais, aplicações, bancos de dados e redes.
+    Rede Sociais:
+        conceitos e características, vantagens e desvantagens.
+
+CONHECIMENTOS SOBRE HISTÓRIA E GEOGRAFIA DE RONDÔNIA
+    Geografia de Rondônia:
+        Clima.
+        Solos.
+        Regime pluviométrico.
+        Hidrografia.
+        Relevo.
+        Principais tribos indígena de Rondônia.
+
+    Economia do Estado de Rondônia:
+        Extrativismo, Agropecuária., Mineração, Indústria e Comércio.
+
+    História de Rondônia:
+        a ocupação territorial, os fluxos migratórios, diferentes ciclos econômicos (borracha/látex, madeira, minérios).
+        A construção da Estrada de Ferro Madeira-Mamoré.
+        A criação do Território Federal do Guaporé e do Estado de Rondônia.
+        Delimitação do território e das divisas.
+
+LEGISLAÇÃO
+    Lei Orgânica do Município de Porto Velho/RO e atualizações.
+    Regimento Interno da Câmara Municipal de Porto Velho/RO (Resolução nº 254/1991 e atualizações).
+    Regime Jurídico dos Servidores Públicos Municipais de Porto Velho/RO (Lei Municipal nº 385/2010 e atualizações).
+    Plano de Cargos, Carreira e Salários da Câmara Municipal de Porto Velho/RO (Lei Municipal nº 258/2006, e atualizações).
+    Conhecimento da Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência).
+    Constituição da República Federativa do Brasil
+    Noções de Direito Constitucional:
+        Constituição Brasileira:
+            Título I - Dos Princípios Fundamentais.
+            Título II - Dos Direitos e Garantias Fundamentais: do art. 5º ao art. 13.
+            Título III - Da Organização do Estado:
+                Capítulo IV - Dos Municípios - art. 29, 29-A, 30, 31 e
+                Capítulo VII - Da Administração Pública – art. 37, 38 e 39.
+    Lei de Licitações e Pregão (Lei Federal nº 14.133/2021).
+    Legislações Federal, Estadual e Municipal (se houver) de
+    Acesso à Informação.
