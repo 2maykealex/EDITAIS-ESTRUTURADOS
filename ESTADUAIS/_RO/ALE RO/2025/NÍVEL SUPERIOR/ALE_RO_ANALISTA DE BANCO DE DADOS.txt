@@ -1,0 +1,27 @@
+ALE-RO
+Edital em:
+    https://www.fgv.br/fgvprojetos/concursos/alero25
+
+TECNOLOGIA DA INFORMAÇÃO – BANCO DE DADOS:
+
+    Fundamentos de Computação: organização básica de computadores. Componentes de um computador
+    (hardware e software). Conhecimentos de linguagens de programação, compiladores e interpretadores.
+    Noções de linguagens procedurais: tipos de dados elementares e estruturados, funções e procedimentos.
+    Representação de dados numéricos, textuais e estruturados; aritmética computacional. Estruturas de dados
+    e algoritmos: estruturas de dados: listas, filas, pilhas e árvores; métodos de acesso, busca, inserção e
+    ordenação em estruturas de dados; complexidade de algoritmos. Programação: conhecimentos de C#, Java,
+    Python, JavaScript, JQuery. Sistemas operacionais: noções de Windows 11, Linux Ubuntu 25.x. Bancos de
+    dados: Modelagem de dados, conceitual e semântica. Modelo de Entidades e Relacionamentos. Notação
+    IDEF1X. Sistema relacional: teoria, estrutura, linguagens, operações, normalização, integridade. Projeto de
+    bancos de dados: teoria. Dependências funcionais. Normalização. Linguagem SQL. Consultas e subconsultas.
+    Comandos de consulta, inserção, alteração e remoção de registros. Outros comandos para manipulação
+    (DML), controle (DCL) e descrição de dados (DDL). Técnicas de implementação de SGBD. Transações:
+    conceito, propriedades e implementação. Processamento e otimização de consultas. Recuperação e
+    concorrência. Segurança em bancos de dados. Distribuição de dados e transações. Interfaces de utilização:
+    principais propriedades e características das bibliotecas mais difundidas. Algoritmos de busca e indexação:
+    sequenciais, árvores, hashing, bitmaps. Bancos de dados NoSQL. Conceitos de Data Warehouse, Data Mining,
+    OLAP e ETL. Técnicas de modelagem e otimização de bases de dados multidimensionais. Administração de
+    bancos de dados. Administração de dados e metadados: gestão, organização, coleta e manutenção.
+    Gerenciadores de bancos de dados. Sólidos conhecimentos PostgreSQL, MS SQL Server, MySQL. Instalação,
+    operação, tunning, manutenção, gerenciamento, backup. Criação e manutenção de views, funções, stored
+    procedures, triggers, segurança. Conexões. Manipulação e armazenagem de dados com XML.

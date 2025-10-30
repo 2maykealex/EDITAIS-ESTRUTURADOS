@@ -1,0 +1,37 @@
+ALE-RO
+Edital em:
+    https://www.fgv.br/fgvprojetos/concursos/alero25
+
+TECNOLOGIA DA INFORMAÇÃO – INFRAESTRUTURA DE REDES E COMUNICAÇÃO:
+
+    Fundamentos de Computação: organização básica de computadores, componentes de um computador
+    (hardware e software), conhecimentos de linguagens de programação, compiladores e interpretadores.
+    Noções de linguagens procedurais: tipos de dados elementares e estruturados, funções e procedimentos,
+    representação de dados numéricos, textuais e estruturados, aritmética computacional. Estruturas de dados
+    e algoritmos: estruturas de dados como listas, filas, pilhas e árvores; métodos de acesso, busca, inserção e
+    ordenação em estruturas de dados; complexidade de algoritmos. Programação: noções de C#, Java e Python.
+    Sistemas operacionais: conhecimentos de Windows 11 e Linux Ubuntu 25.x. Redes de Computadores e
+    Sistemas Distribuídos: arquiteturas de rede, topologias, tecnologias de rede LAN, WAN e Wireless,
+    equipamentos de conexão e transmissão, cabeamento estruturado, categorias de cabo par trançado, fibra
+    óptica monomodo e multimodo, modelos de referência OSI e TCP/IP e principais protocolos, endereçamento
+    IPv4 e IPv6, conceitos e criação de redes, tecnologias MPLS, LAN-to-LAN. Roteamento e Switching: princípios
+    de roteamento; protocolos de roteamento estático e dinâmico (OSPF, BGP, RIP); redistribuição de rotas;
+    roteamento interno (IGP) e externo (EGP); VLANs, trunking, STP e EtherChannel, SD-WAN e redes definidas
+    por software (SDN), conceitos de ASN, peering, trânsito IP e CDN. Redes wireless (Wi-Fi): padrões IEEE
+    802.11a/n/ac/ax. Conceitos de Storage: DAS, NAS e SAN. IEEE 802.1x e RADIUS. Noções sobre protocolos
+    para aplicações de áudio e vídeo (videoconferência e telefonia VoIP): SIP e H.323. Serviços de Rede: serviços
+    de nomes (Windows DNS Server), serviços de diretório (Microsoft Active Directory 2022), servidores DHCP e
+    de arquivos. Monitoramento e auditoria de tráfego de informação, interpretação de pacotes e análise de
+    registros de logs. Computação distribuída (clusters, balanceamento de carga e tolerância a falhas).
+    Computação em Nuvem: conceitos de IaaS, PaaS e SaaS e principais provedores (AWS, Azure e Google Cloud).
+    Virtualização: conceitos e fundamentos de virtualização, benefícios e tipos de virtualização (servidores,
+    desktops, redes e armazenamento), hipervisores tipo 1 e tipo 2, principais tecnologias como VMware
+    vSphere/ESXi, Microsoft Hyper-V e Proxmox VE, criação e gerenciamento de máquinas virtuais, snapshots,
+    clonagem e templates, configuração de recursos de CPU, memória, disco e rede virtual, containers e
+    orquestração com Docker, Podman, Kubernetes e OpenShift, alta disponibilidade (HA) e balanceamento de
+    carga, migração de máquinas virtuais (live migration e cold migration), backup e recuperação de VMs.
+    Segurança em Redes de Computadores: prevenção e tratamento de incidentes, dispositivos de segurança
+    (Firewalls NGFW, IDS, IPS, proxies, WAF, NAT e VPN), tipos de ataques (spoofing, flood, DoS, DDoS e phishing),
+    malwares (vírus de computador, cavalo de Tróia, adware, spyware, backdoors, keylogger, worms e
+    ransomwares) e criptografia (conceitos básicos e aplicações, protocolos criptográficos, criptografia simétrica,
+    assimétrica e hash).

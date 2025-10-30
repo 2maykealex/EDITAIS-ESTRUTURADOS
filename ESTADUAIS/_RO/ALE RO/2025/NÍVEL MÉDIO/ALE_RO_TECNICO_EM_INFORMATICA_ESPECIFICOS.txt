@@ -1,0 +1,120 @@
+ALE-RO
+Edital em:
+    https://www.fgv.br/fgvprojetos/concursos/alero25
+
+CARGO DE NÍVEL MÉDIO - ASSISTENTE LEGISLATIVO - ESPECIALIDADE TÉCNICO EM INFORMÁTICA
+
+MÓDULO II – CONHECIMENTOS ESPECÍFICOS
+
+    Arquitetura de computadores:
+        hardware,
+        componentes,
+        funções e especificações técnicas;
+        unidade central de processamento (CPU),
+        clock,
+        núcleos,
+        threads e conjunto de instruções;
+
+        tipos e tecnologias de memória:
+            ROM,
+            RAM,
+            CACHE,
+            FLASH,
+            EEPROM;
+
+        dispositivos de entrada, saída e armazenamento:
+            teclado,
+            mouse,
+            impressoras,
+            monitores,
+            HD,
+            SSD,
+            pendrives,
+            mídias ópticas;
+            barramentos,
+            portas e conectores (USB,
+            HDMI,
+            DisplayPort,
+            Ethernet,
+            SATA,
+            M.2).
+
+    Montagem, manutenção e diagnóstico de hardware.
+    Sistemas operacionais:
+        Windows 10/11 e Windows Server 22:
+            conceitos
+                (sistemas operacionais,
+                aplicativos e
+                utilitários);
+
+        instalação,
+        configuração e atualização de sistemas,
+        estrutura de diretórios,
+        gerenciamento de
+        arquivos e permissões,
+        processos,
+        inicialização,
+        serviços e comandos básicos;
+        configuração de rede,
+        compartilhamento de recursos e usuários;
+        Microsoft Active Directory 2022.
+
+    Programação (Python):
+        Lógica de Programação,
+        Variáveis e Constantes,
+        Tipos de Dados, Operadores e Estruturas de Controle.
+
+    Pacotes de escritório:
+        MS Office 2021 e Microsoft 365 (Word, Excel, PowerPoint, OneDrive, Teams e Access):
+            principais funcionalidades,
+            recursos de colaboração em nuvem.
+
+        Google Workspace (Gmail, Documentos, Planilhas, Apresentações, Drive, Meet e Agenda):
+            conceitos e utilização de ferramentas colaborativas.
+
+    Navegadores (Microsoft Edge, Google Chrome, Mozilla Firefox).
+
+    Redes de computadores:
+        dispositivos de rede:
+            hub,
+            switch,
+            roteador,
+            access point
+
+    conceitos básicos de redes locais:
+        LAN, WLAN e WAN,
+
+    topologias,
+    cabeamento estruturado,
+    padrões Ethernet,
+    conectores,
+    IP,
+    máscara de sub-rede,
+    gateway,
+    DNS,
+    DHCP,
+    NAT,
+    VLAN;
+    configuração de adaptadores de rede,
+    Pilha TCP/IP,
+    camadas e protocolos,
+    endereçamento IPv4 e IPv6.
+
+    Redes wireless (Wi-Fi):
+        padrões IEEE 802.11a/n/ac/ax.
+        Noções de virtualização e computação em nuvem:
+        conceitos, máquinas virtuais (Hyper-V, VirtualBox);
+
+    Noções sobre protocolos para aplicações de áudio e vídeo (videoconferência, telefonia VoIP):
+        SIP,
+        H.323.
+
+    Segurança da informação:
+        antivírus,
+        firewall,
+        autenticação
+        multifator,
+        senhas seguras,
+        backup (Completo, Diferencial e Incremental),
+        restauração de sistemas,
+        criptografia básica e ameaças digitais (malware, phishing, ransomware).
