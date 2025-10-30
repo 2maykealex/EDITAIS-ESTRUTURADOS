@@ -1,0 +1,94 @@
+TECNOLOGIA DA INFORMAÇÃO – INFRAESTRUTURA DE REDES E COMUNICAÇÃO:
+
+FUNDAMENTOS DE COMPUTAÇÃO:
+    organização básica de computadores.
+    Componentes de um computador (hardware e software).
+    Conhecimentos de linguagens de programação, compiladores e interpretadores.
+
+    Noções de linguagens procedurais:
+        tipos de dados elementares e estruturados,
+        funções e procedimentos.
+        Representação de dados numéricos,
+        textuais e estruturados;
+        aritmética computacional.
+
+ESTRUTURAS DE DADOS E ALGORITMOS:
+    estruturas de dados:
+        listas,
+        filas,
+        pilhas e árvores;
+        métodos de acesso,
+        busca,
+        inserção e ordenação em estruturas de dados;
+    complexidade de algoritmos.
+
+PROGRAMAÇÃO: 
+    noções de C#, 
+    Java, 
+    Python, 
+    JavaScript, JQuery, 
+    HTML5 e CSS3.
+
+SISTEMAS OPERACIONAIS: 
+    sólidos conhecimentos de Windows 10, Linux CentOS 7.
+
+REDES:
+    Redes de Computadores e Sistemas Distribuídos:
+        Arquiteturas de rede; 
+        Topologias; 
+        Tecnologias de rede LAN, WAN e Wireless; 
+        Equipamentos de conexão e transmissão; 
+        QOS; 
+        Modelo OSI da ISO; 
+        Arquitetura e protocolos TCP/IP; 
+    Protocolos da camada de aplicação:
+        DNS, FTP, NFS, TELNET, SMTP, HTTP, LDAP, DHCP, SSH e SNMP; 
+    Protocolos da camada de Rede:
+        IP (IPv4, IPv6), IPSEC, ICMP, ARP, RARP e NAT; 
+    Conceitos de Storage (DAS, NAS e SAN).
+
+SEGURANÇA EM REDES DE COMPUTADORES:
+    prevenção e tratamento de incidentes; Dispositivos de segurança:
+        firewalls, IDS, IPS, proxies, NAT e VPN; Tipos de ataques:
+    spoofing, flood, DoS, DDoS, phishing; Malwares:
+vírus de computador, cavalo de Tróia, adware, spyware, backdoors, keylogger, worms.
+Criptografia.
+Conceitos básicos e aplicações; Protocolos criptográficos; Criptografia simétrica e assimétrica; Principais
+algoritmos; Assinatura e certificação digital.
+Serviços de Rede:
+    Serviços de nomes (BIND e Windows DNS
+Server) Serviços de diretório (Microsoft Active Directory 2003 e 2008).
+Servidores de páginas em HTML
+(Apache e IIS).
+Servidores de correio eletrônico.
+Servidores de aplicação Java Platform, Enterprise Edition
+(JEE).
+Servidores DHCP.
+Servidores de arquivos.
+Redes virtuais privadas (VPN).
+Infraestrutura:
+    Estratégias de
+servidores físicos e virtualizados e Computação em Nuvem (Cloud Computing).
+Arquiteturas de firewalls.
+Monitoramento e Auditoria de tráfego de Informação.
+Interpretação de pacotes.
+Análise de registro de logs.
+Detecção e prevenção de ataques (IDS e IPS).
+    Segurança da Informação:
+        Gerência de Riscos.
+    Classificação e
+    controle dos ativos de informação.
+    Controles de acesso físico e lógico.
+    Plano de Continuidade de Negócio
+    (plano de contingência, de recuperação de desastres).
+    Ataques e proteções relativos a hardware, software,
+    sistemas operacionais, aplicações, bancos de dados, redes, pessoas e ambiente físico.
+    Normatização:
+        políticas
+    e normas de segurança, conceitos, diretrizes, aplicação, organização e documentação.
+    Gestão de riscos de
+    segurança da informação - ABNT NBR ISO/IEC 27005:2011.
+    Sistemas de gestão da segurança da informação
+    — ABNT NBR ISO/IEC 27001:2013.
+    Código de prática para controles de segurança da informação - ABNT NBR
+    ISO/IEC 27002:2013.

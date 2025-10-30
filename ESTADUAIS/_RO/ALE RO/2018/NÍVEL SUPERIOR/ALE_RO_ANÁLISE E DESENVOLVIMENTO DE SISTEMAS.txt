@@ -1,0 +1,33 @@
+TECNOLOGIA DA INFORMAÇÃO – ANÁLISE E DESENVOLVIMENTO DE SISTEMAS:
+Fundamentos de Computação: organização básica de computadores. Componentes de um computador
+(hardware e software). Conhecimentos de linguagens de programação, compiladores e interpretadores.
+Noções de linguagens procedurais: tipos de dados elementares e estruturados, funções e procedimentos.
+Representação de dados numéricos, textuais e estruturados; aritmética computacional. Estruturas de dados
+e algoritmos: estruturas de dados: listas, filas, pilhas e árvores; métodos de acesso, busca, inserção e
+ordenação em estruturas de dados; complexidade de algoritmos.
+Programação: sólidos conhecimentos de C#, Java, Python, JavaScript, JQuery, NodeJS, HTML 5 e CSS3.
+Sistemas operacionais: conhecimentos de Windows 10, Linux CentOS 7.
+Bancos de dados: modelagem de dados, conceitual e semântica. Modelo de Entidades e Relacionamentos.
+Notação IDEF1X. Sistema relacional: teoria, estrutura, linguagens, operações, normalização, integridade.
+Projeto de bancos de dados: teoria. Dependências funcionais. Normalização. Linguagem SQL. Consultas e
+subconsultas. Comandos de consulta, inserção, alteração e remoção de registros. Interfaces de utilização:
+principais propriedades e características das bibliotecas mais difundidas. ODBC. Camadas de persistência.
+Algoritmos de busca e indexação: sequenciais, árvores, hashing, bitmaps. Gerenciadores de bancos de dados.
+Conhecimentos de Oracle 11g, MS SQL Server 2014, MySQL 5.x. Engenharia de software: Metodologias de
+desenvolvimento de software. Processo unificado: disciplinas, fases, papéis e atividades. Metodologias ágeis.
+Métricas e estimativas de software. Qualidade de software. Engenharia de requisitos. Técnicas de elicitação
+de requisitos. Gerenciamento de requisitos. Especificação de requisitos. Técnicas de validação de requisitos.
+Prototipação. Análise e projeto orientados a objetos. UML 2.5.1: visão geral, modelos e diagramas. Padrões
+de projeto. Interoperabilidade de sistemas: SOA e Web Services; Padrões XML, XSLT, UDDI, WSDL, SOAP e
+REST. Frameworks de arquitetura – Conceitos; Noções de computação distribuída (clusters, balanceamento
+de carga e tolerância a falhas); Arquitetura Orientada a Serviços (SOA - Service Oriented Architecture).
+Segurança no desenvolvimento: práticas de programação segura e revisão de código; controles e testes de
+segurança para aplicações web; controles e testes de segurança para Web Services. Técnicas de testes de
+software. Aplicações Web.
+Segurança da Informação: Gerência de Riscos. Classificação e controle dos ativos de informação. Controles
+de acesso físico e lógico. Plano de Continuidade de Negócio (plano de contingência, de recuperação de
+desastres). Ataques e proteções relativos a hardware, software, sistemas operacionais, aplicações, bancos
+de dados, redes, pessoas e ambiente físico. Normatização: políticas e normas de segurança, conceitos,
+diretrizes, aplicação, organização e documentação. Gestão de riscos de segurança da informação - ABNT NBR
+ISO/IEC 27005:2011. Sistemas de gestão da segurança da informação — ABNT NBR ISO/IEC 27001:2013.
+Código de prática para controles de segurança da informação - ABNT NBR ISO/IEC 27002:2013.
