@@ -4,37 +4,119 @@ Edital em:
 
 TECNOLOGIA DA INFORMAÇÃO – ANÁLISE E DESENVOLVIMENTO DE SISTEMAS:
 
-    Fundamentos de Computação: organização básica de computadores. Componentes de um computador
-    (hardware e software). Conhecimentos de linguagens de programação, compiladores e interpretadores.
-    Noções de linguagens procedurais: tipos de dados elementares e estruturados, funções e procedimentos.
-    Representação de dados numéricos, textuais e estruturados; aritmética computacional. Estruturas de dados
-    e algoritmos: estruturas de dados: listas, filas, pilhas e árvores; métodos de acesso, busca, inserção e
-    ordenação em estruturas de dados; complexidade de algoritmos. Programação: sólidos conhecimentos de
-    C#, Java, Python, JavaScript, JQuery, NodeJS, HTML 5 e CSS3. Sistemas operacionais: conhecimentos de
-    Windows 11, Linux Ubuntu 25.x. Bancos de dados: modelagem de dados, conceitual e semântica. Modelo de
-    Entidades e Relacionamentos. Notação IDEF1X. Sistema relacional: teoria, estrutura, linguagens, operações,
-    normalização, integridade. Projeto de bancos de dados: teoria. Dependências funcionais. Normalização.
-    Linguagem SQL. Consultas e subconsultas. Comandos de consulta, inserção, alteração e remoção de registros.
-    Interfaces de utilização: principais propriedades e características das bibliotecas mais difundidas. Camadas
-    de persistência. Algoritmos de busca e indexação: sequenciais, árvores, hashing, bitmaps. Gerenciadores de
-    bancos de dados. Conhecimentos de PostgreSQL, MS SQL Server, MySQL. Engenharia de software:
-    Metodologias de desenvolvimento de software. Processo unificado: disciplinas, fases, papéis e atividades.
-    Metodologias ágeis. Métricas e estimativas de software. Qualidade de software. Engenharia de requisitos.
-    Técnicas de elicitação de requisitos. Gerenciamento de requisitos. Especificação de requisitos. Técnicas de
-    validação de requisitos. Prototipação. Análise e projeto orientados a objetos. UML 2.5.1: visão geral, modelos
-    e diagramas. Padrões de projeto. Interoperabilidade de sistemas: SOA e Web Services; Padrões XML, XSLT,
-    UDDI, WSDL, SOAP e REST. Frameworks de arquitetura – Conceitos; Noções de computação distribuída
-    (clusters, balanceamento de carga e tolerância a falhas); Arquitetura Orientada a Serviços (SOA - Service
-    Oriented Architecture). Fundamentos de DevOps: Conceitos, princípios e objetivos; Controle de Versão:
-    Conceitos e práticas de versionamento de código; sistemas de controle de versão distribuído; Git: comandos,
-    ramificações (branches), merge e pull requests; plataformas GitHub, GitLab e Bitbucket: pipelines,
-    repositórios, integração e permissões. Integração e Entrega Contínuas (CI/CD): Conceitos e ferramentas;
-    automação de build, testes e deploy; configuração de pipelines; gerenciamento de artefatos; ambientes de
-    teste, homologação e produção; rollback e versionamento de releases. Contêineres e Orquestração:
-    Conceitos de containerização; criação, configuração e gerenciamento de contêineres com Docker; imagens,
-    volumes e redes; Docker Compose; orquestração com Kubernetes: pods, deployments, services,
-    namespaces, volumes e escalabilidade; monitoramento e logs em ambientes containerizados. Computação
-    em Nuvem: Conceitos e modelos de serviço (IaaS, PaaS, SaaS); provedores de nuvem (AWS, Azure, Google
-    Cloud); gerenciamento de recursos e custos; práticas de segurança e conformidade em nuvem. Ferramentas
-    e Tecnologias Relacionadas: Jenkins, GitLab CI/CD, ArgoCD, Nexus, SonarQube, Helm, Docker Hub;
-    automação com scripts em Shell, Python ou PowerShell; uso de APIs e Webhooks em processos DevOps.
+    Fundamentos de Computação:
+        organização básica de computadores.
+        Componentes de um computador (hardware e software).
+
+    Conhecimentos de linguagens de programação, compiladores e interpretadores.
+
+    Noções de linguagens procedurais:
+        tipos de dados elementares e estruturados, funções e procedimentos.
+
+    Representação de dados numéricos, textuais e estruturados; aritmética computacional.
+
+    Estruturas de dados e algoritmos:
+        estruturas de dados:
+        listas, filas, pilhas e árvores; métodos de acesso, busca, inserção e ordenação em estruturas de dados;
+        complexidade de algoritmos.
+
+    Programação:
+        sólidos conhecimentos de C#, Java, Python, JavaScript, JQuery, NodeJS, HTML 5 e CSS3.
+
+    Sistemas operacionais:
+        conhecimentos de Windows 11, Linux Ubuntu 25.x.
+
+    Bancos de dados:
+        modelagem de dados, conceitual e semântica.
+
+    Modelo de Entidades e Relacionamentos.
+    Notação IDEF1X.
+
+    Sistema relacional:
+        teoria, estrutura, linguagens, operações, normalização, integridade.
+
+    Projeto de bancos de dados:
+        teoria.
+        Dependências funcionais.
+        Normalização.
+        Linguagem SQL.
+        Consultas e subconsultas.
+        Comandos de consulta, inserção, alteração e remoção de registros.
+
+    Interfaces de utilização:
+        principais propriedades e características das bibliotecas mais difundidas.
+        Camadas de persistência.
+
+    Algoritmos de busca e indexação:
+        sequenciais, árvores, hashing, bitmaps.
+        Gerenciadores de bancos de dados.
+
+    Conhecimentos de PostgreSQL, MS SQL Server, MySQL.
+    Engenharia de software:
+        Metodologias de desenvolvimento de software.
+
+    Processo unificado:
+        disciplinas, fases, papéis e atividades.
+
+    Metodologias ágeis.
+        Métricas e estimativas de software.
+        Qualidade de software.
+        Engenharia de requisitos.
+        Técnicas de elicitação de requisitos.
+        Gerenciamento de requisitos.
+        Especificação de requisitos.
+        Técnicas de validação de requisitos.
+        Prototipação.
+        Análise e projeto orientados a objetos.
+        UML 2.5.1:
+            visão geral, modelos e diagramas.
+
+    Padrões de projeto.
+    Interoperabilidade de sistemas:
+        SOA e Web Services; Padrões XML, XSLT, UDDI, WSDL, SOAP e REST.
+        Frameworks de arquitetura – Conceitos;
+
+    Noções de computação distribuída (clusters, balanceamento de carga e tolerância a falhas);
+    Arquitetura Orientada a Serviços (SOA - Service Oriented Architecture).
+    Fundamentos de DevOps:
+        Conceitos, princípios e objetivos;
+        Controle de Versão:
+        Conceitos e práticas de versionamento de código;
+        sistemas de controle de versão distribuído;
+        Git:
+            comandos,
+            ramificações (branches), merge e pull requests;
+            plataformas GitHub, GitLab e Bitbucket:
+                pipelines,
+                repositórios,
+                integração e permissões.
+
+    Integração e Entrega Contínuas (CI/CD):
+        Conceitos e ferramentas;
+        automação de build, testes e deploy;
+        configuração de pipelines;
+        gerenciamento de artefatos;
+        ambientes de teste, homologação e produção;
+        rollback e versionamento de releases.
+
+    Contêineres e Orquestração:
+        Conceitos de containerização;
+        criação, configuração e gerenciamento de contêineres com Docker;
+        imagens,
+        volumes e redes;
+        Docker Compose;
+
+    orquestração com Kubernetes:
+        pods, deployments, services,
+        namespaces, volumes e escalabilidade;
+        monitoramento e logs em ambientes containerizados.
+        Computação em Nuvem:
+            Conceitos e modelos de serviço (IaaS, PaaS, SaaS);
+            provedores de nuvem (AWS, Azure, Google Cloud);
+
+    gerenciamento de recursos e custos;
+    práticas de segurança e conformidade em nuvem.
+    Ferramentas e Tecnologias Relacionadas:
+        Jenkins, GitLab CI/CD, ArgoCD, Nexus, SonarQube, Helm, Docker Hub;
+        automação com scripts em Shell, Python ou PowerShell;
+        uso de APIs e Webhooks em processos DevOps.
