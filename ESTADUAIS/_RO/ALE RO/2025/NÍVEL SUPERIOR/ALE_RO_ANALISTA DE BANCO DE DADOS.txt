@@ -1,6 +1,6 @@
 ALE-RO
 Edital em:
-    https://www.fgv.br/fgvprojetos/concursos/alero25
+    https://conhecimento.fgv.br/concursos/alero25
 
 TECNOLOGIA DA INFORMAÇÃO – BANCO DE DADOS:
 
